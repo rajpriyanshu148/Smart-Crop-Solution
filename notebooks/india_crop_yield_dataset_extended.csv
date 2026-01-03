@@ -1,0 +1,3001 @@
+State,Crop,Season,Area,Annual_Rainfall,Fertilizer,Yield
+Karnataka,soybean,Kharif,13.76,397.6,335.0,38.07
+Tamil Nadu,groundnut,Kharif,16.57,771.64,183.5,40.96
+Punjab,groundnut,Kharif,3.97,1639.01,307.75,49.58
+Tamil Nadu,tea,Zaid,17.58,2801.45,336.66,60.0
+Punjab,turmeric,Rabi,5.71,529.96,272.77,44.56
+Odisha,rice,Rabi,4.74,2459.64,265.27,55.56
+Telangana,groundnut,Zaid,16.13,2591.22,65.51,49.46
+Karnataka,soybean,Rabi,18.02,1623.09,296.78,50.94
+Kerala,maize,Zaid,17.81,2186.92,180.86,52.49
+Bihar,cumin,Zaid,5.97,1911.66,195.85,35.45
+Uttar Pradesh,rice,Rabi,16.19,2453.12,246.37,61.58
+Punjab,soybean,Zaid,2.08,1351.58,72.51,36.03
+Maharashtra,wheat,Rabi,4.0,2594.74,153.18,53.54
+Bihar,sugarcane,Zaid,1.08,1451.47,77.94,84.38
+Telangana,cotton,Zaid,7.78,1332.15,216.9,46.67
+Odisha,coffee,Rabi,11.31,2033.1,114.74,42.43
+Punjab,maize,Rabi,13.67,2793.88,61.69,41.24
+Maharashtra,millet,Kharif,1.42,501.32,227.5,34.38
+Odisha,chilli,Zaid,4.92,2670.78,167.76,51.66
+West Bengal,pulses,Zaid,9.42,398.86,244.83,24.06
+Kerala,groundnut,Zaid,7.58,1067.19,279.33,43.33
+Andhra Pradesh,rice,Zaid,8.16,1157.37,159.96,47.18
+Punjab,coffee,Rabi,18.0,2797.83,231.76,47.09
+Uttar Pradesh,coriander,Kharif,14.9,2157.36,290.52,45.98
+Odisha,ginger,Zaid,6.58,1714.66,143.47,41.04
+Odisha,cotton,Kharif,9.67,941.33,113.79,27.96
+Uttar Pradesh,cotton,Rabi,3.9,640.88,157.03,28.16
+Andhra Pradesh,millet,Zaid,18.01,1039.69,205.37,33.58
+Haryana,maize,Rabi,16.34,2058.8,102.7,47.48
+Punjab,soybean,Rabi,16.19,692.07,333.36,42.54
+Karnataka,tea,Rabi,8.22,2868.53,80.12,46.54
+Haryana,wheat,Zaid,2.73,413.99,99.5,34.22
+Uttar Pradesh,tea,Rabi,11.98,1391.48,243.32,45.41
+Rajasthan,millet,Zaid,4.38,2031.07,201.0,39.31
+Haryana,rice,Zaid,12.47,2971.33,77.54,54.58
+Bihar,turmeric,Kharif,14.72,959.61,330.01,42.87
+Bihar,turmeric,Rabi,2.25,1206.01,99.4,38.8
+Odisha,chilli,Zaid,5.76,2437.47,197.3,54.64
+Madhya Pradesh,soybean,Kharif,7.02,2921.23,61.94,54.62
+Kerala,chilli,Kharif,18.76,2330.01,216.04,45.17
+Andhra Pradesh,tea,Rabi,17.98,2758.85,334.79,56.29
+Kerala,cumin,Kharif,4.64,2404.88,47.61,36.44
+Maharashtra,chilli,Zaid,18.17,2953.11,52.45,47.29
+Uttar Pradesh,millet,Zaid,10.47,1770.07,223.15,42.81
+Rajasthan,millet,Zaid,2.21,793.81,206.79,31.13
+Madhya Pradesh,soybean,Zaid,20.0,1734.73,84.19,43.97
+Punjab,rice,Kharif,14.0,422.39,51.36,38.67
+Assam,coffee,Zaid,6.22,1122.46,313.59,37.9
+Uttar Pradesh,soybean,Rabi,15.36,2255.64,154.03,44.44
+Tamil Nadu,soybean,Kharif,16.43,1281.56,115.31,37.65
+Uttar Pradesh,ginger,Rabi,12.85,2470.58,224.7,50.77
+Karnataka,pulses,Kharif,15.44,1688.94,143.32,30.89
+Odisha,rice,Rabi,6.21,507.24,64.13,30.22
+West Bengal,coriander,Rabi,13.67,342.67,189.59,23.67
+Odisha,millet,Zaid,16.32,2549.23,165.63,45.45
+Bihar,ginger,Rabi,18.0,523.02,171.82,34.51
+Madhya Pradesh,ginger,Kharif,10.79,2967.61,250.71,54.87
+Haryana,wheat,Rabi,9.37,2236.6,99.52,51.3
+Kerala,turmeric,Zaid,19.51,1156.25,139.33,42.23
+Bihar,pulses,Rabi,2.77,1995.59,338.73,44.25
+Telangana,cotton,Rabi,6.62,2027.24,329.76,43.65
+Assam,tea,Zaid,15.05,1841.06,242.1,43.73
+Odisha,pulses,Kharif,1.18,2677.9,157.67,45.76
+Karnataka,pulses,Rabi,10.81,2690.45,200.42,42.29
+Kerala,soybean,Zaid,13.33,2845.58,342.45,60.69
+Uttar Pradesh,rice,Rabi,7.79,592.18,221.97,45.61
+Maharashtra,ginger,Zaid,8.43,487.0,98.14,32.86
+Andhra Pradesh,tea,Rabi,18.41,2163.92,102.96,45.83
+Kerala,turmeric,Rabi,11.07,1591.95,43.06,41.05
+Madhya Pradesh,chilli,Kharif,18.24,1849.34,214.23,49.32
+Assam,rice,Rabi,16.41,466.81,158.82,38.87
+Odisha,rice,Kharif,18.08,848.87,113.11,42.62
+Odisha,coffee,Zaid,11.35,1002.2,98.65,26.05
+Assam,coffee,Rabi,2.26,450.49,282.97,30.46
+Madhya Pradesh,rice,Zaid,2.55,2258.72,208.26,57.95
+Karnataka,ginger,Rabi,16.49,867.97,332.91,43.84
+Telangana,wheat,Rabi,14.71,1379.56,92.31,38.16
+Tamil Nadu,sugarcane,Rabi,3.85,563.29,293.91,81.06
+Odisha,tea,Kharif,2.29,2304.4,327.11,55.85
+Madhya Pradesh,chilli,Kharif,10.78,817.65,312.47,41.01
+Telangana,ginger,Kharif,14.49,2789.93,294.08,59.08
+Telangana,soybean,Zaid,2.35,1417.36,146.85,37.55
+Haryana,sugarcane,Kharif,11.26,1977.7,125.27,93.65
+Assam,tea,Kharif,8.6,1584.35,109.41,36.21
+Kerala,rice,Zaid,11.53,1897.07,192.65,50.18
+Tamil Nadu,rice,Zaid,8.58,768.48,254.05,42.48
+Uttar Pradesh,ginger,Kharif,5.87,2200.51,117.93,47.1
+Uttar Pradesh,wheat,Kharif,14.31,309.26,213.97,47.74
+Madhya Pradesh,tea,Rabi,10.82,1979.37,84.21,36.58
+Karnataka,soybean,Kharif,4.37,994.96,125.9,37.89
+Madhya Pradesh,sugarcane,Zaid,14.66,2932.03,66.67,95.11
+Kerala,pulses,Zaid,14.97,2025.34,47.25,37.3
+Maharashtra,millet,Kharif,17.28,2058.31,334.62,52.22
+Assam,coffee,Kharif,9.26,602.57,243.8,28.89
+Maharashtra,soybean,Rabi,9.08,1948.14,254.52,49.08
+Bihar,pulses,Zaid,3.15,730.7,190.38,33.79
+Odisha,chilli,Rabi,15.76,1725.53,118.85,37.3
+Andhra Pradesh,turmeric,Rabi,9.26,2192.66,82.77,49.76
+Uttar Pradesh,ginger,Rabi,15.7,584.19,172.78,38.82
+Rajasthan,cumin,Kharif,10.44,2962.31,161.4,41.57
+Karnataka,cotton,Kharif,18.18,1131.52,167.27,34.95
+Uttar Pradesh,sugarcane,Rabi,2.75,1208.12,342.1,92.73
+Maharashtra,cumin,Rabi,7.52,1690.1,254.71,41.34
+Tamil Nadu,turmeric,Rabi,9.43,2664.18,224.01,56.5
+Telangana,rice,Zaid,4.69,2717.43,195.94,58.94
+Odisha,sugarcane,Rabi,17.07,2859.44,177.55,98.94
+Haryana,ginger,Kharif,14.38,2997.55,145.74,54.42
+Bihar,pulses,Kharif,4.67,1657.55,349.58,40.08
+West Bengal,coffee,Rabi,16.89,2144.15,216.31,44.58
+Bihar,cotton,Zaid,10.95,672.64,45.49,32.26
+Haryana,rice,Zaid,2.87,2740.34,231.76,62.8
+Bihar,pulses,Zaid,19.88,1433.16,298.28,40.63
+Assam,coriander,Zaid,19.45,2436.94,282.06,42.56
+Assam,turmeric,Rabi,1.87,1621.07,228.27,51.29
+Odisha,coffee,Rabi,5.53,855.7,43.37,24.16
+Karnataka,cumin,Zaid,2.3,2940.53,289.25,44.83
+Tamil Nadu,maize,Zaid,8.43,1923.54,258.01,53.06
+Rajasthan,coffee,Zaid,14.23,923.52,197.96,34.07
+Karnataka,cotton,Rabi,17.97,1867.53,163.29,38.86
+Assam,coriander,Zaid,18.16,2607.68,186.98,44.69
+Tamil Nadu,rice,Rabi,6.29,458.77,42.94,38.85
+Madhya Pradesh,millet,Zaid,6.92,2821.81,106.28,45.95
+Kerala,millet,Rabi,8.94,324.75,344.79,33.45
+Haryana,millet,Zaid,5.7,837.38,112.27,33.63
+Assam,wheat,Kharif,14.65,711.15,199.36,41.66
+Madhya Pradesh,sugarcane,Kharif,18.7,616.96,68.76,75.86
+Kerala,maize,Rabi,2.33,2442.03,120.46,51.41
+Rajasthan,sugarcane,Zaid,14.4,2868.49,348.53,103.46
+Assam,coffee,Kharif,10.34,2508.44,104.42,37.89
+Kerala,cumin,Rabi,11.79,1407.09,238.25,32.72
+Maharashtra,ginger,Kharif,17.52,1246.42,138.49,39.18
+Telangana,turmeric,Zaid,10.17,2001.98,208.17,45.53
+Andhra Pradesh,coriander,Rabi,19.22,972.36,148.93,35.75
+Madhya Pradesh,pulses,Kharif,6.97,959.02,333.56,36.9
+Kerala,cotton,Kharif,17.78,2166.29,342.5,47.42
+Andhra Pradesh,coriander,Zaid,4.07,2112.0,163.84,45.53
+Madhya Pradesh,coriander,Rabi,2.01,2129.5,227.15,45.81
+West Bengal,wheat,Kharif,1.28,2685.2,349.66,59.89
+Haryana,cumin,Rabi,5.53,1976.63,346.21,42.9
+Telangana,rice,Zaid,18.54,2971.17,279.38,67.22
+Tamil Nadu,rice,Rabi,11.45,2215.04,160.33,54.28
+Assam,sugarcane,Kharif,3.97,579.29,59.16,78.7
+Madhya Pradesh,maize,Zaid,9.3,2667.51,81.51,53.71
+Bihar,pulses,Kharif,11.33,2650.76,279.5,44.5
+Rajasthan,wheat,Zaid,4.46,346.65,162.67,34.28
+Bihar,maize,Kharif,16.66,1799.47,50.37,38.76
+Karnataka,coriander,Rabi,7.0,2963.43,317.39,52.94
+Bihar,millet,Rabi,11.88,2677.24,133.16,45.05
+Punjab,turmeric,Zaid,9.35,2288.87,236.76,49.01
+Madhya Pradesh,wheat,Zaid,18.46,2791.2,183.13,53.31
+Bihar,cumin,Zaid,2.78,503.48,54.99,21.01
+Karnataka,sugarcane,Zaid,19.48,2044.36,129.09,92.67
+Uttar Pradesh,cotton,Zaid,19.14,1370.02,217.04,41.7
+West Bengal,soybean,Zaid,16.68,1388.63,338.02,49.83
+Bihar,tea,Kharif,11.38,944.55,93.1,32.3
+Rajasthan,millet,Rabi,11.13,340.99,316.63,37.86
+Punjab,tea,Zaid,7.48,849.36,343.04,39.39
+Madhya Pradesh,coffee,Kharif,19.62,2132.67,180.49,44.49
+Maharashtra,soybean,Kharif,3.72,1743.58,221.08,50.91
+Uttar Pradesh,coffee,Zaid,12.13,996.29,85.44,30.87
+Odisha,pulses,Zaid,9.63,2021.14,336.44,48.45
+Karnataka,rice,Rabi,13.12,1961.47,41.93,42.76
+Kerala,cumin,Kharif,15.9,1484.82,224.19,37.07
+Andhra Pradesh,cotton,Rabi,8.15,2270.71,103.92,47.54
+Rajasthan,wheat,Rabi,14.86,2809.47,293.44,66.35
+Rajasthan,pulses,Rabi,10.36,2717.51,269.5,46.18
+Maharashtra,chilli,Rabi,1.43,2809.08,317.8,56.16
+Rajasthan,wheat,Rabi,3.49,2712.14,204.94,61.43
+Tamil Nadu,wheat,Rabi,12.46,1660.8,183.32,48.6
+Madhya Pradesh,rice,Kharif,18.78,769.74,224.87,44.24
+Bihar,turmeric,Kharif,4.35,565.47,202.86,40.35
+Tamil Nadu,turmeric,Rabi,9.92,404.27,43.03,29.18
+Maharashtra,tea,Zaid,3.82,1565.06,52.53,35.2
+Telangana,millet,Kharif,3.58,964.7,308.39,45.78
+Tamil Nadu,rice,Zaid,19.21,1320.17,286.23,50.44
+Kerala,cumin,Rabi,7.65,901.35,193.87,34.91
+Punjab,cotton,Kharif,9.85,582.96,99.06,27.03
+Bihar,ginger,Kharif,5.12,396.74,145.0,28.26
+Maharashtra,pulses,Zaid,13.55,1352.92,245.47,35.5
+Assam,rice,Kharif,8.59,2438.39,176.99,56.05
+Maharashtra,pulses,Kharif,12.09,654.95,259.17,30.33
+Andhra Pradesh,chilli,Zaid,9.23,510.16,320.4,39.72
+Haryana,millet,Kharif,10.79,2507.77,216.79,46.73
+Haryana,ginger,Kharif,17.95,1886.93,70.21,43.69
+Bihar,coffee,Zaid,13.89,1818.1,101.34,43.59
+Bihar,cotton,Zaid,12.01,2579.9,197.26,48.13
+Uttar Pradesh,soybean,Rabi,1.28,2883.15,86.25,48.81
+Rajasthan,millet,Rabi,5.3,967.15,133.65,37.69
+Maharashtra,coffee,Kharif,16.39,886.36,242.38,32.81
+Assam,millet,Rabi,13.97,1895.51,133.25,40.11
+Odisha,tea,Kharif,17.85,1600.2,303.95,44.8
+Maharashtra,ginger,Rabi,3.42,1878.38,266.88,48.19
+Tamil Nadu,groundnut,Kharif,5.76,1234.31,323.21,52.95
+Haryana,turmeric,Rabi,5.32,1945.24,266.9,49.89
+Odisha,cotton,Kharif,13.73,324.62,93.18,21.86
+Karnataka,pulses,Rabi,16.05,2797.36,254.6,49.51
+Karnataka,maize,Rabi,8.9,2739.37,348.3,60.83
+Rajasthan,turmeric,Rabi,16.24,931.29,112.18,36.62
+Odisha,sugarcane,Rabi,19.98,324.88,91.11,77.72
+West Bengal,coffee,Kharif,13.16,1384.97,213.06,40.2
+Assam,sugarcane,Kharif,13.74,1320.74,41.1,82.88
+West Bengal,groundnut,Zaid,0.76,1063.61,345.86,44.42
+Tamil Nadu,chilli,Zaid,11.8,2319.43,199.89,44.17
+Kerala,chilli,Kharif,1.38,1669.27,271.43,46.41
+Rajasthan,coffee,Rabi,17.29,2106.37,116.95,38.92
+Maharashtra,rice,Zaid,4.92,2914.16,214.29,58.32
+Bihar,maize,Kharif,4.13,726.71,105.42,31.07
+Karnataka,millet,Rabi,11.43,1162.43,46.47,27.83
+Haryana,sugarcane,Kharif,2.65,2191.06,100.15,94.08
+Punjab,ginger,Kharif,16.9,1890.35,97.57,41.76
+Tamil Nadu,chilli,Rabi,12.45,711.6,310.13,38.52
+Tamil Nadu,ginger,Zaid,2.96,2735.51,285.55,60.94
+Odisha,turmeric,Zaid,11.47,833.85,114.08,38.37
+Bihar,wheat,Kharif,12.93,387.5,106.01,35.74
+Kerala,wheat,Rabi,11.53,1219.01,153.77,41.77
+Bihar,millet,Kharif,19.94,2138.97,285.71,48.26
+Haryana,tea,Kharif,9.41,1122.65,274.96,42.27
+Odisha,groundnut,Zaid,1.55,1695.8,280.07,52.41
+Uttar Pradesh,millet,Kharif,8.77,2437.77,269.73,55.89
+West Bengal,cumin,Rabi,7.32,2792.52,280.55,44.53
+Andhra Pradesh,coriander,Rabi,17.27,1649.67,346.9,47.79
+Uttar Pradesh,tea,Rabi,14.56,1844.42,160.76,43.42
+West Bengal,coffee,Zaid,17.85,1335.92,175.75,38.61
+Punjab,soybean,Kharif,4.41,1184.5,179.36,39.69
+Madhya Pradesh,maize,Rabi,7.94,651.09,333.22,40.44
+Telangana,sugarcane,Zaid,10.19,837.57,180.94,85.05
+Punjab,cotton,Rabi,10.85,988.56,75.23,27.23
+Odisha,cumin,Zaid,3.98,1344.95,59.63,31.11
+Bihar,chilli,Kharif,17.35,419.51,318.93,38.83
+Madhya Pradesh,tea,Rabi,12.43,2276.54,85.26,42.19
+Odisha,rice,Zaid,7.17,1927.89,85.06,51.18
+Assam,groundnut,Rabi,3.99,1293.26,47.02,39.74
+West Bengal,coffee,Rabi,4.68,711.05,246.17,34.09
+Karnataka,sugarcane,Rabi,13.68,1495.05,63.94,81.65
+Telangana,millet,Zaid,9.6,2089.4,222.88,41.93
+West Bengal,groundnut,Zaid,14.22,498.24,226.55,40.54
+Tamil Nadu,cotton,Zaid,17.97,424.17,180.36,27.95
+Kerala,coriander,Zaid,13.09,2443.85,106.14,37.89
+Assam,wheat,Rabi,15.32,1723.17,240.64,48.22
+Haryana,coffee,Rabi,14.24,1235.62,315.59,42.67
+Bihar,chilli,Zaid,4.47,1336.65,88.52,34.77
+Karnataka,cumin,Rabi,10.68,1390.3,169.27,32.63
+Madhya Pradesh,ginger,Rabi,0.9,1477.49,82.64,45.28
+West Bengal,sugarcane,Rabi,9.27,2382.01,286.79,99.73
+Telangana,coriander,Zaid,9.27,2644.04,124.19,45.01
+Bihar,pulses,Rabi,1.95,2691.69,267.42,53.58
+Maharashtra,wheat,Kharif,19.57,853.3,154.25,40.93
+Maharashtra,maize,Kharif,3.83,847.03,253.22,45.53
+Odisha,rice,Rabi,15.34,2060.21,338.51,56.34
+Andhra Pradesh,millet,Kharif,19.64,2786.62,206.41,49.53
+Andhra Pradesh,tea,Rabi,19.45,537.84,70.04,24.53
+Madhya Pradesh,rice,Zaid,16.26,952.56,255.17,49.05
+Bihar,ginger,Zaid,8.98,832.61,112.1,39.68
+Tamil Nadu,maize,Rabi,18.73,394.9,165.89,30.7
+Kerala,groundnut,Kharif,3.77,770.57,54.96,35.29
+Assam,turmeric,Rabi,19.75,596.21,340.17,45.83
+Bihar,turmeric,Rabi,13.66,2657.68,154.38,54.61
+Uttar Pradesh,maize,Kharif,5.7,1888.97,328.05,55.38
+Tamil Nadu,coffee,Kharif,5.15,775.46,346.06,38.85
+Maharashtra,maize,Zaid,15.64,794.43,293.92,43.84
+Bihar,coriander,Rabi,4.62,1377.9,274.84,40.18
+Uttar Pradesh,pulses,Zaid,3.99,2518.57,269.31,41.8
+West Bengal,chilli,Rabi,7.27,2642.7,147.71,49.46
+Assam,coffee,Rabi,17.97,1936.27,194.48,46.03
+Haryana,groundnut,Zaid,15.25,460.46,232.33,43.7
+Haryana,coffee,Kharif,5.36,1916.69,305.08,44.24
+Punjab,cumin,Zaid,0.62,2542.35,241.43,44.61
+Bihar,pulses,Zaid,17.71,1001.41,42.02,27.55
+Uttar Pradesh,soybean,Rabi,8.8,1062.37,156.73,39.44
+Odisha,coriander,Zaid,5.87,1353.09,153.96,33.89
+Kerala,soybean,Zaid,6.33,1847.37,308.39,50.22
+Andhra Pradesh,coriander,Rabi,16.1,798.93,157.74,32.12
+Assam,groundnut,Kharif,18.71,1088.86,299.78,46.56
+Assam,ginger,Zaid,11.37,2687.93,268.37,51.61
+Maharashtra,cumin,Kharif,2.55,1575.45,311.54,37.43
+Rajasthan,sugarcane,Rabi,2.53,695.98,291.37,90.31
+Madhya Pradesh,pulses,Rabi,19.62,1004.07,65.44,24.11
+Odisha,chilli,Zaid,3.36,2524.73,238.94,53.03
+Andhra Pradesh,coriander,Kharif,2.53,594.18,269.18,34.15
+West Bengal,millet,Kharif,6.28,788.8,170.45,31.48
+Andhra Pradesh,tea,Rabi,1.97,2595.14,252.62,49.08
+Madhya Pradesh,tea,Zaid,8.63,2320.76,204.53,45.91
+Haryana,wheat,Rabi,11.28,1980.74,145.65,50.18
+Punjab,wheat,Rabi,14.87,1120.7,188.2,46.01
+Punjab,rice,Kharif,11.15,1531.6,107.16,48.02
+Madhya Pradesh,ginger,Rabi,3.33,1096.7,173.84,40.93
+Maharashtra,rice,Rabi,0.77,1902.05,100.74,50.03
+Karnataka,wheat,Zaid,10.55,2009.98,74.36,45.81
+Karnataka,tea,Kharif,17.12,2476.93,207.28,51.38
+Telangana,tea,Zaid,1.81,2407.3,142.63,44.87
+Andhra Pradesh,pulses,Rabi,13.09,951.67,234.49,33.79
+Andhra Pradesh,cumin,Kharif,0.92,1655.48,109.29,32.6
+Rajasthan,millet,Kharif,10.14,1953.26,293.43,44.19
+West Bengal,tea,Rabi,1.0,1083.57,51.34,26.68
+Maharashtra,turmeric,Rabi,4.63,2497.65,85.65,47.12
+Punjab,pulses,Kharif,13.66,2609.86,152.7,41.05
+Kerala,ginger,Zaid,15.48,1270.35,312.6,48.74
+Rajasthan,pulses,Kharif,0.69,1578.5,338.96,41.39
+Odisha,groundnut,Rabi,16.32,2450.51,202.14,54.53
+Bihar,rice,Kharif,8.04,1947.58,319.82,53.47
+Maharashtra,pulses,Kharif,18.35,2507.49,87.18,36.59
+Rajasthan,pulses,Kharif,2.01,1673.7,191.86,35.96
+Haryana,sugarcane,Kharif,4.69,494.34,68.69,80.46
+Odisha,pulses,Zaid,7.81,1356.71,66.81,24.07
+Uttar Pradesh,millet,Zaid,14.6,1651.27,149.7,38.74
+Uttar Pradesh,tea,Zaid,15.38,2324.23,254.61,51.48
+Kerala,coriander,Zaid,7.3,1372.72,313.9,43.92
+Madhya Pradesh,cotton,Rabi,13.23,2918.91,328.99,52.42
+Tamil Nadu,millet,Kharif,15.49,1865.36,312.43,44.32
+Assam,cumin,Kharif,11.86,2386.43,239.28,42.8
+Rajasthan,coffee,Rabi,12.09,2387.51,197.05,47.46
+Telangana,coriander,Rabi,8.76,2881.74,171.61,49.77
+Haryana,tea,Rabi,2.79,627.29,149.21,36.31
+Bihar,rice,Rabi,10.63,1736.23,92.63,45.69
+Tamil Nadu,chilli,Rabi,3.46,539.45,126.94,30.09
+Rajasthan,soybean,Kharif,5.62,1097.54,127.7,36.13
+West Bengal,groundnut,Zaid,8.39,777.86,303.33,40.33
+Maharashtra,coffee,Rabi,16.79,605.33,154.79,32.37
+Andhra Pradesh,groundnut,Rabi,0.78,943.05,132.77,42.95
+West Bengal,pulses,Rabi,5.02,1768.86,103.21,34.73
+Kerala,wheat,Rabi,19.92,2938.96,232.69,56.63
+Maharashtra,sugarcane,Zaid,18.73,1476.27,54.98,84.63
+Haryana,tea,Rabi,2.89,781.26,267.29,41.29
+West Bengal,turmeric,Zaid,10.07,558.75,342.32,52.45
+Bihar,soybean,Zaid,9.36,1164.23,109.43,34.92
+Odisha,groundnut,Zaid,8.51,660.71,78.37,32.85
+Telangana,groundnut,Rabi,2.67,1686.09,81.76,45.66
+Tamil Nadu,turmeric,Kharif,18.45,614.85,287.91,42.23
+Madhya Pradesh,cumin,Zaid,4.3,1185.76,245.79,31.4
+Karnataka,wheat,Rabi,13.46,2910.72,260.21,61.7
+Punjab,groundnut,Zaid,2.47,1525.03,303.08,52.54
+Madhya Pradesh,soybean,Kharif,5.8,1749.81,235.97,50.65
+Bihar,tea,Rabi,15.15,1162.47,59.69,30.09
+Kerala,sugarcane,Rabi,18.15,1274.79,158.52,89.1
+Tamil Nadu,maize,Zaid,2.01,605.81,345.35,43.06
+Haryana,coffee,Zaid,2.29,1710.5,100.08,34.32
+Punjab,tea,Rabi,19.83,2902.46,157.64,52.26
+Bihar,turmeric,Zaid,6.08,1799.28,300.68,49.49
+Bihar,wheat,Rabi,17.27,2844.7,290.07,61.78
+Andhra Pradesh,wheat,Zaid,18.17,2063.0,207.41,55.14
+Madhya Pradesh,chilli,Zaid,11.18,1508.24,46.83,35.64
+Odisha,sugarcane,Kharif,14.58,2472.91,348.67,105.17
+Karnataka,coriander,Kharif,6.85,1436.81,320.18,42.04
+Punjab,wheat,Kharif,3.55,2642.21,218.14,55.27
+Uttar Pradesh,sugarcane,Kharif,2.61,2233.52,74.47,89.51
+Rajasthan,soybean,Kharif,16.43,414.53,79.65,26.14
+Bihar,maize,Zaid,7.66,710.16,304.58,37.41
+Haryana,groundnut,Kharif,5.16,2344.17,70.79,39.5
+Telangana,rice,Zaid,9.09,2795.1,307.19,65.17
+Telangana,ginger,Kharif,13.68,1167.99,218.29,46.08
+Karnataka,cotton,Kharif,2.3,2498.78,349.23,50.28
+Punjab,sugarcane,Rabi,19.67,425.62,84.93,72.3
+Andhra Pradesh,sugarcane,Kharif,18.04,747.88,147.3,83.32
+Andhra Pradesh,coffee,Zaid,4.8,2877.04,226.39,51.48
+West Bengal,maize,Zaid,14.09,2601.68,70.89,48.06
+Maharashtra,coffee,Kharif,2.89,2741.2,167.73,48.92
+Maharashtra,coriander,Zaid,15.72,443.92,68.95,27.21
+Rajasthan,rice,Rabi,8.38,734.54,240.95,46.15
+Madhya Pradesh,wheat,Kharif,5.38,1599.34,347.23,51.54
+Telangana,wheat,Kharif,15.89,824.81,191.14,45.93
+West Bengal,soybean,Zaid,5.95,1546.55,254.9,54.45
+Madhya Pradesh,coriander,Zaid,12.65,1905.77,58.6,33.47
+Bihar,wheat,Kharif,8.52,2222.87,342.15,56.63
+Odisha,groundnut,Kharif,15.59,933.2,320.59,41.37
+Andhra Pradesh,cumin,Rabi,4.14,551.74,296.62,33.6
+Punjab,coffee,Rabi,3.52,1569.91,321.22,41.23
+Telangana,sugarcane,Kharif,7.2,2968.81,127.2,99.18
+West Bengal,turmeric,Kharif,2.93,2274.74,162.96,47.37
+Maharashtra,coffee,Zaid,4.93,2374.57,301.09,52.22
+West Bengal,rice,Kharif,12.6,675.05,258.8,40.91
+Telangana,turmeric,Zaid,10.57,1469.2,135.86,41.25
+Haryana,soybean,Rabi,13.34,2596.34,44.29,45.29
+Odisha,groundnut,Kharif,10.0,2701.38,247.19,58.73
+Karnataka,chilli,Rabi,17.27,2844.68,106.11,41.8
+Uttar Pradesh,pulses,Rabi,4.24,329.37,90.98,20.13
+Karnataka,chilli,Kharif,6.62,2634.92,243.61,53.14
+Rajasthan,coffee,Kharif,6.43,1343.05,147.41,35.06
+Telangana,turmeric,Kharif,7.39,2704.61,334.94,61.33
+Karnataka,wheat,Kharif,11.26,2020.87,257.71,51.55
+Andhra Pradesh,ginger,Zaid,6.83,677.88,249.84,40.19
+Punjab,pulses,Rabi,9.95,1359.38,82.23,24.69
+Andhra Pradesh,groundnut,Rabi,11.1,1694.22,150.35,43.43
+Assam,tea,Kharif,16.76,368.85,285.28,31.63
+Telangana,turmeric,Zaid,3.32,2671.08,134.78,48.96
+Bihar,millet,Kharif,5.0,2449.97,166.25,42.61
+Andhra Pradesh,turmeric,Zaid,1.71,2265.88,50.63,47.39
+Bihar,pulses,Kharif,3.21,1719.99,213.15,38.23
+Haryana,ginger,Kharif,19.17,1731.62,112.03,44.67
+Assam,maize,Kharif,6.32,583.25,312.24,43.83
+Haryana,coffee,Rabi,14.75,2650.78,188.36,50.19
+Tamil Nadu,pulses,Rabi,5.22,1543.06,282.69,31.22
+Tamil Nadu,maize,Zaid,12.32,519.55,287.89,39.52
+Karnataka,coriander,Kharif,10.8,345.56,311.31,39.52
+Tamil Nadu,coffee,Rabi,11.51,1606.55,241.42,37.22
+West Bengal,tea,Zaid,13.67,535.54,228.8,29.81
+Tamil Nadu,rice,Kharif,14.81,1699.4,273.26,49.5
+Kerala,maize,Zaid,18.06,1385.42,331.58,50.4
+Telangana,maize,Rabi,5.24,1201.1,155.81,43.96
+Kerala,cotton,Kharif,11.01,2576.75,226.65,45.44
+Madhya Pradesh,maize,Rabi,9.75,379.2,199.93,38.68
+Telangana,cotton,Rabi,2.42,1302.57,72.16,32.37
+Bihar,chilli,Rabi,3.21,2284.91,131.01,44.44
+Madhya Pradesh,coriander,Kharif,9.27,1611.48,80.73,38.04
+Bihar,rice,Kharif,18.36,1100.05,40.6,38.66
+Kerala,cotton,Rabi,10.7,1084.5,161.43,29.84
+Kerala,tea,Rabi,7.82,2634.55,48.9,40.57
+Assam,turmeric,Kharif,10.87,406.55,318.33,39.51
+Telangana,turmeric,Rabi,11.03,2318.52,183.96,54.1
+Tamil Nadu,soybean,Zaid,7.06,333.21,119.82,30.51
+Kerala,soybean,Rabi,2.86,1784.34,207.59,44.58
+Kerala,sugarcane,Kharif,9.44,1458.95,40.26,81.28
+Haryana,cumin,Rabi,9.26,2516.31,348.34,46.15
+Andhra Pradesh,chilli,Kharif,10.92,2387.04,253.52,49.31
+Tamil Nadu,tea,Rabi,10.0,684.07,329.56,37.53
+Uttar Pradesh,millet,Rabi,13.42,2659.65,68.94,46.87
+Uttar Pradesh,sugarcane,Zaid,12.32,522.93,265.17,87.99
+Odisha,cotton,Rabi,11.68,2396.94,300.04,48.88
+Odisha,millet,Kharif,19.65,381.55,47.13,23.26
+Madhya Pradesh,cumin,Zaid,12.12,1968.03,331.41,41.46
+Kerala,ginger,Rabi,3.25,1340.59,76.17,38.5
+Telangana,sugarcane,Kharif,13.03,675.82,235.13,89.36
+Tamil Nadu,maize,Rabi,9.98,2720.79,57.94,48.67
+Karnataka,sugarcane,Zaid,11.51,734.32,306.85,88.59
+Kerala,wheat,Kharif,4.84,2337.19,305.8,62.09
+Tamil Nadu,maize,Zaid,7.9,2800.88,63.03,50.38
+Odisha,chilli,Kharif,10.89,2807.23,42.28,46.71
+Assam,pulses,Rabi,12.29,2543.2,178.68,42.87
+Punjab,pulses,Kharif,13.35,1771.75,165.68,34.83
+Kerala,rice,Rabi,7.89,2882.69,41.55,56.35
+Tamil Nadu,chilli,Zaid,13.06,1990.28,220.76,46.16
+Odisha,chilli,Kharif,13.71,353.3,40.52,27.79
+West Bengal,groundnut,Kharif,15.34,2472.05,290.38,56.79
+Assam,coriander,Rabi,14.51,1485.66,319.61,41.16
+Rajasthan,maize,Kharif,19.71,2180.48,251.11,55.47
+Tamil Nadu,ginger,Zaid,4.62,857.49,80.64,41.92
+Odisha,rice,Zaid,10.09,806.24,228.23,47.42
+Punjab,pulses,Zaid,8.54,2350.67,267.4,47.52
+Karnataka,tea,Kharif,5.12,1294.02,278.96,41.79
+Punjab,maize,Kharif,7.69,2646.73,320.91,58.96
+Odisha,ginger,Rabi,12.35,2415.66,188.3,55.41
+Punjab,coffee,Zaid,19.44,1734.55,317.06,43.68
+Assam,sugarcane,Kharif,6.63,2073.33,141.66,90.77
+Odisha,maize,Zaid,18.83,2569.11,326.33,56.81
+Karnataka,wheat,Rabi,19.09,2886.26,241.14,63.67
+Telangana,cotton,Zaid,11.87,2489.93,340.53,50.16
+Bihar,groundnut,Rabi,9.49,1083.72,163.67,42.51
+Assam,millet,Rabi,6.8,1743.55,191.51,38.85
+Telangana,soybean,Kharif,8.3,402.19,135.21,29.68
+Kerala,pulses,Zaid,7.3,406.89,235.16,26.49
+Karnataka,turmeric,Zaid,13.71,2837.46,223.28,56.86
+Rajasthan,sugarcane,Zaid,10.88,2886.89,245.88,101.86
+Andhra Pradesh,soybean,Rabi,4.92,1894.33,232.5,48.83
+Bihar,coriander,Rabi,3.79,1686.65,82.61,31.67
+Odisha,maize,Kharif,17.27,1732.71,238.96,49.84
+Karnataka,groundnut,Rabi,6.26,481.05,215.31,36.95
+Odisha,tea,Rabi,2.59,963.51,254.01,38.57
+Telangana,turmeric,Zaid,6.41,1134.18,160.17,41.91
+Tamil Nadu,chilli,Kharif,18.28,1938.16,190.75,43.98
+Odisha,pulses,Kharif,3.77,2000.15,315.95,44.14
+Karnataka,turmeric,Rabi,15.5,549.42,234.9,41.85
+Bihar,pulses,Zaid,13.68,1372.83,126.78,30.69
+Uttar Pradesh,wheat,Rabi,18.07,691.04,53.58,31.8
+Uttar Pradesh,maize,Kharif,19.15,2040.34,341.49,51.6
+Karnataka,chilli,Rabi,6.11,1690.84,91.88,38.26
+Odisha,coriander,Kharif,10.39,1413.52,187.88,38.08
+Karnataka,chilli,Kharif,14.44,1373.16,48.87,38.48
+Uttar Pradesh,rice,Kharif,19.41,301.13,124.93,36.05
+Odisha,maize,Zaid,14.51,787.68,153.26,37.41
+Uttar Pradesh,chilli,Rabi,18.86,2007.35,194.28,35.92
+Andhra Pradesh,pulses,Zaid,12.57,1296.83,317.26,40.2
+Andhra Pradesh,millet,Zaid,2.83,2827.81,48.62,35.76
+Bihar,cotton,Rabi,19.12,1794.79,221.32,40.95
+Telangana,groundnut,Rabi,15.32,1890.31,310.88,56.09
+Punjab,soybean,Zaid,8.66,2960.79,73.26,53.22
+Maharashtra,millet,Rabi,13.39,2846.78,46.61,46.08
+Rajasthan,groundnut,Zaid,2.41,1956.24,316.28,51.94
+Punjab,cotton,Kharif,13.63,1332.83,339.5,41.99
+Telangana,groundnut,Kharif,14.47,1535.99,51.03,37.73
+Madhya Pradesh,millet,Kharif,13.41,2630.5,59.08,45.19
+Tamil Nadu,chilli,Zaid,0.69,1125.28,274.64,34.82
+Odisha,tea,Kharif,16.75,2146.93,253.2,51.89
+Karnataka,maize,Zaid,18.45,1378.09,50.76,39.46
+Karnataka,coriander,Rabi,19.57,400.38,273.15,27.74
+Maharashtra,groundnut,Zaid,10.29,448.01,252.08,37.65
+Maharashtra,millet,Kharif,17.13,538.85,208.89,29.62
+Kerala,tea,Rabi,13.29,1080.07,306.37,36.79
+Maharashtra,coriander,Rabi,10.66,2018.37,184.16,42.33
+Tamil Nadu,tea,Zaid,17.93,1102.71,73.44,30.76
+West Bengal,cotton,Rabi,9.79,770.83,291.36,38.22
+Assam,cotton,Zaid,19.82,2158.05,330.53,49.81
+Karnataka,maize,Rabi,7.74,2779.07,217.85,52.77
+Odisha,soybean,Kharif,11.9,2504.65,86.45,45.06
+Odisha,cumin,Rabi,8.56,416.61,74.1,14.33
+Punjab,pulses,Zaid,4.07,1697.61,173.58,35.1
+Maharashtra,rice,Rabi,10.05,2970.27,167.99,58.7
+Karnataka,turmeric,Rabi,17.2,2467.0,188.07,51.1
+Odisha,wheat,Zaid,11.55,1317.48,332.4,49.59
+Andhra Pradesh,turmeric,Kharif,11.65,1185.47,348.2,50.72
+Madhya Pradesh,tea,Kharif,14.75,2933.16,195.93,53.02
+West Bengal,groundnut,Kharif,5.14,891.46,132.32,40.34
+Telangana,millet,Zaid,16.84,2619.99,264.4,58.37
+Telangana,pulses,Zaid,2.56,1806.62,85.87,30.1
+Madhya Pradesh,ginger,Kharif,16.9,2822.13,123.51,54.07
+Bihar,groundnut,Rabi,13.87,1505.23,260.71,48.24
+Odisha,wheat,Kharif,9.19,595.33,57.51,36.75
+Uttar Pradesh,millet,Rabi,0.55,305.3,170.61,29.55
+Odisha,cumin,Kharif,5.65,322.27,273.94,29.25
+Assam,cumin,Rabi,4.95,1640.15,343.07,38.25
+Punjab,turmeric,Rabi,19.7,748.15,40.68,34.91
+Kerala,groundnut,Zaid,2.06,2580.71,269.64,59.31
+West Bengal,wheat,Kharif,13.74,944.74,275.72,48.85
+Uttar Pradesh,coriander,Rabi,16.91,958.17,140.04,31.48
+Tamil Nadu,cumin,Kharif,2.59,2528.03,79.28,43.72
+Rajasthan,maize,Kharif,11.87,388.66,190.55,31.74
+Maharashtra,millet,Zaid,3.42,1274.14,154.01,32.7
+Karnataka,cumin,Rabi,18.34,1687.7,45.64,29.51
+Madhya Pradesh,coriander,Zaid,12.75,1035.16,216.37,38.43
+Andhra Pradesh,wheat,Kharif,6.5,1802.38,308.73,58.63
+Assam,cumin,Zaid,8.29,749.54,286.44,35.18
+Kerala,ginger,Rabi,9.35,1253.91,294.63,44.7
+Tamil Nadu,ginger,Kharif,19.12,445.94,67.52,29.56
+Bihar,chilli,Kharif,0.96,887.81,73.5,32.09
+Tamil Nadu,rice,Kharif,5.39,648.8,310.76,45.7
+Uttar Pradesh,coffee,Zaid,14.56,1761.74,179.45,35.56
+Madhya Pradesh,sugarcane,Zaid,16.34,875.28,187.33,78.33
+Maharashtra,cotton,Zaid,8.33,1243.95,221.68,36.95
+Madhya Pradesh,chilli,Kharif,11.31,815.42,265.19,38.35
+Maharashtra,tea,Zaid,3.39,2615.3,116.04,48.01
+Telangana,sugarcane,Zaid,19.25,380.59,86.82,75.45
+Uttar Pradesh,tea,Kharif,1.25,1594.99,217.99,38.21
+Madhya Pradesh,ginger,Rabi,10.17,2386.65,178.92,54.74
+Kerala,cotton,Rabi,12.44,2244.54,42.97,31.34
+Odisha,turmeric,Kharif,1.42,389.09,200.3,35.83
+Telangana,millet,Rabi,8.84,541.26,202.19,27.08
+West Bengal,soybean,Zaid,19.45,2750.03,223.77,58.64
+Tamil Nadu,sugarcane,Rabi,17.49,2387.49,69.59,94.13
+Madhya Pradesh,ginger,Rabi,3.42,532.1,279.9,43.83
+Telangana,cotton,Kharif,3.93,404.76,332.86,36.91
+Odisha,turmeric,Rabi,14.36,631.04,146.5,40.45
+Tamil Nadu,pulses,Zaid,9.56,977.0,181.07,33.15
+Uttar Pradesh,pulses,Kharif,19.74,920.57,209.17,31.11
+Assam,sugarcane,Rabi,1.94,1689.81,199.4,94.4
+Bihar,cotton,Zaid,14.76,1896.17,91.25,32.32
+Karnataka,coffee,Kharif,0.89,743.88,297.66,34.76
+Odisha,coriander,Kharif,12.4,725.09,191.42,28.79
+Karnataka,maize,Kharif,10.6,557.58,117.2,38.88
+Tamil Nadu,millet,Zaid,14.17,2480.6,259.37,48.6
+Punjab,chilli,Zaid,11.34,1982.02,329.16,47.71
+Maharashtra,soybean,Zaid,14.39,802.23,289.98,40.26
+Tamil Nadu,sugarcane,Rabi,16.8,1350.3,274.78,97.47
+Telangana,tea,Kharif,17.37,304.81,145.12,26.2
+Andhra Pradesh,ginger,Kharif,17.86,2800.99,127.89,48.14
+Rajasthan,turmeric,Zaid,17.66,1613.18,345.17,46.4
+Andhra Pradesh,turmeric,Kharif,5.22,1909.55,80.06,42.82
+Uttar Pradesh,tea,Zaid,7.55,1551.38,57.37,33.45
+West Bengal,pulses,Rabi,15.25,2139.0,110.2,35.36
+Karnataka,rice,Zaid,12.42,2039.08,192.97,56.6
+Andhra Pradesh,soybean,Rabi,0.65,2816.73,152.8,51.71
+Rajasthan,ginger,Zaid,15.26,818.86,292.11,37.85
+Maharashtra,tea,Rabi,6.77,2041.52,251.52,41.66
+Tamil Nadu,coffee,Kharif,7.39,398.18,211.99,31.62
+Uttar Pradesh,turmeric,Kharif,11.4,2248.26,257.34,53.31
+Kerala,maize,Rabi,14.94,318.89,229.87,36.84
+Andhra Pradesh,millet,Rabi,6.69,2146.09,346.73,53.81
+Kerala,cotton,Kharif,8.16,2217.74,284.9,47.02
+Telangana,maize,Kharif,1.95,2479.18,52.06,49.82
+West Bengal,millet,Rabi,5.11,2236.78,126.75,44.7
+Assam,coffee,Zaid,2.05,2556.08,333.86,49.06
+Bihar,sugarcane,Zaid,2.9,2872.42,82.36,94.58
+Telangana,chilli,Kharif,3.05,2458.23,259.77,51.39
+Punjab,ginger,Zaid,14.93,1062.53,259.68,45.03
+Haryana,maize,Zaid,18.2,2874.33,138.81,60.31
+Andhra Pradesh,cumin,Kharif,4.59,2796.58,325.75,47.35
+Andhra Pradesh,pulses,Kharif,10.81,1958.91,45.23,32.19
+Assam,rice,Rabi,7.29,445.13,189.69,41.85
+Rajasthan,coriander,Zaid,14.51,2754.05,339.15,54.6
+West Bengal,coriander,Zaid,11.99,2765.9,249.13,48.28
+Assam,coriander,Rabi,2.11,1038.8,155.96,28.96
+Tamil Nadu,chilli,Kharif,13.18,2381.8,55.57,38.92
+Bihar,pulses,Zaid,3.25,2450.24,156.42,36.71
+Haryana,maize,Kharif,7.71,1632.89,277.57,49.8
+Andhra Pradesh,soybean,Kharif,12.0,2553.67,264.56,56.21
+Uttar Pradesh,wheat,Rabi,18.77,900.63,208.1,43.42
+West Bengal,cotton,Zaid,8.45,2422.85,69.07,34.92
+Bihar,coriander,Rabi,1.5,1957.15,180.69,36.63
+Bihar,soybean,Rabi,3.14,307.07,138.91,31.02
+Haryana,cumin,Kharif,10.78,2050.4,325.03,43.16
+Odisha,soybean,Rabi,15.65,1367.93,103.53,41.33
+Kerala,rice,Kharif,5.92,1305.81,338.39,53.21
+Telangana,maize,Zaid,7.85,1872.98,149.77,47.28
+Rajasthan,turmeric,Rabi,19.55,2324.98,211.29,51.65
+Karnataka,chilli,Rabi,10.36,2820.63,214.27,52.1
+Andhra Pradesh,groundnut,Zaid,9.62,1629.96,50.83,41.16
+Telangana,ginger,Zaid,6.34,2970.31,175.79,56.75
+Andhra Pradesh,cotton,Kharif,1.8,1467.22,227.14,34.6
+Bihar,pulses,Rabi,14.03,2702.67,240.88,41.6
+Bihar,cumin,Zaid,13.21,2132.87,102.89,38.45
+Karnataka,cumin,Rabi,5.06,2822.39,96.73,38.39
+Haryana,cumin,Zaid,1.48,876.45,175.14,30.47
+Andhra Pradesh,rice,Zaid,0.77,2441.52,297.04,62.35
+Haryana,turmeric,Zaid,6.62,628.75,60.64,33.0
+Kerala,turmeric,Kharif,2.27,837.11,218.8,41.19
+Punjab,maize,Rabi,5.08,1091.1,205.41,47.22
+Haryana,ginger,Rabi,9.02,1289.69,176.32,40.08
+Assam,sugarcane,Kharif,9.93,986.15,62.12,83.77
+Maharashtra,maize,Kharif,3.23,1381.87,149.98,34.4
+Maharashtra,coriander,Rabi,11.98,2594.74,83.01,41.77
+Bihar,soybean,Kharif,5.31,2136.84,266.83,51.6
+Kerala,tea,Zaid,5.1,1627.43,157.11,36.27
+Telangana,maize,Rabi,3.78,2559.31,274.8,54.46
+Karnataka,rice,Kharif,7.68,2274.5,289.8,58.05
+Maharashtra,coriander,Rabi,6.26,981.55,44.39,26.82
+Punjab,soybean,Rabi,18.56,2938.79,297.86,54.89
+Punjab,millet,Kharif,19.57,1883.44,116.74,38.81
+West Bengal,soybean,Zaid,16.38,2906.77,147.7,52.48
+Karnataka,chilli,Zaid,14.47,1588.41,276.07,46.56
+Madhya Pradesh,groundnut,Kharif,15.47,1395.18,51.02,40.52
+Assam,tea,Kharif,17.75,1108.08,288.68,36.26
+Madhya Pradesh,coffee,Zaid,6.76,458.44,344.65,38.62
+Assam,cumin,Rabi,6.2,2989.04,239.81,47.45
+Karnataka,ginger,Rabi,1.55,2788.02,285.75,53.23
+Odisha,maize,Kharif,12.91,1830.19,163.08,44.88
+Odisha,millet,Kharif,6.24,1917.7,192.89,40.78
+Maharashtra,coffee,Kharif,16.28,1148.82,313.88,39.46
+Andhra Pradesh,rice,Zaid,11.34,2056.73,271.0,57.66
+Haryana,maize,Zaid,15.44,337.39,64.87,35.07
+Karnataka,tea,Rabi,12.03,2440.44,346.99,50.58
+Uttar Pradesh,maize,Zaid,8.94,2086.4,215.12,45.53
+Tamil Nadu,coriander,Kharif,19.9,1453.77,232.49,35.91
+Rajasthan,tea,Rabi,7.34,313.54,55.49,29.43
+Uttar Pradesh,wheat,Kharif,2.65,981.96,172.7,42.51
+Karnataka,coffee,Zaid,19.63,1906.43,220.39,37.73
+Kerala,coriander,Kharif,15.64,2455.17,349.33,53.22
+Bihar,millet,Rabi,13.07,2281.78,291.13,49.21
+Punjab,rice,Rabi,13.78,366.22,250.62,39.63
+Odisha,chilli,Kharif,2.19,2370.61,91.67,41.34
+Maharashtra,wheat,Kharif,13.79,2943.18,97.53,53.3
+Tamil Nadu,ginger,Kharif,1.57,838.11,254.78,39.03
+Tamil Nadu,pulses,Rabi,10.31,1714.21,205.49,37.57
+Madhya Pradesh,soybean,Zaid,16.58,416.24,152.33,31.26
+Rajasthan,wheat,Rabi,17.28,2843.03,279.71,60.83
+West Bengal,coriander,Rabi,18.59,1991.75,138.54,39.43
+Odisha,tea,Kharif,18.84,1264.94,276.78,39.16
+Uttar Pradesh,turmeric,Rabi,5.07,1002.48,151.38,41.05
+Andhra Pradesh,groundnut,Kharif,8.25,2574.76,293.08,60.71
+West Bengal,ginger,Kharif,9.39,2812.65,260.43,60.31
+Rajasthan,cotton,Kharif,9.52,1854.73,145.27,40.81
+Kerala,wheat,Zaid,4.4,826.12,211.13,44.77
+Madhya Pradesh,maize,Rabi,7.13,2290.03,242.87,58.22
+Rajasthan,sugarcane,Kharif,6.37,2246.86,271.62,97.34
+Haryana,cotton,Rabi,17.27,1892.09,299.64,43.53
+Maharashtra,sugarcane,Rabi,3.76,2488.48,222.21,101.0
+Assam,turmeric,Zaid,14.66,2207.06,172.02,49.9
+Bihar,chilli,Zaid,8.53,800.54,183.74,36.9
+Rajasthan,millet,Rabi,15.54,1735.15,207.34,47.33
+Maharashtra,sugarcane,Zaid,2.76,2198.31,208.1,97.49
+Maharashtra,chilli,Zaid,16.29,2093.06,72.08,42.11
+Odisha,soybean,Kharif,13.34,2621.72,252.11,53.0
+Bihar,ginger,Rabi,2.32,2001.76,142.89,44.04
+Andhra Pradesh,sugarcane,Zaid,12.8,1851.78,297.79,95.56
+Odisha,pulses,Zaid,10.05,1144.19,228.39,38.93
+Karnataka,cotton,Zaid,16.45,793.99,173.3,30.56
+West Bengal,sugarcane,Zaid,7.02,1807.1,56.39,85.86
+Telangana,turmeric,Zaid,10.72,2745.48,89.86,51.34
+Bihar,pulses,Zaid,0.76,1249.63,181.19,27.24
+Assam,groundnut,Rabi,18.27,1937.2,344.95,57.17
+Kerala,chilli,Rabi,7.44,1399.5,77.3,41.4
+Andhra Pradesh,coriander,Kharif,10.53,2200.86,238.74,49.84
+West Bengal,sugarcane,Zaid,15.81,1629.89,84.38,80.12
+Kerala,turmeric,Rabi,15.86,1976.34,128.07,42.0
+Rajasthan,millet,Kharif,5.77,2235.69,66.79,35.72
+Rajasthan,chilli,Rabi,2.66,820.79,192.54,29.4
+Karnataka,maize,Zaid,7.98,1804.14,61.31,40.41
+Punjab,soybean,Zaid,12.8,2490.05,69.73,43.86
+Tamil Nadu,turmeric,Kharif,8.69,2516.39,180.3,54.14
+West Bengal,cotton,Kharif,1.43,1258.57,183.45,31.32
+Uttar Pradesh,ginger,Kharif,7.26,513.39,237.4,33.81
+Assam,coffee,Kharif,6.71,2455.66,81.99,41.4
+Tamil Nadu,chilli,Zaid,6.28,2851.57,190.5,51.65
+Tamil Nadu,sugarcane,Rabi,14.23,1686.24,297.06,85.52
+Karnataka,chilli,Zaid,4.21,1103.68,238.12,41.99
+Tamil Nadu,turmeric,Kharif,3.04,550.89,226.43,32.21
+Karnataka,sugarcane,Rabi,0.72,368.55,234.77,80.27
+Karnataka,pulses,Rabi,2.78,989.54,179.0,29.87
+West Bengal,soybean,Zaid,12.65,356.29,246.76,33.42
+Rajasthan,ginger,Kharif,6.5,1303.24,115.29,37.94
+Maharashtra,groundnut,Kharif,5.74,2313.09,310.48,57.17
+Maharashtra,maize,Kharif,4.5,823.78,248.1,43.95
+Kerala,coffee,Rabi,12.31,2084.41,42.33,34.01
+Odisha,wheat,Zaid,15.09,1033.53,339.84,48.93
+Rajasthan,turmeric,Zaid,5.53,2156.5,192.25,47.79
+Telangana,soybean,Rabi,14.27,634.33,288.94,35.47
+West Bengal,coriander,Zaid,19.85,396.05,179.16,25.27
+Uttar Pradesh,rice,Kharif,8.13,2709.0,153.01,55.98
+Odisha,cotton,Kharif,7.39,511.64,111.33,28.4
+Bihar,chilli,Rabi,4.32,1510.87,153.5,44.87
+Maharashtra,rice,Rabi,6.51,2237.09,83.61,51.68
+West Bengal,millet,Rabi,10.57,1996.18,99.62,40.57
+Bihar,groundnut,Zaid,9.72,2256.5,298.15,54.33
+Bihar,ginger,Kharif,6.88,547.05,115.71,31.57
+Andhra Pradesh,groundnut,Rabi,14.5,524.22,144.6,40.07
+Odisha,groundnut,Rabi,11.82,1242.21,296.8,44.6
+Kerala,turmeric,Zaid,1.74,581.36,139.79,36.91
+Karnataka,cotton,Rabi,19.68,2166.58,78.98,39.27
+Assam,chilli,Zaid,6.62,1692.44,281.13,48.43
+Maharashtra,maize,Zaid,2.4,2755.94,314.3,60.89
+West Bengal,maize,Rabi,4.76,990.01,86.61,34.92
+Maharashtra,coffee,Kharif,4.39,2581.73,289.36,49.68
+Bihar,cumin,Kharif,8.94,2579.73,159.14,42.04
+Bihar,coriander,Zaid,2.3,1138.67,261.5,35.92
+Uttar Pradesh,maize,Rabi,16.27,2302.09,280.02,54.43
+Punjab,ginger,Kharif,6.33,2860.32,339.1,57.96
+Andhra Pradesh,coffee,Zaid,18.48,1529.13,115.32,32.77
+Odisha,cumin,Rabi,18.74,1247.39,69.01,28.26
+Tamil Nadu,tea,Zaid,16.95,388.12,90.07,24.52
+Bihar,millet,Rabi,14.42,1258.93,94.24,29.26
+Assam,pulses,Kharif,19.59,320.56,40.23,22.62
+Telangana,turmeric,Rabi,19.95,1953.41,156.26,49.47
+Odisha,tea,Rabi,19.26,611.8,289.82,38.1
+Odisha,cumin,Zaid,3.15,2462.35,195.2,41.03
+Odisha,ginger,Kharif,16.17,2222.56,55.3,50.18
+Andhra Pradesh,cumin,Kharif,19.78,2520.43,142.88,39.6
+Andhra Pradesh,millet,Zaid,1.77,2237.71,98.73,41.21
+Andhra Pradesh,tea,Zaid,17.65,328.31,298.36,34.44
+West Bengal,turmeric,Rabi,16.91,564.07,48.44,33.0
+Tamil Nadu,coffee,Rabi,17.03,1668.84,139.94,39.76
+Andhra Pradesh,pulses,Kharif,11.07,2351.62,234.14,40.86
+Andhra Pradesh,ginger,Rabi,7.19,2961.5,53.55,49.81
+Andhra Pradesh,maize,Kharif,0.77,2382.26,131.44,47.09
+Kerala,chilli,Zaid,14.55,2984.06,323.32,59.38
+Andhra Pradesh,cotton,Zaid,4.52,678.48,264.26,34.88
+Punjab,tea,Zaid,4.64,2939.04,78.48,44.8
+Uttar Pradesh,sugarcane,Zaid,6.47,2169.24,302.44,98.03
+Haryana,cotton,Zaid,15.46,2639.24,95.96,48.82
+Bihar,ginger,Zaid,11.0,2931.46,260.46,55.31
+Punjab,cumin,Rabi,0.92,1717.92,181.5,40.87
+Haryana,coriander,Kharif,8.11,2523.74,300.35,46.45
+Assam,millet,Zaid,6.02,1000.61,259.86,39.25
+Odisha,groundnut,Zaid,6.51,2625.75,289.17,53.73
+Telangana,maize,Rabi,17.05,2689.68,169.9,48.58
+Maharashtra,chilli,Kharif,18.28,1190.34,183.99,34.95
+Kerala,pulses,Rabi,2.47,2785.72,70.51,38.03
+Madhya Pradesh,coriander,Zaid,3.55,2540.87,246.85,48.12
+Rajasthan,coffee,Zaid,8.71,2429.96,44.1,44.45
+Kerala,maize,Zaid,11.58,1356.54,109.22,41.27
+West Bengal,ginger,Rabi,18.65,1285.78,71.74,38.19
+Haryana,coffee,Kharif,2.74,2686.54,286.09,49.74
+Telangana,cotton,Zaid,11.19,1181.69,341.52,43.88
+Telangana,maize,Rabi,8.73,2504.3,221.06,51.36
+Punjab,millet,Kharif,16.23,1835.17,130.89,37.28
+Tamil Nadu,cumin,Kharif,6.53,385.33,161.43,24.12
+Madhya Pradesh,wheat,Rabi,11.16,2143.44,47.88,44.27
+Uttar Pradesh,ginger,Rabi,17.43,1070.64,281.23,44.39
+Uttar Pradesh,rice,Rabi,4.32,1854.36,304.99,54.21
+Madhya Pradesh,chilli,Rabi,14.84,383.97,278.77,42.41
+Maharashtra,wheat,Kharif,17.75,1194.66,128.48,40.94
+Maharashtra,tea,Zaid,17.44,1130.61,119.3,36.03
+Tamil Nadu,chilli,Rabi,4.45,2290.68,245.12,53.53
+Bihar,tea,Rabi,15.78,2118.18,78.88,39.98
+Andhra Pradesh,turmeric,Zaid,11.6,788.53,313.45,45.26
+Kerala,coffee,Zaid,4.25,2376.63,308.33,51.21
+Rajasthan,coffee,Rabi,11.2,995.73,337.24,46.73
+Madhya Pradesh,coffee,Rabi,16.1,1593.8,216.45,39.48
+Haryana,soybean,Zaid,11.37,1806.48,108.12,45.29
+Uttar Pradesh,cotton,Kharif,11.29,991.17,342.83,43.41
+Assam,maize,Rabi,4.16,2833.51,291.81,59.89
+Assam,soybean,Rabi,11.05,2561.85,159.4,52.76
+Uttar Pradesh,chilli,Rabi,11.3,2868.05,195.76,53.88
+Haryana,maize,Zaid,5.95,2696.56,43.39,50.47
+Haryana,coriander,Rabi,12.28,1485.08,110.92,37.54
+Tamil Nadu,tea,Kharif,18.34,2818.93,202.69,49.17
+Rajasthan,chilli,Zaid,13.24,2022.85,171.32,45.1
+Kerala,maize,Kharif,9.78,1973.82,80.97,44.51
+Maharashtra,coffee,Rabi,13.66,1711.4,266.69,45.46
+Maharashtra,rice,Kharif,4.31,2585.36,213.57,60.01
+Telangana,coffee,Zaid,3.47,2157.79,294.96,43.15
+Bihar,maize,Kharif,14.26,571.98,40.06,32.25
+Maharashtra,sugarcane,Zaid,3.27,1782.57,70.56,87.52
+Rajasthan,wheat,Zaid,5.1,1918.46,221.9,44.3
+Rajasthan,cotton,Kharif,19.26,2187.01,312.12,52.88
+Odisha,cotton,Kharif,11.33,2010.48,87.9,39.16
+Uttar Pradesh,sugarcane,Kharif,19.4,1014.59,270.05,92.44
+Karnataka,tea,Zaid,17.17,449.27,176.34,35.85
+Uttar Pradesh,maize,Rabi,1.65,1414.42,250.51,45.65
+Tamil Nadu,pulses,Kharif,0.91,1337.27,150.32,36.19
+Assam,tea,Rabi,17.77,2149.53,72.39,36.86
+Tamil Nadu,tea,Kharif,2.27,1447.79,245.07,42.61
+Maharashtra,coffee,Rabi,12.3,1869.95,67.49,35.56
+Odisha,groundnut,Zaid,1.28,2920.08,72.79,46.24
+Rajasthan,wheat,Zaid,12.5,778.81,216.56,42.8
+Maharashtra,turmeric,Rabi,8.9,2580.74,233.86,59.78
+Odisha,coriander,Zaid,4.26,1206.02,180.44,35.77
+Punjab,groundnut,Rabi,6.18,905.56,205.35,42.98
+Uttar Pradesh,groundnut,Zaid,8.49,716.23,42.35,35.37
+Odisha,turmeric,Zaid,11.59,1857.3,152.77,45.33
+West Bengal,cumin,Zaid,2.14,2461.21,103.2,34.71
+West Bengal,cotton,Kharif,4.8,2336.65,199.87,42.3
+Telangana,soybean,Zaid,7.11,434.7,133.44,27.81
+Andhra Pradesh,chilli,Rabi,9.4,1943.31,303.19,44.18
+Andhra Pradesh,millet,Kharif,0.64,2524.68,292.26,57.18
+Kerala,cumin,Rabi,4.74,1414.74,80.23,29.38
+Punjab,groundnut,Kharif,8.32,1511.84,69.46,38.3
+Andhra Pradesh,rice,Rabi,7.67,676.07,134.69,33.49
+Kerala,tea,Kharif,1.9,2802.09,46.89,45.71
+Telangana,wheat,Rabi,13.18,2467.31,50.0,49.57
+Odisha,ginger,Kharif,19.92,1858.87,107.77,43.38
+Rajasthan,wheat,Kharif,11.86,1054.44,77.37,41.23
+Rajasthan,pulses,Zaid,3.96,783.29,155.48,31.84
+Odisha,millet,Rabi,10.67,2011.05,153.37,39.6
+Uttar Pradesh,cotton,Zaid,10.2,2157.67,138.13,45.89
+Karnataka,rice,Zaid,16.29,2047.55,343.41,58.07
+Madhya Pradesh,cumin,Rabi,12.99,1733.14,77.98,25.33
+Kerala,groundnut,Kharif,17.44,1329.24,55.28,38.69
+Madhya Pradesh,coffee,Kharif,0.56,1085.44,97.39,28.16
+Bihar,sugarcane,Rabi,14.55,1915.1,154.96,93.63
+Punjab,wheat,Rabi,2.97,1339.97,285.45,45.94
+Madhya Pradesh,coriander,Rabi,13.61,1116.16,61.15,27.29
+Assam,turmeric,Rabi,5.76,725.69,298.77,40.97
+Rajasthan,groundnut,Kharif,9.5,1200.58,40.35,38.32
+Haryana,turmeric,Rabi,18.47,2851.4,44.22,47.81
+Tamil Nadu,coffee,Zaid,16.33,2690.09,50.05,38.08
+Maharashtra,pulses,Kharif,9.15,2707.39,324.69,47.44
+Tamil Nadu,cotton,Rabi,2.75,898.34,340.87,37.81
+Madhya Pradesh,turmeric,Zaid,6.92,1391.1,89.41,36.23
+Haryana,chilli,Zaid,5.81,2643.53,286.48,52.49
+Assam,chilli,Rabi,11.16,1375.73,53.03,36.09
+Andhra Pradesh,pulses,Rabi,1.38,442.75,335.59,35.54
+Uttar Pradesh,wheat,Rabi,13.98,531.65,123.77,34.4
+Haryana,coffee,Zaid,14.43,2363.85,273.77,51.78
+Bihar,turmeric,Kharif,9.75,1322.94,196.02,41.44
+Maharashtra,millet,Kharif,11.25,1376.52,243.01,43.43
+Kerala,soybean,Kharif,9.01,409.37,221.01,36.95
+Tamil Nadu,coriander,Zaid,15.23,1218.52,45.04,28.9
+Haryana,maize,Kharif,3.73,2075.15,72.83,43.24
+West Bengal,tea,Kharif,10.27,1709.83,284.28,43.9
+Rajasthan,maize,Rabi,18.24,1490.93,242.5,43.8
+Madhya Pradesh,groundnut,Zaid,14.59,971.88,104.11,38.76
+Rajasthan,sugarcane,Kharif,9.2,2541.06,114.49,96.54
+Bihar,turmeric,Rabi,1.74,1383.97,71.29,39.91
+Andhra Pradesh,coffee,Rabi,0.99,2628.55,288.66,45.19
+Maharashtra,groundnut,Kharif,0.64,2566.71,298.27,58.46
+Tamil Nadu,cumin,Kharif,18.66,352.48,272.72,25.11
+Haryana,cumin,Rabi,2.53,1879.85,258.44,35.5
+West Bengal,tea,Kharif,1.68,1974.8,301.41,47.38
+Karnataka,rice,Kharif,17.49,2635.16,169.23,51.47
+Maharashtra,coriander,Rabi,11.45,327.95,304.01,30.64
+Kerala,chilli,Rabi,16.84,1789.02,290.66,50.81
+Assam,cumin,Kharif,14.81,1605.09,276.99,33.29
+Assam,coriander,Rabi,16.69,944.28,342.76,38.16
+Haryana,turmeric,Zaid,7.13,2102.07,221.39,53.3
+Karnataka,turmeric,Kharif,18.0,477.95,345.21,44.0
+Telangana,soybean,Zaid,4.5,2581.68,93.86,43.51
+Rajasthan,millet,Rabi,4.65,2089.55,114.05,46.49
+Haryana,cotton,Rabi,16.63,2052.84,47.07,37.72
+Odisha,sugarcane,Kharif,18.51,1622.12,114.45,84.04
+Bihar,turmeric,Kharif,10.19,1700.88,199.53,47.92
+Punjab,soybean,Rabi,2.5,980.74,181.6,34.52
+Madhya Pradesh,soybean,Kharif,0.56,1024.74,264.49,39.19
+Punjab,coffee,Kharif,10.03,2508.54,349.24,51.01
+Bihar,turmeric,Rabi,13.58,1479.64,209.93,43.3
+Telangana,cumin,Zaid,11.84,1608.55,281.39,32.29
+Madhya Pradesh,coffee,Rabi,16.78,1009.48,73.48,27.15
+Odisha,turmeric,Rabi,2.5,1392.97,156.17,43.95
+Punjab,soybean,Rabi,13.26,1617.3,61.42,35.4
+Rajasthan,soybean,Zaid,8.11,2727.87,317.68,60.37
+Tamil Nadu,wheat,Rabi,11.56,1219.39,161.55,42.83
+Maharashtra,pulses,Zaid,3.24,2467.35,61.57,38.03
+Kerala,millet,Zaid,17.12,2947.21,239.79,53.97
+Karnataka,cotton,Kharif,11.19,1914.61,250.16,41.12
+Assam,sugarcane,Kharif,1.87,2166.8,70.51,95.79
+Assam,millet,Kharif,3.94,2629.32,293.15,56.89
+Telangana,tea,Rabi,4.54,1432.8,207.79,37.3
+Rajasthan,ginger,Rabi,9.26,698.02,336.09,45.51
+Assam,cotton,Kharif,12.2,1772.48,139.99,41.48
+Andhra Pradesh,turmeric,Zaid,4.05,2024.59,323.21,51.77
+Kerala,ginger,Kharif,0.55,2685.53,233.56,64.57
+Punjab,rice,Zaid,5.18,2309.53,296.32,60.03
+Andhra Pradesh,wheat,Rabi,8.9,1944.01,346.98,60.13
+Haryana,cotton,Zaid,4.05,2214.04,295.07,42.54
+Assam,pulses,Kharif,19.4,443.4,259.2,29.99
+Maharashtra,chilli,Zaid,14.21,1095.6,315.94,42.14
+Karnataka,pulses,Kharif,17.56,2574.84,198.43,47.02
+Andhra Pradesh,tea,Rabi,15.89,2102.1,259.75,49.65
+Maharashtra,chilli,Rabi,2.25,2409.17,245.26,48.72
+Maharashtra,millet,Rabi,13.14,2183.01,228.19,45.5
+Haryana,coffee,Kharif,12.19,826.28,96.45,35.18
+Karnataka,millet,Kharif,18.62,1155.42,52.29,32.2
+Punjab,wheat,Kharif,14.66,1158.7,336.44,50.47
+Haryana,millet,Kharif,5.27,1854.47,40.71,36.52
+Uttar Pradesh,chilli,Rabi,4.1,2441.42,69.79,39.79
+Maharashtra,sugarcane,Rabi,6.86,416.71,234.35,80.89
+West Bengal,cotton,Kharif,14.47,1215.08,250.01,33.36
+Tamil Nadu,millet,Kharif,8.6,2276.19,115.54,42.91
+Andhra Pradesh,cumin,Rabi,9.37,1804.85,278.01,40.93
+Punjab,wheat,Rabi,10.0,926.66,214.43,41.97
+Tamil Nadu,sugarcane,Rabi,7.21,2836.23,202.76,105.8
+Kerala,millet,Zaid,3.91,1771.66,61.02,37.64
+Maharashtra,turmeric,Kharif,11.81,1327.96,256.73,50.51
+Telangana,coriander,Zaid,5.42,2788.21,152.42,44.79
+Bihar,groundnut,Zaid,10.34,2506.94,222.98,55.55
+Maharashtra,cumin,Rabi,5.3,2009.27,283.82,41.01
+Andhra Pradesh,wheat,Rabi,1.26,2671.62,91.02,53.67
+Rajasthan,wheat,Rabi,16.58,431.95,130.25,37.39
+Uttar Pradesh,millet,Kharif,11.16,1468.02,328.29,45.88
+Telangana,chilli,Rabi,12.97,502.88,200.78,35.51
+Odisha,cumin,Kharif,16.35,2085.2,90.48,45.58
+Rajasthan,pulses,Zaid,17.85,2916.47,82.46,39.82
+West Bengal,turmeric,Kharif,6.98,2785.24,323.74,60.05
+Uttar Pradesh,groundnut,Kharif,4.85,787.61,341.97,49.0
+Telangana,ginger,Zaid,4.45,756.73,59.67,31.84
+West Bengal,chilli,Rabi,9.23,2204.41,283.21,48.69
+Kerala,rice,Kharif,12.09,479.09,195.02,39.89
+Andhra Pradesh,cotton,Zaid,14.93,585.7,283.15,36.92
+Tamil Nadu,groundnut,Zaid,15.61,2043.51,334.41,56.32
+Madhya Pradesh,maize,Kharif,17.28,2188.91,294.47,51.36
+West Bengal,soybean,Rabi,10.42,878.5,208.73,39.95
+Odisha,sugarcane,Zaid,11.57,1060.07,218.28,84.19
+Karnataka,cotton,Rabi,14.21,1822.92,304.47,43.66
+Tamil Nadu,groundnut,Rabi,15.69,1190.18,153.99,39.81
+Haryana,coffee,Kharif,2.39,521.49,263.47,35.15
+Punjab,millet,Rabi,5.41,527.75,169.37,32.03
+West Bengal,sugarcane,Zaid,8.4,2680.79,167.28,94.99
+West Bengal,chilli,Rabi,13.48,2206.39,314.18,48.88
+Maharashtra,cumin,Kharif,18.02,2482.89,199.92,40.65
+Tamil Nadu,millet,Zaid,5.82,675.46,237.15,37.01
+Andhra Pradesh,rice,Rabi,3.24,941.04,151.16,39.83
+Telangana,turmeric,Zaid,0.68,2519.46,147.46,50.03
+West Bengal,millet,Kharif,8.51,1425.46,119.39,34.98
+Madhya Pradesh,groundnut,Kharif,4.73,2028.24,168.71,46.88
+Haryana,sugarcane,Zaid,13.89,1316.82,298.08,99.41
+Maharashtra,ginger,Zaid,11.19,790.88,287.79,46.06
+Odisha,rice,Rabi,16.94,416.26,230.06,42.46
+Bihar,millet,Rabi,19.66,2769.51,96.78,47.61
+Haryana,groundnut,Rabi,13.74,1214.82,227.86,43.53
+Odisha,cotton,Rabi,17.33,1500.02,167.75,41.11
+Telangana,millet,Rabi,11.35,650.99,48.4,23.34
+Kerala,sugarcane,Rabi,9.91,882.99,119.59,81.69
+Kerala,groundnut,Rabi,13.22,1446.42,292.39,52.13
+Punjab,groundnut,Kharif,9.89,2621.67,174.59,53.23
+Odisha,pulses,Rabi,12.69,2935.02,81.89,39.02
+West Bengal,cumin,Zaid,4.09,1199.75,79.97,21.19
+Haryana,tea,Kharif,7.83,816.54,197.15,34.27
+Telangana,groundnut,Kharif,6.7,1986.15,244.79,58.19
+West Bengal,groundnut,Zaid,15.05,1521.45,42.94,38.4
+Uttar Pradesh,soybean,Rabi,15.83,1813.14,44.72,40.45
+Bihar,ginger,Kharif,2.74,1462.74,240.25,46.39
+Bihar,cotton,Rabi,2.34,2471.32,129.31,44.35
+Kerala,ginger,Zaid,8.26,2477.41,284.86,55.23
+Punjab,coriander,Kharif,12.63,1818.61,268.63,44.53
+Telangana,turmeric,Kharif,2.92,826.92,89.0,33.51
+West Bengal,ginger,Rabi,6.94,2732.64,261.55,55.57
+Karnataka,wheat,Rabi,19.97,1081.41,211.02,41.47
+West Bengal,cotton,Zaid,17.24,919.23,214.67,33.52
+Andhra Pradesh,maize,Zaid,6.2,2364.08,318.61,59.95
+Andhra Pradesh,sugarcane,Rabi,12.9,1099.44,187.04,83.57
+Assam,millet,Zaid,6.3,922.16,130.0,35.19
+Haryana,cotton,Zaid,11.66,2632.33,283.0,51.93
+Karnataka,chilli,Kharif,9.06,1141.5,175.06,39.13
+Maharashtra,sugarcane,Zaid,10.56,1857.22,105.85,90.98
+Tamil Nadu,sugarcane,Kharif,0.75,2415.36,121.11,95.54
+Maharashtra,maize,Rabi,6.98,1211.84,211.64,41.94
+Assam,coffee,Kharif,18.5,1007.52,103.2,30.72
+Telangana,maize,Kharif,3.13,752.98,121.06,33.8
+Tamil Nadu,maize,Rabi,13.62,1088.64,144.78,34.74
+Bihar,soybean,Zaid,9.45,1820.29,161.91,41.1
+Tamil Nadu,pulses,Kharif,1.8,907.29,226.78,30.33
+Karnataka,sugarcane,Kharif,6.87,2303.35,147.07,93.61
+Madhya Pradesh,wheat,Kharif,5.04,1591.92,347.12,55.18
+Punjab,ginger,Kharif,4.2,1751.97,174.53,40.86
+Rajasthan,ginger,Kharif,6.75,2368.28,63.78,48.01
+West Bengal,wheat,Kharif,8.98,1209.02,174.59,47.68
+Maharashtra,maize,Zaid,19.78,2179.73,190.27,51.84
+Bihar,coffee,Kharif,1.95,978.53,298.42,39.87
+Rajasthan,soybean,Kharif,19.1,2441.51,41.19,44.44
+Andhra Pradesh,groundnut,Rabi,19.65,2901.34,207.32,59.03
+West Bengal,tea,Rabi,6.11,2939.16,89.77,42.09
+Tamil Nadu,turmeric,Zaid,13.48,2661.34,174.43,51.96
+Odisha,sugarcane,Rabi,3.07,1645.22,83.23,84.55
+Rajasthan,pulses,Kharif,18.55,1759.61,173.49,30.38
+Karnataka,cotton,Zaid,17.65,2402.3,210.68,42.69
+Telangana,groundnut,Rabi,11.71,1359.78,100.3,41.65
+Madhya Pradesh,cumin,Rabi,11.93,617.55,96.4,24.64
+Punjab,soybean,Kharif,11.23,1828.38,273.16,55.14
+Kerala,pulses,Rabi,8.49,1211.41,85.1,29.17
+Karnataka,coffee,Zaid,5.8,2653.75,307.63,53.02
+Andhra Pradesh,turmeric,Zaid,19.66,436.92,119.78,35.4
+Telangana,rice,Zaid,14.46,431.11,112.4,43.26
+Uttar Pradesh,maize,Zaid,11.68,2000.58,253.18,52.84
+Bihar,rice,Zaid,9.92,2788.97,75.26,59.0
+Assam,sugarcane,Rabi,15.21,2929.57,169.9,102.83
+Kerala,cumin,Rabi,19.68,2303.89,130.0,40.57
+Bihar,tea,Rabi,18.18,2032.43,226.63,42.54
+Madhya Pradesh,maize,Rabi,15.29,645.52,104.66,30.54
+Assam,ginger,Rabi,1.96,1019.91,231.79,37.89
+Maharashtra,groundnut,Kharif,4.9,1454.16,346.33,50.82
+Andhra Pradesh,ginger,Rabi,5.28,733.77,307.74,44.71
+Tamil Nadu,wheat,Zaid,10.12,1569.23,129.64,47.42
+Rajasthan,turmeric,Kharif,8.31,2641.06,168.39,43.89
+Punjab,soybean,Rabi,16.39,779.96,89.18,36.33
+Tamil Nadu,cumin,Zaid,2.04,371.19,156.92,23.08
+Madhya Pradesh,coriander,Kharif,18.55,914.98,60.66,28.8
+Punjab,maize,Rabi,4.28,1252.59,206.91,42.52
+Rajasthan,chilli,Rabi,19.94,1326.15,284.36,43.28
+Maharashtra,maize,Zaid,8.19,865.38,295.08,43.33
+Andhra Pradesh,cotton,Zaid,13.65,1690.41,222.78,42.39
+Kerala,chilli,Zaid,9.14,920.13,312.51,48.14
+Punjab,millet,Kharif,4.1,976.32,74.7,29.94
+Odisha,rice,Rabi,9.22,624.45,332.28,47.78
+Punjab,turmeric,Kharif,0.54,1671.72,262.99,52.27
+Telangana,cotton,Rabi,18.98,1371.73,330.6,41.4
+Assam,coriander,Zaid,2.72,1395.5,40.67,32.83
+Tamil Nadu,coffee,Zaid,12.6,1240.34,155.79,37.33
+Karnataka,cumin,Rabi,9.73,723.83,213.6,27.18
+Telangana,coffee,Kharif,2.65,360.89,151.66,24.1
+Madhya Pradesh,rice,Kharif,15.66,1333.32,167.58,46.25
+Karnataka,wheat,Kharif,5.18,2677.27,341.54,64.92
+Tamil Nadu,tea,Kharif,13.87,1528.44,159.19,40.79
+Assam,cotton,Rabi,7.69,2678.39,82.94,44.58
+Haryana,groundnut,Kharif,2.76,721.42,311.5,44.25
+Bihar,pulses,Zaid,2.02,2676.67,170.24,43.99
+Karnataka,coffee,Zaid,17.54,2844.41,128.99,44.94
+Haryana,coffee,Kharif,2.14,613.4,95.17,30.18
+Assam,coriander,Rabi,3.1,792.81,267.75,35.3
+Karnataka,coriander,Zaid,9.23,1107.57,154.18,32.62
+Andhra Pradesh,rice,Zaid,6.44,838.62,79.02,40.73
+Bihar,millet,Rabi,13.53,2878.58,278.67,51.63
+Assam,millet,Rabi,6.03,2648.07,50.54,48.71
+Kerala,wheat,Zaid,15.91,1104.2,211.93,48.55
+Bihar,ginger,Rabi,16.8,508.47,234.81,38.14
+Madhya Pradesh,pulses,Zaid,14.88,2482.08,82.98,37.14
+Odisha,rice,Zaid,18.76,1017.83,321.63,50.32
+Telangana,millet,Zaid,2.8,450.27,280.82,34.06
+Maharashtra,millet,Kharif,2.95,856.3,295.74,39.11
+Rajasthan,coffee,Rabi,7.18,1389.64,108.87,32.07
+Uttar Pradesh,groundnut,Kharif,7.47,2834.76,168.51,54.45
+Andhra Pradesh,chilli,Zaid,11.85,959.91,329.67,48.63
+Odisha,coriander,Rabi,6.08,2357.25,182.21,47.73
+Andhra Pradesh,turmeric,Zaid,16.52,1143.96,270.39,44.8
+Kerala,cumin,Kharif,17.74,931.8,248.89,27.91
+West Bengal,millet,Kharif,17.57,2498.19,228.59,59.29
+West Bengal,coffee,Zaid,5.2,391.57,244.55,35.67
+Andhra Pradesh,turmeric,Zaid,13.99,2824.42,77.42,49.21
+Rajasthan,chilli,Rabi,7.77,2149.88,322.69,51.64
+Assam,tea,Zaid,16.42,1770.87,205.98,41.63
+Bihar,soybean,Rabi,18.37,1542.43,265.89,46.85
+Karnataka,rice,Zaid,15.18,1950.39,119.34,48.43
+Tamil Nadu,rice,Zaid,13.32,1679.23,331.45,54.75
+Uttar Pradesh,cotton,Kharif,4.55,989.42,290.5,37.41
+Madhya Pradesh,wheat,Zaid,6.55,2914.93,293.92,60.96
+Madhya Pradesh,cotton,Kharif,10.03,2206.14,79.25,41.02
+Haryana,wheat,Rabi,12.68,2423.85,98.18,50.33
+Kerala,tea,Rabi,6.47,2412.66,140.44,45.03
+Maharashtra,millet,Kharif,3.13,1188.65,336.66,46.86
+Bihar,rice,Kharif,1.01,1458.83,144.31,49.39
+West Bengal,tea,Kharif,5.18,864.97,319.73,41.1
+Uttar Pradesh,soybean,Zaid,3.53,348.56,226.19,43.84
+Karnataka,sugarcane,Zaid,8.45,2906.1,238.42,103.61
+Karnataka,millet,Kharif,13.49,318.09,53.48,24.45
+Haryana,sugarcane,Rabi,19.25,2668.62,267.74,104.17
+Tamil Nadu,chilli,Rabi,3.09,983.08,221.19,41.23
+Andhra Pradesh,chilli,Rabi,10.33,550.18,313.28,40.65
+Karnataka,turmeric,Zaid,13.48,1625.0,330.26,55.15
+Punjab,pulses,Kharif,2.66,2062.85,224.82,41.43
+Rajasthan,wheat,Rabi,6.39,2762.36,292.56,61.98
+Telangana,cotton,Rabi,5.29,2071.14,60.72,38.47
+Uttar Pradesh,cumin,Rabi,12.21,2641.44,140.73,42.53
+Haryana,pulses,Rabi,12.27,2024.4,58.95,38.51
+Karnataka,coffee,Rabi,4.05,631.06,224.55,33.51
+West Bengal,rice,Zaid,15.23,1106.02,234.12,49.1
+Haryana,coffee,Kharif,2.72,578.08,211.01,33.12
+Uttar Pradesh,pulses,Rabi,8.72,2165.01,322.15,50.28
+Punjab,rice,Kharif,1.39,604.21,233.11,48.3
+Rajasthan,rice,Kharif,1.8,843.06,204.76,44.61
+Uttar Pradesh,rice,Rabi,6.15,934.46,167.94,42.71
+Rajasthan,sugarcane,Zaid,0.7,567.73,44.7,74.43
+Rajasthan,pulses,Rabi,4.04,1096.05,175.36,28.69
+Bihar,coriander,Kharif,4.6,1875.03,85.38,37.67
+Odisha,chilli,Kharif,17.06,1957.04,174.87,36.99
+Tamil Nadu,pulses,Zaid,6.72,2576.29,242.33,47.0
+Madhya Pradesh,coriander,Rabi,0.83,916.67,104.63,31.73
+Odisha,chilli,Kharif,13.08,2743.01,79.62,44.04
+Assam,soybean,Kharif,19.09,410.72,70.21,30.08
+Odisha,chilli,Kharif,11.54,1202.36,152.02,37.62
+West Bengal,coffee,Zaid,3.57,2488.9,147.9,44.92
+Madhya Pradesh,coffee,Zaid,11.72,2118.92,58.54,37.76
+Odisha,turmeric,Kharif,2.32,2260.23,348.46,57.51
+Assam,groundnut,Zaid,15.87,1085.55,54.9,43.66
+Uttar Pradesh,turmeric,Kharif,0.82,2908.83,165.17,54.91
+Karnataka,rice,Rabi,7.44,1809.13,344.43,60.63
+Andhra Pradesh,groundnut,Zaid,16.52,1882.01,186.86,48.01
+Rajasthan,tea,Kharif,17.5,545.1,97.35,31.47
+Telangana,groundnut,Kharif,3.63,564.39,294.69,40.54
+Karnataka,soybean,Zaid,2.79,2571.81,167.45,51.04
+Punjab,maize,Kharif,1.83,2351.09,69.05,45.8
+Assam,soybean,Rabi,19.7,407.48,79.41,30.38
+Andhra Pradesh,millet,Rabi,14.9,2717.25,74.64,42.9
+Assam,groundnut,Kharif,3.64,1480.32,117.25,45.85
+Madhya Pradesh,turmeric,Rabi,3.99,1724.64,279.55,46.71
+Karnataka,pulses,Zaid,17.72,661.77,67.28,22.31
+Kerala,pulses,Kharif,14.77,1842.91,220.13,41.51
+Uttar Pradesh,cumin,Kharif,11.36,1577.41,83.77,26.71
+Haryana,millet,Zaid,2.84,2633.45,193.83,49.68
+Assam,coriander,Rabi,4.39,678.68,164.77,30.42
+Telangana,coriander,Rabi,6.15,1629.09,281.12,42.37
+Haryana,sugarcane,Rabi,6.71,1913.4,176.8,90.01
+Haryana,cotton,Kharif,11.72,2473.95,169.16,43.79
+Telangana,pulses,Kharif,17.38,790.2,237.54,26.82
+West Bengal,millet,Rabi,16.12,1235.41,184.48,39.34
+Madhya Pradesh,pulses,Rabi,14.6,1593.61,186.49,37.64
+Maharashtra,groundnut,Rabi,19.38,538.53,207.46,39.01
+Uttar Pradesh,tea,Kharif,1.89,548.95,89.16,32.4
+Uttar Pradesh,pulses,Kharif,18.18,905.08,167.35,27.75
+Haryana,sugarcane,Zaid,16.93,1834.91,102.43,91.06
+Tamil Nadu,tea,Rabi,12.59,1721.89,347.7,52.55
+Karnataka,tea,Rabi,1.31,1747.1,191.46,40.15
+Karnataka,turmeric,Zaid,3.12,817.04,86.11,37.41
+West Bengal,tea,Kharif,17.54,1779.79,244.51,37.94
+Tamil Nadu,rice,Zaid,8.0,2577.03,238.26,56.64
+Madhya Pradesh,groundnut,Rabi,14.06,977.37,251.9,46.32
+Andhra Pradesh,tea,Kharif,18.14,697.55,216.48,32.85
+Tamil Nadu,ginger,Zaid,18.0,1568.75,92.52,37.14
+West Bengal,cotton,Kharif,12.95,1441.44,221.4,42.01
+Bihar,chilli,Zaid,9.17,2838.5,329.39,57.13
+Tamil Nadu,coriander,Kharif,9.84,1024.51,216.53,31.61
+Odisha,cotton,Kharif,4.15,2655.56,226.8,47.71
+Assam,pulses,Kharif,17.22,1938.32,284.87,37.99
+Punjab,tea,Kharif,15.12,1246.96,84.85,35.02
+Odisha,soybean,Zaid,2.06,428.38,275.04,38.43
+Kerala,cumin,Zaid,14.34,2707.52,335.02,57.12
+Madhya Pradesh,turmeric,Rabi,15.38,2344.29,326.05,60.42
+Haryana,rice,Kharif,0.62,1953.73,171.07,51.38
+Uttar Pradesh,coffee,Zaid,11.13,659.78,289.53,39.85
+Tamil Nadu,rice,Kharif,16.98,2790.19,252.89,57.56
+Telangana,cumin,Kharif,16.35,1574.67,161.43,28.38
+Rajasthan,maize,Kharif,9.66,1069.87,173.13,41.85
+Maharashtra,tea,Zaid,16.6,1365.73,99.77,39.31
+Punjab,ginger,Zaid,16.13,1204.04,297.95,44.44
+Rajasthan,tea,Kharif,13.77,1681.54,131.35,40.58
+Madhya Pradesh,pulses,Rabi,5.02,1401.21,347.5,41.09
+Karnataka,sugarcane,Zaid,5.81,1565.46,229.8,94.41
+Bihar,soybean,Kharif,6.42,1467.85,52.65,43.23
+Assam,rice,Rabi,15.82,1891.56,273.21,56.44
+Rajasthan,pulses,Rabi,4.63,2659.55,203.55,45.8
+Telangana,rice,Kharif,16.13,664.19,139.8,41.96
+Madhya Pradesh,cumin,Kharif,16.78,1879.8,328.82,40.08
+Assam,ginger,Zaid,6.79,1176.73,315.68,48.44
+Telangana,wheat,Zaid,1.33,723.34,290.49,43.35
+Maharashtra,sugarcane,Rabi,14.39,2277.59,66.92,95.53
+Karnataka,cumin,Rabi,6.83,686.69,164.96,28.64
+Madhya Pradesh,millet,Kharif,18.23,1110.58,245.2,43.98
+Telangana,maize,Rabi,15.03,1631.84,233.19,47.03
+Haryana,sugarcane,Kharif,9.71,2862.67,45.52,90.14
+Uttar Pradesh,turmeric,Rabi,12.67,393.17,105.87,35.43
+Kerala,tea,Rabi,10.0,2896.07,199.9,44.44
+Punjab,rice,Zaid,5.4,930.7,73.01,48.62
+Uttar Pradesh,sugarcane,Kharif,6.42,567.08,201.54,87.18
+Telangana,maize,Rabi,7.12,1326.37,101.45,43.41
+Assam,rice,Kharif,7.57,1397.24,72.73,40.97
+Bihar,pulses,Zaid,12.5,2593.52,234.83,43.26
+Karnataka,cotton,Kharif,18.77,1393.21,250.08,34.49
+Odisha,cumin,Rabi,4.29,2277.78,187.02,39.02
+Rajasthan,rice,Kharif,19.43,728.91,208.72,44.8
+Uttar Pradesh,millet,Zaid,17.76,655.94,158.88,33.75
+Maharashtra,tea,Kharif,14.32,1615.23,191.11,37.73
+Maharashtra,coffee,Rabi,2.79,808.89,59.01,25.98
+Assam,chilli,Kharif,1.06,454.18,302.91,39.0
+Uttar Pradesh,turmeric,Kharif,3.61,623.61,60.8,32.71
+Karnataka,cotton,Rabi,13.1,1898.66,173.01,38.08
+Telangana,sugarcane,Zaid,14.11,1712.88,65.91,85.96
+Haryana,cumin,Kharif,13.72,465.01,156.58,24.37
+West Bengal,rice,Zaid,16.5,1700.5,49.23,43.46
+Madhya Pradesh,rice,Rabi,12.92,2411.12,223.37,61.13
+Madhya Pradesh,tea,Zaid,12.4,2404.68,114.09,44.97
+Telangana,pulses,Zaid,5.57,2082.92,74.95,31.12
+Kerala,turmeric,Kharif,7.56,2391.57,80.33,46.77
+Andhra Pradesh,tea,Rabi,11.87,886.99,236.13,33.3
+West Bengal,sugarcane,Zaid,9.6,1983.56,206.93,95.27
+Haryana,ginger,Zaid,8.78,1333.58,231.31,44.92
+Uttar Pradesh,groundnut,Zaid,5.65,536.36,331.84,42.53
+Punjab,chilli,Zaid,19.51,525.87,226.0,37.67
+Punjab,maize,Rabi,6.75,2811.28,338.09,62.67
+Uttar Pradesh,millet,Rabi,10.73,2513.8,303.11,52.11
+Tamil Nadu,ginger,Rabi,1.12,1628.4,195.08,44.54
+Madhya Pradesh,maize,Zaid,14.52,972.7,46.09,31.93
+Tamil Nadu,rice,Rabi,2.44,885.09,320.1,54.42
+Punjab,maize,Rabi,4.86,556.56,280.77,40.1
+Bihar,cotton,Rabi,10.57,2917.07,308.44,57.69
+Haryana,turmeric,Zaid,14.7,1851.65,154.36,43.35
+Odisha,pulses,Kharif,8.01,1494.13,72.69,26.79
+Tamil Nadu,chilli,Kharif,17.42,2141.57,122.09,46.09
+Karnataka,wheat,Zaid,19.47,440.82,82.19,37.26
+Kerala,coffee,Rabi,7.14,908.42,250.34,39.12
+Madhya Pradesh,chilli,Zaid,10.62,2682.39,118.56,47.43
+Uttar Pradesh,coriander,Kharif,7.41,768.45,128.12,31.69
+Andhra Pradesh,ginger,Kharif,2.69,1251.44,125.47,43.28
+Assam,sugarcane,Zaid,1.99,1217.14,218.15,90.87
+Madhya Pradesh,soybean,Rabi,19.85,707.35,103.38,35.75
+Maharashtra,wheat,Kharif,2.76,1659.93,90.06,43.49
+Karnataka,maize,Zaid,15.56,1605.29,192.33,47.96
+Kerala,tea,Rabi,0.61,2406.99,328.14,54.51
+Haryana,groundnut,Rabi,16.01,769.2,132.56,38.06
+Madhya Pradesh,maize,Rabi,19.29,1382.37,162.86,43.0
+Maharashtra,soybean,Kharif,1.92,2538.48,212.41,52.67
+Telangana,pulses,Rabi,1.7,1362.56,154.56,35.95
+Maharashtra,coriander,Rabi,3.13,2595.19,102.55,45.09
+Kerala,coffee,Rabi,15.69,2570.05,195.45,42.81
+Madhya Pradesh,ginger,Zaid,17.72,334.37,198.09,39.22
+Karnataka,coffee,Rabi,8.87,961.62,298.93,38.07
+Telangana,groundnut,Rabi,5.61,656.05,222.22,44.43
+Tamil Nadu,coffee,Kharif,3.17,2556.44,336.86,50.59
+West Bengal,coffee,Zaid,2.55,1226.02,283.42,41.53
+Punjab,soybean,Kharif,18.07,1363.77,111.34,39.72
+Haryana,ginger,Zaid,18.55,2870.42,264.21,60.02
+Haryana,rice,Zaid,8.26,1058.95,139.87,44.9
+Kerala,ginger,Kharif,19.67,2329.06,49.83,43.14
+Odisha,millet,Rabi,16.67,1715.39,328.97,44.93
+Odisha,soybean,Rabi,16.94,469.97,122.5,29.22
+West Bengal,coriander,Rabi,11.46,1934.82,187.66,36.76
+West Bengal,millet,Zaid,6.51,1203.86,115.95,31.86
+West Bengal,pulses,Kharif,10.59,2138.73,315.15,44.26
+Madhya Pradesh,soybean,Kharif,9.49,1203.1,131.46,35.52
+Odisha,coffee,Zaid,6.53,735.95,254.73,31.47
+Telangana,cumin,Kharif,7.28,2418.33,169.62,42.54
+Odisha,coffee,Rabi,11.84,2691.35,259.22,51.34
+Haryana,cotton,Kharif,10.89,2031.97,310.02,43.75
+Uttar Pradesh,rice,Kharif,9.04,2583.67,195.69,60.67
+Madhya Pradesh,pulses,Kharif,1.56,2483.18,344.91,51.23
+Madhya Pradesh,turmeric,Zaid,15.36,501.35,290.25,40.0
+Tamil Nadu,cotton,Rabi,5.26,856.41,345.47,38.14
+Rajasthan,cumin,Kharif,3.1,2834.67,311.05,52.73
+Tamil Nadu,coffee,Rabi,7.13,975.52,123.9,36.5
+Kerala,rice,Zaid,6.73,1228.1,309.61,50.6
+Madhya Pradesh,ginger,Rabi,2.36,1619.8,219.24,42.15
+Odisha,coffee,Kharif,7.01,639.61,348.69,40.08
+Uttar Pradesh,wheat,Kharif,9.46,501.63,178.49,37.37
+Tamil Nadu,ginger,Kharif,14.63,1893.85,291.23,55.14
+Madhya Pradesh,tea,Kharif,18.43,435.58,101.69,26.37
+Maharashtra,rice,Rabi,10.86,421.93,179.07,41.65
+Odisha,ginger,Zaid,6.24,2473.09,44.2,48.48
+Rajasthan,sugarcane,Kharif,5.72,1021.71,224.51,87.06
+Odisha,chilli,Kharif,2.74,1857.49,151.71,45.99
+Telangana,cotton,Kharif,16.79,1520.71,56.57,36.86
+Andhra Pradesh,sugarcane,Kharif,16.88,1482.39,323.36,99.03
+Bihar,wheat,Rabi,17.76,2254.44,288.03,58.51
+Kerala,ginger,Rabi,4.29,2644.86,144.05,49.21
+Bihar,pulses,Kharif,18.53,997.27,63.08,31.07
+Haryana,ginger,Zaid,10.02,476.3,195.33,36.27
+Kerala,coriander,Zaid,14.71,1737.61,320.72,45.06
+Assam,sugarcane,Rabi,10.55,303.5,254.77,83.4
+Maharashtra,sugarcane,Rabi,17.34,321.09,228.56,82.13
+Uttar Pradesh,coffee,Rabi,18.81,2022.03,343.91,46.25
+Karnataka,wheat,Kharif,12.74,2002.51,120.45,48.51
+Karnataka,cotton,Zaid,13.51,1280.01,117.85,27.97
+Telangana,cumin,Rabi,7.35,1781.03,82.71,37.23
+Punjab,sugarcane,Rabi,15.76,1262.13,65.97,83.2
+Assam,maize,Kharif,7.79,2678.6,114.05,55.17
+Telangana,cumin,Rabi,14.26,907.12,173.0,30.92
+West Bengal,pulses,Zaid,8.62,2896.65,170.42,39.97
+Haryana,millet,Rabi,1.91,2835.29,311.86,50.25
+Bihar,pulses,Kharif,14.88,448.5,238.23,27.49
+Haryana,cumin,Rabi,8.91,1286.14,194.99,31.02
+Andhra Pradesh,chilli,Rabi,10.73,2477.45,78.06,45.62
+Odisha,tea,Zaid,17.67,2485.23,307.91,52.47
+Maharashtra,maize,Zaid,4.13,331.13,321.27,44.22
+Telangana,millet,Zaid,12.95,1299.94,290.58,47.8
+Bihar,rice,Kharif,18.99,769.24,51.05,32.4
+Kerala,soybean,Zaid,6.22,2979.82,269.95,60.8
+Odisha,coriander,Kharif,3.28,860.86,284.44,35.78
+Rajasthan,soybean,Rabi,14.1,2292.6,306.02,50.38
+Rajasthan,cotton,Rabi,10.57,1800.57,162.22,40.24
+Punjab,ginger,Zaid,14.98,2153.16,303.4,51.22
+Odisha,maize,Kharif,7.14,2482.93,305.47,52.97
+Punjab,groundnut,Kharif,5.19,641.44,207.27,44.12
+Andhra Pradesh,maize,Kharif,2.58,1192.57,270.2,46.97
+Maharashtra,soybean,Kharif,6.99,2816.29,304.26,58.74
+Karnataka,rice,Kharif,1.8,2443.69,204.42,64.11
+Maharashtra,soybean,Rabi,19.11,1022.39,242.27,40.57
+Rajasthan,wheat,Zaid,1.96,2964.82,201.48,57.8
+Haryana,coffee,Zaid,3.43,2118.85,316.97,46.94
+Maharashtra,ginger,Zaid,13.0,1218.18,80.3,39.13
+Assam,wheat,Rabi,6.27,2064.17,315.32,60.34
+Kerala,cotton,Kharif,15.76,1286.91,78.07,34.21
+Karnataka,rice,Kharif,18.73,2558.52,135.27,53.67
+Punjab,rice,Kharif,12.82,1573.37,218.93,51.66
+Uttar Pradesh,rice,Rabi,7.22,1838.44,75.74,45.94
+Haryana,groundnut,Kharif,10.14,2894.8,293.3,63.57
+Odisha,coriander,Rabi,6.21,1207.43,84.64,34.0
+West Bengal,soybean,Rabi,17.42,701.08,197.52,33.86
+Tamil Nadu,sugarcane,Rabi,15.25,1658.05,82.44,87.32
+Tamil Nadu,millet,Rabi,18.07,1376.22,184.8,37.32
+West Bengal,ginger,Zaid,5.87,2646.71,100.03,56.07
+Karnataka,wheat,Rabi,14.57,1424.5,287.02,56.61
+Assam,ginger,Kharif,14.01,1250.57,232.04,44.33
+Odisha,turmeric,Rabi,15.85,984.29,167.22,38.12
+Andhra Pradesh,coriander,Zaid,4.25,512.89,63.66,30.32
+Telangana,tea,Zaid,19.76,2726.49,175.65,52.28
+Andhra Pradesh,coriander,Rabi,18.9,1366.99,98.52,31.41
+Tamil Nadu,sugarcane,Kharif,18.13,1207.25,152.95,83.1
+Tamil Nadu,sugarcane,Kharif,18.14,1941.74,94.3,91.03
+Rajasthan,coffee,Kharif,17.67,1746.02,45.43,34.29
+West Bengal,ginger,Kharif,4.84,2053.33,201.96,43.5
+Rajasthan,soybean,Rabi,19.62,1465.23,60.52,35.38
+Telangana,wheat,Kharif,19.35,454.64,105.18,34.58
+Punjab,cotton,Kharif,3.62,2907.91,323.63,47.87
+Rajasthan,tea,Kharif,11.23,2750.64,112.11,42.18
+Haryana,sugarcane,Kharif,6.54,1516.28,225.53,92.83
+Odisha,maize,Kharif,13.41,2271.77,254.67,55.21
+Haryana,cotton,Zaid,18.83,2771.94,142.71,47.36
+Rajasthan,millet,Kharif,10.39,2754.11,50.09,45.36
+Punjab,turmeric,Rabi,4.01,1886.68,200.99,48.83
+Bihar,tea,Kharif,12.29,695.96,45.66,25.24
+Andhra Pradesh,sugarcane,Kharif,6.75,454.22,111.02,76.02
+Madhya Pradesh,sugarcane,Zaid,7.41,2828.58,98.58,94.0
+Kerala,millet,Kharif,10.95,863.04,67.95,34.07
+Telangana,pulses,Rabi,19.44,1805.2,301.02,42.13
+Punjab,coriander,Rabi,10.06,2871.58,63.71,46.49
+Haryana,soybean,Zaid,19.16,1616.32,280.96,49.99
+West Bengal,cumin,Zaid,4.12,1819.84,211.38,40.01
+Tamil Nadu,coriander,Rabi,11.53,348.52,69.63,21.32
+Telangana,ginger,Rabi,10.61,1793.2,319.15,53.58
+Maharashtra,pulses,Zaid,2.19,479.98,122.24,26.09
+West Bengal,chilli,Kharif,15.3,1390.37,177.47,39.73
+Maharashtra,cumin,Zaid,9.03,1895.77,276.74,40.36
+Bihar,cumin,Rabi,3.04,2869.45,337.49,48.82
+Karnataka,tea,Zaid,19.62,2574.17,253.94,55.92
+Maharashtra,cumin,Rabi,1.65,1572.63,125.94,33.09
+Telangana,millet,Zaid,9.76,1931.12,180.49,46.2
+Assam,maize,Kharif,12.48,1100.4,180.55,40.43
+Kerala,tea,Kharif,19.11,1988.39,106.2,39.08
+Punjab,pulses,Zaid,0.94,1015.02,137.25,25.05
+Maharashtra,ginger,Rabi,19.94,1381.93,289.99,43.54
+West Bengal,sugarcane,Rabi,4.74,1319.93,133.86,86.12
+Tamil Nadu,pulses,Zaid,8.25,583.77,84.68,26.24
+Bihar,tea,Zaid,17.22,1001.83,266.42,39.01
+Bihar,ginger,Zaid,17.82,2713.31,148.18,51.3
+Uttar Pradesh,chilli,Kharif,4.6,1933.37,173.2,44.73
+Bihar,wheat,Zaid,17.26,738.34,65.8,40.36
+Madhya Pradesh,pulses,Rabi,1.43,1684.06,154.0,30.51
+West Bengal,tea,Rabi,9.1,1713.71,106.81,35.0
+Rajasthan,sugarcane,Zaid,18.59,1768.46,126.35,88.35
+Odisha,pulses,Zaid,19.06,393.19,224.52,23.78
+Telangana,coffee,Kharif,2.39,2097.81,108.06,38.56
+Kerala,millet,Kharif,8.66,2682.59,343.11,56.9
+Assam,groundnut,Kharif,15.88,2866.77,236.13,58.45
+Rajasthan,rice,Zaid,3.69,2662.23,86.72,60.74
+Haryana,tea,Kharif,1.04,1750.16,114.59,37.12
+Tamil Nadu,coffee,Rabi,16.14,1900.15,233.52,40.74
+Assam,soybean,Rabi,19.16,1646.45,205.65,47.38
+Assam,turmeric,Rabi,5.7,2552.28,56.2,40.63
+Odisha,pulses,Kharif,16.01,942.96,193.26,28.85
+Punjab,soybean,Zaid,3.35,2237.56,95.01,46.88
+Punjab,cumin,Zaid,16.44,1931.49,182.29,39.75
+Kerala,groundnut,Kharif,17.37,1529.19,261.18,45.75
+Kerala,chilli,Kharif,15.08,424.1,298.14,40.23
+Rajasthan,pulses,Kharif,15.11,788.8,243.56,30.72
+Tamil Nadu,cotton,Rabi,7.49,2395.49,304.45,48.09
+West Bengal,chilli,Rabi,0.55,2755.81,312.13,57.8
+Tamil Nadu,millet,Kharif,8.25,629.94,110.2,33.08
+Tamil Nadu,ginger,Kharif,11.11,2048.46,287.98,52.05
+Rajasthan,rice,Rabi,18.63,2781.78,110.08,55.79
+Kerala,coffee,Kharif,1.21,2833.12,216.79,49.76
+Madhya Pradesh,soybean,Rabi,6.2,548.34,220.17,37.98
+Odisha,soybean,Kharif,2.7,2632.66,109.73,47.82
+Madhya Pradesh,chilli,Kharif,6.3,1793.02,285.2,44.18
+Andhra Pradesh,cumin,Zaid,10.7,945.68,214.66,33.3
+Assam,rice,Rabi,3.41,2660.62,176.76,54.55
+Telangana,tea,Kharif,6.55,2537.08,326.66,53.1
+Bihar,turmeric,Rabi,5.36,509.65,283.09,40.72
+West Bengal,tea,Rabi,13.85,756.75,304.16,33.71
+West Bengal,rice,Zaid,5.07,647.58,336.97,43.11
+West Bengal,coriander,Kharif,16.99,1096.21,203.81,32.33
+Uttar Pradesh,wheat,Rabi,3.56,1984.78,276.01,48.51
+Punjab,cotton,Rabi,0.74,2197.06,240.94,43.26
+Bihar,chilli,Rabi,19.89,1878.71,160.41,50.45
+West Bengal,rice,Zaid,15.78,1006.36,209.69,47.19
+Rajasthan,tea,Rabi,12.41,1628.45,268.53,41.64
+Maharashtra,coffee,Zaid,10.13,500.08,188.57,31.06
+Madhya Pradesh,tea,Rabi,10.33,2930.82,44.21,45.12
+Bihar,wheat,Zaid,1.65,2690.14,44.26,59.87
+Rajasthan,cotton,Zaid,2.68,1420.68,148.8,36.11
+Tamil Nadu,turmeric,Rabi,1.31,1544.03,202.86,47.18
+Telangana,groundnut,Kharif,7.37,729.78,263.04,44.01
+Maharashtra,tea,Rabi,14.07,1765.9,232.9,43.79
+Uttar Pradesh,tea,Rabi,13.62,2492.13,70.05,35.38
+Andhra Pradesh,turmeric,Kharif,4.46,1144.7,70.09,35.86
+Tamil Nadu,rice,Kharif,6.85,1798.85,315.89,58.17
+Andhra Pradesh,turmeric,Kharif,9.86,2076.68,222.52,48.93
+Karnataka,pulses,Zaid,14.6,412.35,106.37,21.67
+West Bengal,groundnut,Zaid,19.73,2560.12,119.29,51.68
+Assam,cumin,Rabi,12.66,2363.13,182.44,43.76
+Punjab,wheat,Zaid,3.26,1131.49,222.34,45.9
+Tamil Nadu,maize,Zaid,7.87,1652.44,313.75,48.3
+Assam,cumin,Zaid,19.82,1921.13,94.88,32.06
+Rajasthan,cotton,Kharif,8.2,2815.48,150.59,44.02
+Bihar,millet,Kharif,10.18,772.11,134.58,32.23
+Andhra Pradesh,chilli,Zaid,6.94,581.41,150.16,38.02
+Tamil Nadu,sugarcane,Zaid,12.89,1842.97,47.45,85.14
+Bihar,sugarcane,Kharif,4.79,433.77,84.8,83.76
+Uttar Pradesh,coffee,Kharif,9.44,1523.84,346.42,44.44
+Andhra Pradesh,ginger,Kharif,9.47,2121.35,189.88,52.7
+Uttar Pradesh,chilli,Kharif,4.03,1571.57,63.94,41.1
+Punjab,sugarcane,Kharif,1.49,2025.63,226.21,97.63
+Punjab,ginger,Kharif,10.02,2351.42,174.09,48.42
+Odisha,ginger,Zaid,16.23,2804.86,279.71,54.58
+Haryana,sugarcane,Rabi,6.99,1063.56,185.86,85.53
+West Bengal,coriander,Zaid,17.67,792.56,323.84,35.56
+Karnataka,groundnut,Rabi,13.17,586.68,155.84,39.19
+Bihar,coffee,Kharif,11.85,1569.88,153.18,37.05
+Maharashtra,cumin,Rabi,17.34,2744.35,300.42,42.2
+Haryana,sugarcane,Zaid,19.47,930.22,276.03,90.4
+Assam,pulses,Kharif,2.8,346.49,319.26,30.57
+Maharashtra,maize,Rabi,12.68,1912.04,57.91,41.66
+Karnataka,groundnut,Zaid,3.58,1443.8,222.62,48.37
+Punjab,groundnut,Zaid,6.17,355.4,52.17,26.54
+West Bengal,chilli,Zaid,7.46,1245.95,43.69,38.54
+Kerala,soybean,Rabi,16.36,1542.66,315.61,50.4
+Assam,coffee,Kharif,4.25,352.15,241.57,33.46
+Assam,coffee,Kharif,3.79,954.62,260.8,32.45
+Maharashtra,maize,Zaid,9.72,2397.83,338.8,59.84
+Madhya Pradesh,millet,Rabi,1.38,2622.09,162.74,45.61
+Odisha,cotton,Rabi,16.59,2495.93,214.66,44.97
+Kerala,ginger,Zaid,8.84,2894.07,112.03,52.34
+Karnataka,millet,Rabi,0.51,759.39,315.08,39.34
+West Bengal,tea,Kharif,8.75,2704.5,295.77,59.19
+Odisha,maize,Zaid,10.69,1866.41,63.6,47.01
+Tamil Nadu,pulses,Kharif,3.86,2991.01,331.5,51.07
+Uttar Pradesh,millet,Kharif,10.0,2408.29,332.18,56.35
+Maharashtra,maize,Zaid,2.58,2935.28,320.83,59.49
+Rajasthan,tea,Rabi,15.45,2196.05,251.73,47.25
+Assam,wheat,Rabi,14.02,785.09,134.5,34.79
+Assam,groundnut,Kharif,9.12,1894.74,300.58,55.56
+Rajasthan,millet,Kharif,10.35,1084.81,291.92,41.88
+Tamil Nadu,turmeric,Zaid,13.9,2541.15,181.15,51.66
+Andhra Pradesh,soybean,Kharif,15.42,2975.48,83.53,51.32
+Assam,coriander,Zaid,10.54,2636.61,77.71,36.39
+Haryana,rice,Kharif,12.06,2820.66,93.79,58.86
+Tamil Nadu,ginger,Kharif,9.58,2874.97,75.14,54.88
+Rajasthan,groundnut,Rabi,7.3,1877.72,60.71,43.64
+Telangana,millet,Rabi,4.58,345.92,173.28,30.28
+Uttar Pradesh,rice,Zaid,4.4,2590.82,106.47,48.59
+Haryana,ginger,Kharif,18.55,2107.25,124.99,44.22
+West Bengal,sugarcane,Rabi,18.15,2427.8,339.41,100.73
+Uttar Pradesh,rice,Rabi,1.2,2211.4,272.01,64.35
+Telangana,turmeric,Zaid,15.17,2633.43,249.98,60.82
+West Bengal,wheat,Kharif,15.83,1959.92,230.06,53.78
+Andhra Pradesh,coffee,Kharif,5.16,832.08,45.87,26.21
+Telangana,chilli,Kharif,14.07,1907.85,94.35,44.39
+Haryana,maize,Rabi,2.95,2612.21,107.41,51.28
+Odisha,soybean,Zaid,12.57,1480.19,204.4,42.04
+West Bengal,maize,Kharif,14.57,896.79,347.61,46.75
+Tamil Nadu,coriander,Zaid,1.18,521.42,304.08,29.81
+Odisha,maize,Zaid,6.86,2972.04,301.8,56.77
+Assam,coffee,Rabi,13.82,2721.78,142.99,44.63
+Telangana,rice,Zaid,19.59,536.6,347.81,48.51
+Karnataka,soybean,Zaid,17.82,2184.06,99.99,40.42
+Kerala,ginger,Kharif,14.87,2867.48,151.18,52.35
+Rajasthan,rice,Kharif,6.09,2391.64,314.85,67.62
+Kerala,turmeric,Rabi,1.55,2346.21,197.27,52.41
+Assam,sugarcane,Rabi,1.65,686.73,160.2,80.74
+Tamil Nadu,pulses,Zaid,9.68,479.36,217.52,24.61
+Rajasthan,millet,Zaid,2.91,1577.26,75.98,36.4
+Madhya Pradesh,tea,Rabi,11.92,1461.39,290.09,44.76
+Karnataka,soybean,Zaid,12.87,2204.92,306.81,50.64
+West Bengal,sugarcane,Zaid,12.2,2729.49,197.45,99.96
+Odisha,rice,Zaid,15.08,912.04,129.33,44.4
+Assam,sugarcane,Kharif,1.53,542.64,202.17,81.43
+Uttar Pradesh,groundnut,Rabi,7.19,2896.88,107.92,56.15
+Assam,ginger,Zaid,1.82,373.59,173.21,36.18
+Andhra Pradesh,coriander,Zaid,6.37,1711.4,218.61,37.7
+Haryana,chilli,Kharif,4.67,2643.27,176.19,51.26
+Maharashtra,turmeric,Rabi,9.96,819.97,71.99,36.78
+Andhra Pradesh,coffee,Zaid,6.92,2937.9,171.84,46.13
+Tamil Nadu,cumin,Rabi,19.46,2249.25,328.09,44.72
+Kerala,turmeric,Zaid,4.36,315.14,82.02,32.27
+Telangana,coffee,Rabi,14.63,1276.04,89.04,32.26
+Haryana,cotton,Zaid,13.17,2785.67,306.44,52.74
+Odisha,turmeric,Rabi,2.72,1432.12,320.75,48.0
+Andhra Pradesh,cumin,Kharif,6.66,2290.82,260.58,38.29
+Assam,millet,Zaid,3.28,1434.26,327.88,44.87
+Punjab,coffee,Zaid,5.34,2725.88,172.47,42.86
+Madhya Pradesh,maize,Rabi,10.67,2160.92,190.26,49.96
+Bihar,rice,Rabi,9.79,1348.97,249.39,51.25
+Maharashtra,chilli,Rabi,10.74,2147.71,253.38,50.82
+Tamil Nadu,tea,Kharif,7.63,1497.96,139.12,40.78
+Punjab,cumin,Kharif,19.77,2045.74,312.13,36.97
+Tamil Nadu,maize,Rabi,7.31,1518.67,322.57,51.49
+Kerala,pulses,Zaid,12.73,1251.35,183.69,34.5
+Odisha,pulses,Rabi,11.29,768.71,64.9,23.3
+Telangana,tea,Rabi,12.96,1391.91,251.59,42.18
+Uttar Pradesh,coriander,Kharif,12.58,2992.74,296.49,51.66
+Punjab,tea,Rabi,19.2,842.8,244.62,39.61
+Rajasthan,cumin,Kharif,18.98,2556.81,174.72,45.94
+Kerala,wheat,Zaid,11.27,2612.25,71.4,53.84
+Kerala,cumin,Rabi,19.23,1455.46,266.99,40.75
+Odisha,ginger,Rabi,18.68,708.05,240.96,40.27
+Bihar,cotton,Kharif,3.88,1857.32,56.02,39.91
+Andhra Pradesh,groundnut,Rabi,1.22,625.39,333.68,42.95
+Andhra Pradesh,maize,Kharif,18.54,2777.6,160.27,56.88
+Rajasthan,millet,Rabi,1.21,2501.9,102.47,46.15
+Punjab,groundnut,Rabi,14.8,1313.77,273.86,48.84
+Odisha,turmeric,Zaid,17.25,2595.72,340.93,55.99
+Telangana,coriander,Zaid,18.54,2546.34,127.92,44.76
+Haryana,chilli,Kharif,2.98,800.62,78.38,37.47
+Assam,cotton,Zaid,5.04,1008.3,74.82,31.32
+Karnataka,groundnut,Kharif,8.23,1647.14,73.18,43.29
+Bihar,cotton,Zaid,13.61,1353.07,275.12,38.42
+Punjab,coriander,Zaid,4.17,1518.88,133.0,31.48
+Kerala,pulses,Kharif,13.76,1925.43,41.83,31.83
+Maharashtra,millet,Rabi,10.0,506.06,232.47,36.82
+Tamil Nadu,rice,Rabi,1.12,1692.62,147.55,50.12
+Kerala,soybean,Rabi,6.94,2873.46,215.66,53.98
+Punjab,ginger,Rabi,14.95,1787.82,56.54,41.95
+Odisha,sugarcane,Rabi,10.63,373.47,245.65,74.08
+Punjab,cumin,Kharif,4.17,2070.34,205.94,41.4
+Assam,turmeric,Kharif,17.38,877.46,323.8,44.07
+Odisha,rice,Kharif,12.19,2681.72,104.94,54.84
+Assam,cotton,Zaid,19.73,539.06,251.95,34.49
+Haryana,millet,Zaid,5.5,1498.22,51.81,28.14
+Kerala,wheat,Rabi,18.92,1331.84,49.18,34.65
+Telangana,soybean,Zaid,7.46,2710.57,129.53,47.81
+Telangana,pulses,Kharif,18.94,951.78,233.61,33.26
+Uttar Pradesh,sugarcane,Rabi,11.33,2048.94,85.09,92.53
+Punjab,sugarcane,Kharif,13.9,2665.1,162.6,96.06
+Tamil Nadu,millet,Rabi,13.67,945.06,283.53,39.99
+West Bengal,millet,Kharif,9.32,875.99,287.81,39.3
+Punjab,coffee,Zaid,15.97,1163.2,279.21,42.27
+Maharashtra,coriander,Zaid,3.47,2715.49,142.1,42.08
+Uttar Pradesh,tea,Rabi,6.16,1619.74,329.65,43.51
+Haryana,cotton,Kharif,3.14,2071.65,308.66,49.97
+Haryana,cotton,Rabi,2.86,2631.76,346.83,56.28
+Telangana,pulses,Rabi,1.92,2667.41,175.71,44.16
+Kerala,sugarcane,Kharif,11.62,2892.4,199.1,100.06
+Tamil Nadu,cotton,Rabi,18.55,2633.71,311.24,56.88
+Uttar Pradesh,groundnut,Kharif,7.54,1475.05,88.37,42.03
+Punjab,coffee,Rabi,7.8,1263.88,207.94,33.89
+Madhya Pradesh,cumin,Kharif,16.51,2769.5,85.72,40.44
+Assam,millet,Zaid,5.28,1746.54,175.84,41.02
+Odisha,ginger,Zaid,6.33,353.73,192.51,33.6
+Maharashtra,maize,Rabi,17.72,2730.36,336.61,64.66
+Tamil Nadu,maize,Rabi,16.58,364.22,220.96,37.35
+Madhya Pradesh,chilli,Rabi,7.74,849.75,55.71,31.22
+Rajasthan,tea,Zaid,5.89,2793.2,194.48,47.69
+Maharashtra,turmeric,Kharif,4.31,555.78,103.71,38.26
+Punjab,sugarcane,Kharif,8.63,1985.29,338.2,98.65
+Karnataka,cumin,Kharif,11.53,2401.29,111.48,39.53
+Punjab,tea,Zaid,6.8,1085.58,53.27,33.57
+Assam,groundnut,Zaid,3.41,1977.6,65.11,42.67
+Punjab,maize,Rabi,2.77,712.49,200.53,39.83
+Assam,maize,Kharif,12.27,2768.32,243.46,58.26
+Karnataka,soybean,Rabi,16.31,1492.22,65.92,41.02
+Punjab,soybean,Kharif,8.11,1986.84,312.75,55.22
+Tamil Nadu,rice,Zaid,17.83,2301.09,275.36,58.61
+Punjab,cotton,Kharif,10.1,2782.87,338.52,56.22
+Maharashtra,millet,Zaid,0.59,667.57,278.15,38.38
+Andhra Pradesh,cumin,Rabi,11.08,780.83,335.51,34.11
+Telangana,cotton,Zaid,7.67,720.01,214.47,31.55
+Tamil Nadu,chilli,Rabi,3.76,1143.83,95.13,30.48
+Rajasthan,cumin,Kharif,1.67,1029.74,306.36,36.9
+Rajasthan,soybean,Kharif,5.57,1170.55,145.9,39.31
+Maharashtra,pulses,Rabi,2.23,1751.2,64.86,31.4
+Kerala,maize,Rabi,12.04,2686.23,124.9,46.5
+Punjab,cotton,Zaid,4.1,2931.38,117.28,43.61
+Rajasthan,maize,Kharif,16.71,2956.21,125.32,52.98
+Assam,millet,Zaid,14.07,1611.96,145.55,34.55
+Karnataka,cotton,Zaid,0.79,730.05,113.84,22.14
+Maharashtra,coriander,Kharif,18.53,2495.34,174.61,45.74
+Bihar,cotton,Rabi,3.47,2908.26,148.08,48.64
+West Bengal,ginger,Kharif,3.76,434.78,140.34,33.94
+Odisha,ginger,Rabi,17.56,862.48,46.84,33.16
+Maharashtra,cumin,Rabi,0.54,1617.39,135.68,27.61
+Assam,millet,Rabi,12.94,1098.68,63.46,34.65
+Telangana,sugarcane,Zaid,17.65,1806.19,227.48,94.91
+Karnataka,groundnut,Kharif,18.45,471.42,174.65,34.95
+Punjab,ginger,Zaid,2.33,1276.12,326.22,43.85
+Karnataka,tea,Kharif,8.77,1328.11,247.7,37.79
+Maharashtra,coffee,Kharif,18.11,1167.1,211.86,38.28
+West Bengal,pulses,Zaid,5.1,630.26,184.19,31.05
+Bihar,coriander,Rabi,4.95,1775.81,212.84,37.21
+Haryana,coriander,Zaid,5.1,1745.22,191.21,39.64
+Assam,cotton,Kharif,4.4,1889.21,339.58,47.28
+Haryana,wheat,Kharif,3.82,944.27,245.1,47.51
+Madhya Pradesh,rice,Rabi,4.78,2775.05,130.45,57.01
+Andhra Pradesh,rice,Rabi,1.49,2767.82,235.51,60.13
+Kerala,cotton,Kharif,12.42,2942.96,214.26,47.03
+Assam,chilli,Rabi,11.93,1582.77,89.95,34.42
+Assam,groundnut,Zaid,18.08,1824.85,109.07,41.86
+Karnataka,millet,Kharif,8.87,1238.88,124.63,30.64
+Madhya Pradesh,millet,Kharif,6.75,1263.52,79.14,30.27
+Uttar Pradesh,wheat,Kharif,18.64,2833.72,46.25,50.07
+Andhra Pradesh,sugarcane,Zaid,17.5,2081.37,98.53,88.19
+Maharashtra,chilli,Rabi,2.01,1326.84,107.0,38.73
+Assam,sugarcane,Rabi,14.93,2297.45,163.17,93.51
+Telangana,soybean,Kharif,1.6,2480.28,226.64,53.34
+Punjab,coffee,Rabi,18.26,2837.46,165.84,51.66
+Andhra Pradesh,pulses,Zaid,6.54,1712.62,210.67,36.82
+Karnataka,chilli,Kharif,17.31,2390.39,281.97,51.47
+Karnataka,coriander,Kharif,19.33,1292.42,60.2,25.98
+Bihar,groundnut,Zaid,2.46,1784.19,282.63,54.98
+Andhra Pradesh,wheat,Rabi,13.65,1605.79,127.54,41.63
+Uttar Pradesh,ginger,Zaid,8.53,592.12,87.8,38.05
+Bihar,sugarcane,Rabi,8.47,1013.57,246.31,87.8
+Andhra Pradesh,turmeric,Kharif,12.24,716.73,65.97,30.51
+Odisha,chilli,Kharif,11.05,2242.02,245.03,54.97
+West Bengal,tea,Zaid,14.49,1804.56,237.99,42.33
+Bihar,pulses,Zaid,19.17,2803.2,89.88,41.38
+Rajasthan,rice,Rabi,11.02,1500.21,252.68,50.13
+Madhya Pradesh,groundnut,Zaid,10.28,2172.61,181.53,51.78
+Assam,coffee,Rabi,9.07,2092.8,53.05,35.22
+Andhra Pradesh,pulses,Rabi,9.06,481.4,55.15,21.08
+Assam,pulses,Kharif,16.23,1228.06,156.64,33.33
+Assam,turmeric,Zaid,14.94,1269.08,63.66,39.57
+Karnataka,cotton,Rabi,6.32,610.98,303.14,36.14
+Rajasthan,millet,Kharif,16.38,1360.9,69.23,32.47
+Madhya Pradesh,sugarcane,Zaid,15.75,681.78,77.77,73.03
+Telangana,ginger,Zaid,13.8,1228.3,154.03,40.2
+Assam,groundnut,Rabi,15.4,1363.06,149.08,45.6
+Telangana,rice,Kharif,6.54,1757.83,85.16,49.3
+Rajasthan,coriander,Kharif,16.76,2267.05,88.33,42.21
+Madhya Pradesh,tea,Kharif,11.73,2739.54,215.31,44.35
+Odisha,chilli,Rabi,1.81,1975.73,334.26,51.36
+Andhra Pradesh,cumin,Rabi,19.95,1798.04,103.82,30.86
+Odisha,coffee,Zaid,3.06,1759.78,305.32,46.04
+Assam,millet,Kharif,17.54,753.54,208.47,32.9
+Kerala,millet,Zaid,17.09,2706.91,268.61,59.31
+Kerala,cotton,Zaid,15.58,960.96,158.03,32.19
+Punjab,maize,Zaid,1.37,1394.95,202.23,45.34
+Madhya Pradesh,coriander,Zaid,1.5,551.09,288.62,32.18
+Rajasthan,cotton,Zaid,14.91,2306.02,342.15,53.21
+Karnataka,coriander,Rabi,4.89,2595.82,309.02,48.88
+Assam,cumin,Kharif,19.47,1273.22,84.55,34.74
+Bihar,turmeric,Rabi,11.28,2768.41,93.45,52.66
+Andhra Pradesh,sugarcane,Kharif,6.24,674.19,46.99,76.15
+Bihar,rice,Kharif,15.12,357.9,306.77,46.01
+Karnataka,wheat,Kharif,9.58,1452.8,255.52,49.87
+Madhya Pradesh,wheat,Kharif,0.59,2061.0,339.62,58.37
+West Bengal,wheat,Kharif,19.88,610.21,114.8,36.14
+Uttar Pradesh,pulses,Rabi,1.32,1621.32,315.43,38.69
+Karnataka,rice,Zaid,5.24,2608.34,291.33,64.15
+Karnataka,soybean,Rabi,13.6,659.47,306.17,41.8
+Telangana,millet,Kharif,8.35,2520.49,348.73,56.59
+Tamil Nadu,cumin,Kharif,10.06,2384.11,317.06,47.51
+Odisha,coffee,Zaid,15.39,2056.87,288.25,48.5
+Kerala,chilli,Rabi,7.58,836.77,184.56,35.19
+Odisha,coriander,Rabi,10.41,409.71,230.2,39.18
+West Bengal,cumin,Kharif,1.27,2626.99,336.1,49.66
+Haryana,turmeric,Zaid,12.45,1436.54,240.71,48.18
+Tamil Nadu,chilli,Zaid,17.67,1913.65,299.99,51.87
+Haryana,cotton,Rabi,2.31,2138.34,135.2,38.98
+Tamil Nadu,coffee,Kharif,16.99,991.72,197.19,32.26
+Andhra Pradesh,sugarcane,Rabi,13.22,876.22,261.84,85.37
+Haryana,soybean,Rabi,18.24,1677.44,154.45,45.83
+Rajasthan,millet,Zaid,11.03,441.44,308.7,35.4
+Andhra Pradesh,cotton,Zaid,14.69,2820.86,313.59,52.46
+Telangana,pulses,Kharif,11.61,2298.05,157.73,32.47
+Andhra Pradesh,wheat,Kharif,11.37,1910.76,155.87,54.52
+Uttar Pradesh,turmeric,Zaid,11.16,2288.33,283.56,54.92
+Andhra Pradesh,coffee,Rabi,5.58,1054.25,340.26,45.29
+Haryana,pulses,Zaid,7.36,1298.77,105.15,32.49
+Telangana,pulses,Zaid,18.93,423.01,263.95,21.99
+Kerala,groundnut,Zaid,17.1,1862.87,234.05,50.57
+Uttar Pradesh,maize,Rabi,5.54,2438.8,131.03,51.32
+Rajasthan,chilli,Kharif,17.48,2799.79,316.65,58.16
+Punjab,groundnut,Zaid,18.58,701.01,285.27,39.45
+Odisha,rice,Kharif,7.3,378.25,153.48,39.93
+Telangana,soybean,Kharif,5.17,1269.14,247.87,42.43
+Maharashtra,maize,Zaid,5.58,350.89,290.58,38.16
+Uttar Pradesh,coriander,Zaid,5.44,657.42,148.53,27.23
+Kerala,pulses,Rabi,12.23,1599.2,56.44,27.93
+Assam,sugarcane,Kharif,16.17,1443.39,68.39,85.04
+Andhra Pradesh,chilli,Rabi,19.33,831.18,345.8,37.83
+Madhya Pradesh,groundnut,Kharif,13.12,415.51,124.69,34.95
+Telangana,coffee,Kharif,12.45,2512.48,267.85,45.37
+Haryana,wheat,Rabi,6.37,2001.32,69.84,44.91
+Madhya Pradesh,cotton,Kharif,13.61,1677.21,132.0,40.33
+Assam,ginger,Rabi,15.24,2455.3,127.22,48.19
+Maharashtra,turmeric,Zaid,2.02,2773.31,52.8,47.19
+Madhya Pradesh,tea,Zaid,15.46,443.23,100.43,31.5
+Madhya Pradesh,coriander,Zaid,11.07,710.05,315.04,40.24
+Uttar Pradesh,cotton,Rabi,13.61,2576.84,100.66,44.7
+Rajasthan,maize,Kharif,17.69,1398.77,258.94,45.13
+Assam,soybean,Rabi,7.15,946.86,307.92,44.35
+Madhya Pradesh,groundnut,Rabi,14.32,1148.83,104.44,37.2
+Tamil Nadu,chilli,Rabi,4.14,653.0,97.99,31.46
+Bihar,cumin,Rabi,1.92,1109.43,202.66,27.52
+Andhra Pradesh,maize,Zaid,15.35,2592.11,50.5,42.14
+Odisha,cumin,Kharif,6.76,467.76,305.18,30.84
+Maharashtra,soybean,Rabi,9.46,2441.04,102.39,47.01
+Tamil Nadu,pulses,Kharif,12.87,2985.56,333.55,49.66
+Bihar,tea,Zaid,6.42,415.24,245.02,32.82
+Telangana,ginger,Rabi,7.57,2593.56,278.34,56.61
+Uttar Pradesh,ginger,Zaid,15.5,1266.06,126.45,31.65
+Andhra Pradesh,maize,Zaid,7.6,1554.12,297.54,52.2
+Maharashtra,coriander,Kharif,5.93,1690.03,218.91,39.79
+Madhya Pradesh,soybean,Kharif,7.04,878.75,259.27,45.7
+Punjab,millet,Zaid,4.09,1881.04,297.44,46.37
+Kerala,turmeric,Kharif,8.98,1025.69,76.75,39.52
+Assam,cotton,Zaid,2.71,1076.36,334.4,38.76
+Punjab,chilli,Zaid,8.05,1773.73,62.73,35.89
+Maharashtra,sugarcane,Kharif,3.13,737.71,51.66,78.52
+Kerala,rice,Kharif,9.07,797.34,239.39,49.92
+Odisha,coriander,Zaid,13.69,2019.52,219.19,44.64
+Madhya Pradesh,cotton,Rabi,17.56,2218.99,99.69,44.72
+Madhya Pradesh,rice,Zaid,12.36,2941.89,213.02,61.17
+West Bengal,ginger,Zaid,7.35,2174.17,318.82,51.03
+Madhya Pradesh,coffee,Zaid,18.1,1317.92,267.8,38.43
+Odisha,ginger,Rabi,4.59,2296.74,222.4,50.69
+Assam,tea,Kharif,13.73,506.05,345.53,37.69
+Rajasthan,pulses,Kharif,18.37,578.83,55.7,19.4
+Madhya Pradesh,coriander,Kharif,15.75,1140.73,338.69,42.09
+Uttar Pradesh,turmeric,Rabi,18.79,1757.14,216.45,45.68
+Tamil Nadu,chilli,Rabi,4.99,1542.36,245.96,43.75
+Haryana,soybean,Zaid,19.58,1512.25,83.16,39.94
+Assam,pulses,Kharif,17.35,2108.54,213.73,40.58
+Punjab,coffee,Zaid,10.22,662.7,74.0,25.32
+Andhra Pradesh,cotton,Kharif,6.81,2792.73,183.82,48.45
+Assam,cotton,Rabi,9.76,2425.96,211.91,49.65
+Maharashtra,tea,Rabi,14.58,2360.61,73.7,38.03
+Karnataka,coffee,Zaid,17.55,1287.43,89.04,34.15
+Punjab,coriander,Kharif,15.51,2856.86,307.04,48.4
+Maharashtra,soybean,Rabi,17.29,2158.11,162.73,45.19
+Maharashtra,coriander,Rabi,8.81,697.83,148.34,32.31
+Telangana,maize,Zaid,11.92,377.4,337.97,42.77
+Telangana,coriander,Rabi,8.48,2726.25,174.04,45.07
+West Bengal,ginger,Rabi,12.05,383.03,211.26,34.94
+Telangana,cumin,Zaid,18.56,2940.36,152.18,47.0
+Punjab,cotton,Zaid,6.56,2510.89,214.13,44.14
+Maharashtra,sugarcane,Rabi,1.28,1390.83,111.25,85.56
+Tamil Nadu,cotton,Zaid,15.89,2823.94,45.46,45.64
+Bihar,ginger,Kharif,8.2,2424.6,114.06,46.71
+Madhya Pradesh,cotton,Kharif,16.4,1120.87,324.23,35.74
+Telangana,coffee,Zaid,9.47,2471.18,294.2,50.37
+Assam,wheat,Zaid,13.83,889.98,293.79,42.84
+Punjab,cotton,Kharif,10.91,918.33,159.74,36.34
+Madhya Pradesh,cumin,Kharif,13.34,2315.03,263.81,40.27
+Madhya Pradesh,cumin,Rabi,19.37,447.07,181.42,25.44
+Maharashtra,groundnut,Kharif,13.58,1886.33,208.07,47.49
+Bihar,cumin,Rabi,18.02,1544.99,290.2,30.83
+Haryana,turmeric,Zaid,3.31,1866.91,186.05,53.86
+West Bengal,rice,Kharif,17.48,1081.93,201.75,43.52
+Kerala,maize,Zaid,6.76,2589.71,48.37,49.98
+Andhra Pradesh,coffee,Rabi,16.36,1113.65,295.94,41.3
+Rajasthan,cumin,Rabi,19.12,2230.8,320.84,45.91
+Uttar Pradesh,pulses,Kharif,13.25,388.63,92.12,22.44
+Bihar,cumin,Kharif,17.49,1135.39,231.42,30.37
+Karnataka,maize,Zaid,6.5,331.24,222.51,35.6
+West Bengal,coffee,Zaid,17.29,995.11,339.19,42.85
+Punjab,sugarcane,Kharif,11.64,1865.11,347.38,97.48
+Bihar,coffee,Rabi,4.43,494.94,189.18,32.71
+Maharashtra,ginger,Zaid,9.22,602.4,154.17,33.63
+Assam,maize,Rabi,9.77,2310.69,41.1,44.99
+Rajasthan,rice,Rabi,5.67,2235.69,49.29,52.4
+Telangana,wheat,Kharif,11.03,1000.33,231.98,46.5
+Bihar,coriander,Rabi,8.6,2803.3,44.68,46.23
+Karnataka,rice,Zaid,10.12,994.99,114.64,40.42
+Bihar,rice,Rabi,17.11,1409.11,80.74,39.1
+Assam,wheat,Kharif,14.71,1391.27,192.53,48.75
+Haryana,sugarcane,Zaid,2.2,2091.17,223.43,97.34
+Andhra Pradesh,ginger,Zaid,11.46,2702.7,207.78,54.3
+Bihar,tea,Kharif,11.87,1119.61,195.8,36.95
+Telangana,groundnut,Rabi,7.06,1101.08,111.21,42.19
+Telangana,cumin,Kharif,18.52,2775.75,212.1,45.85
+Punjab,sugarcane,Rabi,8.52,1270.24,303.19,92.13
+Bihar,tea,Rabi,11.11,998.79,185.46,36.08
+Karnataka,groundnut,Zaid,3.29,400.84,316.53,43.36
+West Bengal,cumin,Rabi,14.79,715.11,303.18,30.34
+Tamil Nadu,groundnut,Kharif,9.41,911.29,154.61,40.0
+Madhya Pradesh,rice,Kharif,12.42,751.12,295.58,49.77
+Odisha,cumin,Zaid,14.5,1304.16,87.24,33.81
+Maharashtra,turmeric,Rabi,8.72,1250.31,346.96,45.61
+Kerala,sugarcane,Zaid,19.95,1533.97,244.22,91.39
+Tamil Nadu,cumin,Kharif,13.34,322.94,203.14,24.73
+Odisha,coriander,Zaid,14.82,1312.01,53.08,31.43
+Karnataka,turmeric,Rabi,6.44,2756.14,63.54,52.26
+Rajasthan,tea,Rabi,17.15,1900.93,276.01,43.96
+Karnataka,soybean,Rabi,17.23,2910.94,252.61,59.22
+Haryana,groundnut,Zaid,2.44,2436.38,178.29,49.26
+Uttar Pradesh,chilli,Rabi,9.57,2431.87,190.65,46.11
+Assam,coriander,Zaid,11.84,1650.28,225.9,42.08
+Madhya Pradesh,maize,Kharif,18.93,2775.0,257.4,53.7
+Punjab,groundnut,Kharif,14.16,2296.99,133.44,50.12
+Rajasthan,rice,Zaid,3.51,1916.51,149.28,51.93
+Punjab,coriander,Kharif,11.31,1313.54,343.06,38.45
+Madhya Pradesh,tea,Zaid,13.55,1749.95,247.82,45.3
+Tamil Nadu,groundnut,Rabi,15.98,2625.84,143.34,53.25
+Rajasthan,pulses,Kharif,12.38,1252.05,52.66,23.51
+Madhya Pradesh,pulses,Rabi,14.76,642.97,173.01,28.53
+Odisha,groundnut,Kharif,5.89,2567.2,96.26,56.72
+Uttar Pradesh,ginger,Rabi,5.03,2322.59,307.43,54.74
+Odisha,coriander,Kharif,5.45,2519.59,255.08,55.8
+Telangana,sugarcane,Zaid,16.57,1773.59,213.53,92.44
+Haryana,turmeric,Kharif,5.27,2752.95,192.03,51.91
+Maharashtra,soybean,Zaid,19.51,880.65,326.23,44.83
+Madhya Pradesh,cotton,Rabi,1.62,2645.9,269.21,50.19
+Tamil Nadu,groundnut,Zaid,9.44,2270.99,213.91,49.31
+Tamil Nadu,wheat,Zaid,4.88,1620.63,242.24,48.7
+Odisha,soybean,Rabi,14.51,2321.07,243.43,53.95
+Rajasthan,maize,Kharif,8.83,727.25,126.31,34.44
+Uttar Pradesh,pulses,Rabi,11.55,811.03,297.92,36.67
+Kerala,chilli,Zaid,19.82,2834.05,90.28,47.15
+Telangana,pulses,Zaid,7.48,2543.48,204.56,41.43
+Tamil Nadu,cumin,Kharif,17.31,1036.29,50.03,25.29
+Uttar Pradesh,ginger,Zaid,11.48,978.88,67.27,35.43
+Telangana,chilli,Zaid,19.3,767.14,231.09,41.32
+Uttar Pradesh,cumin,Kharif,16.01,2978.56,205.25,48.89
+Odisha,tea,Kharif,18.18,387.36,71.43,27.93
+Uttar Pradesh,coriander,Kharif,17.73,1429.5,43.32,24.42
+Tamil Nadu,maize,Zaid,13.78,2206.48,155.74,50.03
+Haryana,rice,Kharif,6.33,2467.71,53.27,53.71
+Maharashtra,chilli,Kharif,19.22,1465.52,168.88,37.96
+Tamil Nadu,cumin,Rabi,17.02,1304.85,277.18,29.66
+Karnataka,cumin,Rabi,0.78,471.65,117.8,18.75
+Odisha,tea,Kharif,17.07,920.57,146.5,33.16
+Telangana,sugarcane,Rabi,6.08,665.18,338.64,89.11
+Madhya Pradesh,chilli,Kharif,1.37,2150.94,148.82,44.81
+Maharashtra,ginger,Zaid,13.98,331.61,41.0,27.53
+Bihar,ginger,Kharif,18.85,2908.82,143.29,52.17
+Uttar Pradesh,coffee,Kharif,15.83,2157.63,59.24,38.11
+Bihar,coriander,Rabi,6.88,2505.81,289.57,48.65
+Andhra Pradesh,chilli,Rabi,15.49,1157.57,107.25,34.65
+Maharashtra,cotton,Kharif,8.43,491.98,315.2,31.14
+Madhya Pradesh,soybean,Rabi,17.85,1813.4,306.58,53.35
+Tamil Nadu,turmeric,Zaid,15.02,1843.74,165.05,51.19
+Karnataka,coffee,Zaid,12.22,2347.07,213.03,46.3
+Tamil Nadu,millet,Zaid,3.88,1918.55,228.65,38.69
+Madhya Pradesh,millet,Zaid,3.69,706.92,75.72,29.96
+Punjab,maize,Kharif,16.43,1024.05,207.38,44.25
+Uttar Pradesh,cumin,Rabi,15.17,1754.53,276.69,37.54
+Andhra Pradesh,millet,Rabi,6.32,1339.0,255.34,41.27
+Tamil Nadu,tea,Zaid,17.79,2011.48,330.55,48.41
+Kerala,coffee,Zaid,14.88,1684.88,272.11,37.61
+Bihar,soybean,Zaid,14.45,1272.54,227.99,46.77
+Haryana,rice,Kharif,13.19,2487.44,88.2,51.73
+Karnataka,millet,Zaid,5.7,2977.97,181.02,51.46
+West Bengal,pulses,Kharif,12.66,615.47,179.15,24.55
+Maharashtra,cumin,Zaid,15.22,2227.57,263.62,41.83
+Odisha,millet,Kharif,5.82,1487.68,54.53,29.44
+Telangana,chilli,Kharif,19.12,2013.57,140.18,44.54
+Kerala,chilli,Rabi,6.49,1699.8,213.63,43.88
+Tamil Nadu,cotton,Kharif,0.87,1206.53,181.65,32.11
+Telangana,maize,Zaid,7.55,2569.23,312.55,58.13
+Telangana,soybean,Zaid,14.43,1682.57,243.36,53.13
+Karnataka,maize,Kharif,7.63,2468.56,311.32,61.22
+Uttar Pradesh,pulses,Kharif,2.11,2014.59,161.38,37.01
+Rajasthan,coffee,Zaid,13.76,518.04,68.19,25.79
+Uttar Pradesh,millet,Zaid,11.52,371.42,328.16,36.51
+Karnataka,coriander,Kharif,7.32,1576.61,279.69,38.73
+Maharashtra,coriander,Rabi,6.0,1390.4,198.43,31.04
+Odisha,millet,Zaid,7.82,1647.13,49.97,34.73
+Kerala,millet,Rabi,15.05,1323.2,67.24,35.09
+Uttar Pradesh,groundnut,Rabi,19.14,1274.1,120.6,41.57
+Karnataka,ginger,Rabi,17.17,2599.72,84.59,50.02
+Punjab,cumin,Zaid,17.65,360.41,338.84,34.78
+Haryana,groundnut,Kharif,6.37,1210.21,169.08,37.87
+Odisha,wheat,Zaid,14.11,1198.15,46.09,41.14
+Maharashtra,turmeric,Zaid,15.65,924.33,69.03,32.42
+Kerala,cumin,Kharif,14.99,2097.65,144.56,32.41
+Madhya Pradesh,maize,Zaid,12.23,1679.42,64.47,37.85
+Telangana,soybean,Rabi,12.66,1224.54,270.39,49.08
+Haryana,sugarcane,Kharif,6.42,2020.0,79.19,91.11
+Assam,chilli,Zaid,6.23,2707.23,86.92,52.73
+Uttar Pradesh,coriander,Kharif,5.33,1063.6,97.11,32.03
+Kerala,rice,Zaid,14.85,2336.19,318.54,61.29
+Kerala,millet,Kharif,1.22,1913.02,328.08,47.77
+Rajasthan,rice,Kharif,14.04,554.92,80.99,42.68
+Bihar,soybean,Kharif,11.09,1366.24,341.99,48.9
+Maharashtra,chilli,Zaid,14.82,2530.5,311.32,55.61
+Haryana,chilli,Zaid,8.74,1299.81,328.09,44.11
+Kerala,cotton,Rabi,19.31,2268.23,127.28,35.42
+Uttar Pradesh,chilli,Kharif,15.41,844.72,81.33,31.75
+Uttar Pradesh,chilli,Zaid,13.26,474.81,281.68,43.48
+Karnataka,wheat,Rabi,16.92,1858.96,239.05,57.16
+Assam,millet,Kharif,13.78,2954.16,251.02,50.13
+Punjab,ginger,Rabi,7.5,2402.26,246.8,52.1
+Andhra Pradesh,coriander,Zaid,13.04,2823.2,331.93,46.27
+Punjab,coriander,Kharif,9.14,849.72,160.45,30.98
+Odisha,sugarcane,Rabi,17.48,1570.62,69.8,82.43
+Andhra Pradesh,chilli,Kharif,6.59,2994.9,232.82,48.82
+Maharashtra,cotton,Kharif,4.58,1575.77,274.85,38.32
+Assam,maize,Kharif,14.22,1399.44,106.77,37.44
+Maharashtra,rice,Kharif,5.2,1265.34,263.56,49.21
+Karnataka,pulses,Kharif,2.33,1162.61,254.5,34.87
+Punjab,cotton,Kharif,2.54,1222.81,98.05,35.03
+Uttar Pradesh,cotton,Kharif,16.2,516.73,146.45,35.89
+Odisha,maize,Zaid,10.51,2672.05,316.21,62.34
+Maharashtra,pulses,Kharif,19.48,1674.06,174.61,33.14
+Assam,maize,Rabi,9.08,2894.08,141.76,55.81
+Maharashtra,cumin,Zaid,19.97,1170.99,219.67,30.41
+Tamil Nadu,maize,Zaid,5.21,2450.14,254.79,57.47
+Uttar Pradesh,soybean,Zaid,14.92,399.25,260.39,34.81
+Punjab,wheat,Kharif,12.4,1443.28,128.59,43.01
+West Bengal,cumin,Kharif,10.22,1050.1,285.81,30.89
+Uttar Pradesh,soybean,Zaid,13.23,523.9,101.76,32.44
+Uttar Pradesh,groundnut,Zaid,13.75,1921.84,285.43,51.63
+Madhya Pradesh,ginger,Rabi,4.56,537.85,253.47,43.05
+Andhra Pradesh,maize,Kharif,16.98,2683.7,43.17,48.02
+Kerala,maize,Rabi,7.16,2117.08,256.28,56.85
+Tamil Nadu,coriander,Zaid,5.93,1849.16,325.76,47.0
+Haryana,maize,Rabi,4.5,2302.17,268.0,52.28
+Maharashtra,rice,Zaid,8.4,2214.71,223.31,55.11
+Assam,pulses,Kharif,8.68,1993.32,234.13,35.49
+Odisha,millet,Zaid,17.34,669.1,327.35,38.24
+Punjab,tea,Kharif,10.98,2710.8,222.64,46.6
+Haryana,turmeric,Kharif,8.57,1570.86,276.76,49.26
+Haryana,pulses,Zaid,17.34,1679.37,118.43,29.37
+Haryana,maize,Kharif,19.46,589.93,236.74,38.65
+Madhya Pradesh,millet,Kharif,17.29,1900.64,127.46,40.8
+Karnataka,sugarcane,Zaid,5.21,1628.2,105.52,86.1
+Andhra Pradesh,soybean,Rabi,4.47,1006.65,79.24,41.11
+Rajasthan,coriander,Zaid,18.94,2814.64,327.92,54.1
+Odisha,tea,Rabi,8.93,2934.82,118.98,45.16
+Karnataka,chilli,Zaid,16.68,1196.03,46.18,35.19
+Maharashtra,soybean,Rabi,4.73,1744.91,83.85,41.33
+Karnataka,coffee,Rabi,4.79,1203.34,46.15,32.08
+Telangana,tea,Kharif,15.68,1131.71,149.63,38.62
+Uttar Pradesh,maize,Kharif,3.98,1396.01,104.07,40.79
+West Bengal,coriander,Zaid,15.05,2983.57,244.95,52.38
+Tamil Nadu,coffee,Zaid,4.34,803.6,41.05,22.09
+Odisha,groundnut,Kharif,12.39,1752.03,190.62,50.67
+Andhra Pradesh,wheat,Rabi,2.15,2360.07,88.82,49.82
+Punjab,soybean,Kharif,9.07,397.6,154.94,31.05
+Tamil Nadu,wheat,Zaid,9.99,2739.99,173.36,55.53
+Kerala,millet,Kharif,12.51,1147.14,345.28,44.49
+Rajasthan,sugarcane,Zaid,5.82,492.57,168.42,78.63
+Odisha,ginger,Rabi,6.89,754.19,289.59,40.35
+Odisha,groundnut,Kharif,18.66,2821.94,98.6,52.89
+Tamil Nadu,turmeric,Kharif,13.5,347.24,70.1,32.51
+Andhra Pradesh,sugarcane,Zaid,7.08,1295.46,172.75,92.2
+Odisha,tea,Kharif,11.14,2921.26,52.11,47.03
+Bihar,chilli,Zaid,9.28,2993.96,46.11,51.95
+Telangana,maize,Kharif,14.33,2913.92,196.1,55.34
+Haryana,maize,Zaid,19.72,2592.69,140.8,58.28
+Assam,soybean,Zaid,4.7,2517.48,77.38,45.17
+Punjab,soybean,Zaid,8.53,739.89,121.57,33.84
+Madhya Pradesh,maize,Rabi,11.25,2560.58,117.63,51.13
+Madhya Pradesh,tea,Rabi,16.04,673.43,132.84,24.61
+Assam,pulses,Rabi,3.65,2111.48,80.54,37.69
+Rajasthan,cumin,Kharif,7.52,1080.24,134.93,28.39
+Punjab,millet,Kharif,10.64,2057.03,52.71,41.81
+Kerala,cotton,Rabi,12.49,2235.06,337.33,47.8
+Haryana,maize,Zaid,8.59,2782.48,63.06,48.86
+Assam,maize,Rabi,17.7,2270.53,76.81,49.45
+Andhra Pradesh,rice,Zaid,13.93,846.23,145.31,48.53
+West Bengal,coriander,Kharif,8.22,2416.01,102.65,40.79
+Maharashtra,coffee,Rabi,11.04,1330.8,282.02,36.74
+Haryana,coffee,Kharif,13.81,1128.1,209.17,41.46
+West Bengal,rice,Zaid,6.19,457.87,323.15,46.57
+Uttar Pradesh,soybean,Rabi,18.2,443.49,207.63,34.04
+Punjab,groundnut,Rabi,4.59,1020.16,266.26,45.42
+Assam,chilli,Rabi,1.39,2520.05,143.22,48.28
+Odisha,cumin,Zaid,18.96,1268.13,247.48,37.69
+West Bengal,tea,Zaid,15.1,751.45,220.67,32.46
+Haryana,millet,Kharif,18.94,2918.3,134.31,50.62
+Karnataka,sugarcane,Zaid,5.11,2515.67,159.52,98.6
+Maharashtra,rice,Zaid,5.29,2019.71,92.28,53.06
+Uttar Pradesh,maize,Kharif,17.49,989.97,72.39,36.98
+Telangana,ginger,Kharif,12.31,2849.57,85.7,51.72
+Assam,tea,Zaid,1.6,1869.07,84.28,41.49
+Odisha,soybean,Kharif,5.69,2425.66,220.95,53.39
+Assam,cotton,Rabi,10.09,2462.21,136.81,46.32
+Kerala,wheat,Rabi,15.63,2245.58,166.15,51.26
+Kerala,turmeric,Rabi,2.76,988.88,283.36,38.46
+Rajasthan,pulses,Zaid,7.47,601.25,286.95,34.34
+Bihar,soybean,Rabi,16.22,1566.28,252.45,45.37
+Telangana,wheat,Kharif,14.25,1334.11,320.92,46.31
+Telangana,wheat,Kharif,3.0,1134.1,105.45,39.27
+Andhra Pradesh,chilli,Rabi,11.98,2834.15,338.68,58.67
+Assam,ginger,Rabi,9.27,2773.19,158.84,46.62
+Assam,cumin,Zaid,4.4,2841.7,186.04,45.21
+Haryana,tea,Rabi,5.1,874.43,331.79,31.83
+Madhya Pradesh,millet,Zaid,7.57,765.04,220.5,34.45
+West Bengal,chilli,Zaid,13.9,797.42,321.75,42.64
+Punjab,tea,Zaid,14.45,866.71,263.86,31.9
+Odisha,wheat,Rabi,3.82,2660.19,295.92,63.86
+Haryana,groundnut,Kharif,14.29,595.05,214.65,39.41
+Madhya Pradesh,cotton,Kharif,17.91,1545.1,222.7,40.98
+Uttar Pradesh,turmeric,Kharif,8.33,1065.23,332.71,43.13
+Maharashtra,soybean,Rabi,2.91,735.28,247.42,44.7
+West Bengal,groundnut,Rabi,4.0,1996.68,212.78,50.81
+Rajasthan,rice,Kharif,10.53,988.75,202.16,47.49
+Bihar,groundnut,Zaid,0.61,2302.65,309.09,54.88
+Odisha,tea,Kharif,1.94,1204.46,160.48,38.66
+West Bengal,turmeric,Rabi,7.96,1284.68,106.56,39.87
+Uttar Pradesh,wheat,Zaid,14.98,2402.65,273.51,60.94
+Kerala,maize,Kharif,18.81,1969.02,61.12,43.66
+Odisha,millet,Zaid,18.48,421.52,347.46,34.34
+Assam,ginger,Kharif,18.24,2596.19,92.59,44.73
+West Bengal,coffee,Zaid,8.43,1554.22,170.2,34.74
+Kerala,cotton,Zaid,19.1,1831.67,171.72,45.56
+Maharashtra,rice,Zaid,17.61,1591.75,342.88,55.31
+Andhra Pradesh,coffee,Zaid,19.92,2844.4,307.3,51.22
+Madhya Pradesh,turmeric,Rabi,11.73,901.75,312.16,45.65
+Bihar,coffee,Zaid,15.08,689.55,203.47,27.11
+Rajasthan,soybean,Kharif,8.6,391.96,181.83,34.7
+Assam,cotton,Rabi,4.29,387.48,97.02,20.44
+Haryana,turmeric,Kharif,6.3,2882.75,70.99,57.18
+Odisha,groundnut,Kharif,18.19,2717.88,306.13,55.92
+Madhya Pradesh,cotton,Kharif,17.92,1724.89,208.77,40.72
+Rajasthan,sugarcane,Zaid,4.0,2796.64,232.59,104.58
+Assam,millet,Kharif,12.08,1495.3,229.09,44.91
+Odisha,sugarcane,Rabi,8.51,538.41,88.7,78.71
+Karnataka,maize,Rabi,13.12,353.34,241.38,38.94
+Assam,maize,Kharif,14.02,2862.3,165.08,54.49
+West Bengal,pulses,Zaid,16.79,2075.66,59.79,37.97
+Punjab,turmeric,Zaid,8.96,799.64,185.19,39.59
+Madhya Pradesh,tea,Kharif,16.77,556.93,335.92,36.91
+Odisha,cotton,Rabi,14.59,1378.16,256.93,37.68
+Andhra Pradesh,cotton,Zaid,10.53,807.48,247.67,36.34
+Karnataka,ginger,Kharif,7.85,1013.77,311.59,44.16
+Assam,coriander,Rabi,2.45,1635.07,214.27,42.98
+Andhra Pradesh,soybean,Kharif,9.51,595.6,300.5,41.66
+Assam,groundnut,Kharif,17.18,2708.58,113.65,51.33
+Telangana,maize,Zaid,0.71,1039.25,331.34,42.92
+Assam,rice,Rabi,16.46,891.38,316.3,46.34
+Assam,turmeric,Rabi,10.86,925.24,117.9,33.23
+Telangana,chilli,Kharif,4.95,788.79,320.65,40.74
+Kerala,coriander,Zaid,6.37,1939.52,177.13,41.06
+Tamil Nadu,rice,Kharif,12.86,481.93,219.97,44.65
+Karnataka,coriander,Kharif,13.79,1945.35,171.92,38.45
+Punjab,ginger,Rabi,17.03,1013.1,70.81,36.0
+Rajasthan,tea,Zaid,15.96,1105.4,163.19,28.9
+Rajasthan,rice,Kharif,8.91,855.76,153.52,44.18
+Andhra Pradesh,cotton,Zaid,17.7,1999.39,251.78,42.82
+West Bengal,cumin,Zaid,15.3,1944.53,227.88,35.04
+Telangana,sugarcane,Kharif,15.32,402.3,206.98,78.86
+Uttar Pradesh,pulses,Zaid,11.42,1261.65,204.83,38.26
+Punjab,coffee,Rabi,18.91,335.28,149.56,28.33
+West Bengal,sugarcane,Rabi,11.87,942.28,268.87,91.69
+Maharashtra,coffee,Kharif,5.83,1183.87,240.85,33.07
+Telangana,turmeric,Rabi,11.01,2043.61,227.37,51.2
+Uttar Pradesh,ginger,Zaid,6.16,2049.53,84.22,44.08
+Madhya Pradesh,wheat,Zaid,14.73,2945.15,62.4,54.83
+West Bengal,maize,Rabi,2.49,1757.12,146.94,44.26
+Rajasthan,ginger,Zaid,9.06,1699.25,160.42,44.68
+Haryana,coriander,Kharif,7.54,977.22,78.35,31.11
+Tamil Nadu,coriander,Rabi,1.22,2434.11,238.56,48.27
+Odisha,coffee,Zaid,15.52,1509.05,183.33,43.28
+Punjab,soybean,Kharif,14.52,1637.46,272.01,51.4
+Karnataka,soybean,Zaid,1.21,388.78,118.66,32.06
+Andhra Pradesh,soybean,Zaid,12.71,1928.04,185.95,48.26
+Assam,coffee,Zaid,19.73,1170.19,45.36,29.08
+Punjab,coriander,Rabi,2.22,1484.9,177.86,36.49
+Haryana,wheat,Kharif,16.71,1824.13,271.44,54.19
+Madhya Pradesh,soybean,Kharif,1.94,1226.24,301.05,48.91
+Rajasthan,soybean,Zaid,3.95,1731.02,305.83,54.1
+Karnataka,rice,Zaid,1.27,386.03,214.99,45.52
+Haryana,millet,Kharif,6.09,2621.66,129.95,49.87
+Uttar Pradesh,turmeric,Kharif,13.61,2761.35,63.76,46.7
+West Bengal,soybean,Kharif,10.68,1646.54,286.86,53.34
+Rajasthan,tea,Zaid,9.91,1454.51,160.15,37.08
+Haryana,millet,Rabi,14.42,790.33,82.22,29.47
+Odisha,sugarcane,Kharif,4.13,1343.15,312.95,94.71
+Uttar Pradesh,groundnut,Zaid,19.54,2833.26,125.04,56.5
+Madhya Pradesh,tea,Rabi,7.17,800.74,226.77,35.36
+Rajasthan,cumin,Zaid,7.07,2849.24,218.96,41.11
+Madhya Pradesh,wheat,Rabi,12.07,2759.52,267.94,59.66
+Maharashtra,coriander,Zaid,2.28,334.09,279.19,25.97
+Punjab,millet,Zaid,16.86,2201.47,144.15,41.51
+Punjab,cotton,Zaid,14.71,1817.03,156.32,37.71
+Bihar,soybean,Zaid,6.04,734.34,241.8,41.08
+Tamil Nadu,cumin,Zaid,5.22,1761.42,271.72,39.2
+Uttar Pradesh,sugarcane,Rabi,2.36,2586.39,174.59,96.48
+Madhya Pradesh,cumin,Rabi,1.35,2342.07,48.67,35.89
+Uttar Pradesh,ginger,Kharif,8.43,1431.85,136.26,38.79
+Kerala,pulses,Zaid,8.97,1875.21,332.16,44.28
+Andhra Pradesh,tea,Rabi,17.23,1751.87,155.03,37.87
+Haryana,turmeric,Zaid,13.34,2325.79,77.85,44.08
+Bihar,soybean,Rabi,12.36,2306.81,215.35,56.02
+Madhya Pradesh,soybean,Kharif,2.33,1214.12,233.91,47.64
+Uttar Pradesh,millet,Kharif,12.85,490.19,83.02,29.29
+Andhra Pradesh,rice,Rabi,17.77,2820.49,290.57,63.52
+Punjab,cumin,Rabi,13.96,864.62,291.06,30.28
+Rajasthan,sugarcane,Kharif,10.4,691.94,174.94,82.13
+Uttar Pradesh,coriander,Rabi,4.88,1883.21,87.89,36.0
+West Bengal,maize,Kharif,12.78,559.35,113.4,32.96
+Telangana,cotton,Zaid,16.16,1499.8,47.46,32.25
+Maharashtra,ginger,Kharif,18.55,1664.75,62.09,43.94
+Tamil Nadu,cumin,Rabi,9.08,413.88,100.4,18.82
+Bihar,wheat,Rabi,12.87,859.73,141.06,34.88
+Haryana,turmeric,Rabi,11.46,1505.9,349.99,51.46
+Andhra Pradesh,chilli,Kharif,8.18,669.59,256.6,38.25
+Assam,coriander,Zaid,2.83,2246.17,336.59,53.98
+Bihar,maize,Rabi,12.81,1297.04,107.93,36.58
+Madhya Pradesh,wheat,Kharif,18.37,1123.36,134.03,44.53
+Andhra Pradesh,soybean,Kharif,8.91,2970.41,97.53,51.57
+Punjab,turmeric,Kharif,16.81,1805.56,111.56,44.84
+Uttar Pradesh,groundnut,Zaid,14.97,2085.67,187.62,54.48
+Karnataka,tea,Zaid,19.02,1011.49,308.17,41.31
+Kerala,maize,Zaid,5.72,1489.07,275.95,51.32
+Punjab,coriander,Zaid,11.75,2926.8,238.31,49.36
+Madhya Pradesh,tea,Kharif,19.64,436.14,99.23,28.02
+Madhya Pradesh,wheat,Zaid,17.4,1787.2,180.85,43.41
+Odisha,groundnut,Zaid,7.18,2458.64,64.42,49.05
+Rajasthan,rice,Rabi,3.15,2632.99,233.61,63.24
+Madhya Pradesh,soybean,Kharif,3.02,2673.05,326.68,56.6
+West Bengal,wheat,Kharif,10.43,2878.27,125.01,53.56
+Punjab,millet,Zaid,2.03,2258.04,84.99,48.66
+Tamil Nadu,cotton,Rabi,5.93,352.55,249.61,31.17
+Telangana,maize,Zaid,13.01,2674.77,260.84,57.09
+Kerala,turmeric,Zaid,13.66,2569.03,116.47,50.15
+Tamil Nadu,maize,Zaid,14.37,1285.88,278.62,39.15
+Andhra Pradesh,pulses,Kharif,11.54,1135.1,219.0,31.53
+Andhra Pradesh,sugarcane,Kharif,15.54,510.53,75.58,77.27
+Madhya Pradesh,cotton,Rabi,13.39,2260.04,143.95,41.83
+Madhya Pradesh,coffee,Kharif,18.42,2916.74,322.32,55.54
+Punjab,millet,Kharif,18.47,1603.37,128.44,34.82
+West Bengal,pulses,Kharif,11.21,1960.69,93.98,32.41
+Haryana,wheat,Zaid,11.2,2657.52,241.7,60.29
+West Bengal,groundnut,Kharif,8.68,2977.08,250.78,59.88
+West Bengal,maize,Rabi,10.13,1402.51,312.01,49.11
+Uttar Pradesh,pulses,Zaid,14.78,2935.89,52.3,39.13
+Madhya Pradesh,rice,Rabi,19.46,2500.46,96.46,54.07
+Andhra Pradesh,sugarcane,Zaid,5.61,2057.14,157.23,92.03
+Punjab,wheat,Zaid,5.67,1674.12,237.99,53.61
+Karnataka,groundnut,Rabi,18.77,1086.68,95.04,44.18
+Andhra Pradesh,coriander,Rabi,3.88,2061.04,309.73,46.53
+Haryana,groundnut,Zaid,9.18,1509.99,224.98,47.55
+Maharashtra,coffee,Kharif,5.48,1690.89,70.98,34.78
+Bihar,sugarcane,Rabi,15.98,2065.7,54.46,83.51
+Rajasthan,wheat,Zaid,13.87,2995.71,243.05,60.52
+Tamil Nadu,cumin,Zaid,6.17,2195.88,224.44,40.32
+Andhra Pradesh,cotton,Zaid,1.46,719.92,214.78,30.32
+Haryana,millet,Rabi,15.81,1713.64,150.14,42.09
+Punjab,pulses,Zaid,6.11,592.88,180.85,28.7
+Rajasthan,cotton,Rabi,8.29,1700.41,129.02,37.97
+Telangana,rice,Zaid,6.18,2617.99,197.87,60.36
+Kerala,soybean,Kharif,5.81,2326.71,307.23,58.45
+Maharashtra,soybean,Kharif,3.16,1940.02,153.92,46.49
+Madhya Pradesh,soybean,Zaid,7.88,2043.09,189.63,48.46
+Maharashtra,soybean,Kharif,9.94,1412.89,306.86,47.33
+Telangana,soybean,Kharif,7.71,714.55,102.08,37.18
+Uttar Pradesh,maize,Kharif,13.31,2771.88,156.0,49.64
+Uttar Pradesh,coriander,Rabi,12.42,499.06,344.76,39.24
+Maharashtra,rice,Kharif,4.94,2801.82,222.77,62.72
+Tamil Nadu,wheat,Zaid,4.02,408.35,201.39,41.11
+Madhya Pradesh,chilli,Zaid,13.76,1336.09,78.77,37.14
+Andhra Pradesh,turmeric,Kharif,2.12,2231.97,343.74,58.59
+Karnataka,millet,Zaid,10.77,1782.81,289.21,48.04
+Punjab,soybean,Zaid,1.48,816.18,60.27,28.25
+West Bengal,cumin,Zaid,3.35,525.53,253.18,36.15
+Haryana,chilli,Kharif,2.01,1993.79,171.9,46.82
+Maharashtra,chilli,Zaid,12.68,2068.62,92.57,46.8
+Odisha,chilli,Kharif,14.91,829.8,266.73,41.82
+Karnataka,groundnut,Zaid,6.51,2330.95,190.13,51.3
+Odisha,ginger,Zaid,16.26,497.55,210.51,36.22
+Andhra Pradesh,soybean,Rabi,5.51,1472.34,175.19,44.8
+Maharashtra,turmeric,Kharif,4.95,2991.15,296.37,60.0
+Telangana,ginger,Kharif,11.08,1115.4,123.33,37.29
+Assam,coffee,Kharif,18.83,632.07,310.52,31.95
+Karnataka,cumin,Rabi,16.35,719.46,162.22,28.48
+Tamil Nadu,tea,Rabi,15.15,2946.81,189.43,52.75
+Rajasthan,soybean,Rabi,14.4,1152.65,114.21,35.38
+West Bengal,cotton,Kharif,15.76,885.14,54.07,26.82
+Haryana,cotton,Zaid,9.94,2080.68,55.39,40.07
+Uttar Pradesh,maize,Kharif,15.3,1828.69,234.53,49.66
+Haryana,soybean,Zaid,14.46,2306.29,163.01,50.21
+Assam,maize,Rabi,0.73,2546.11,283.82,56.57
+Uttar Pradesh,rice,Kharif,13.56,2362.47,219.22,54.26
+Maharashtra,maize,Rabi,9.1,2776.29,331.98,61.02
+Andhra Pradesh,chilli,Zaid,4.23,2371.0,115.24,41.05
+Maharashtra,wheat,Kharif,9.14,1928.35,54.51,50.14
+Uttar Pradesh,wheat,Rabi,12.31,2624.94,59.09,55.14
+Madhya Pradesh,wheat,Rabi,14.75,1066.72,40.04,40.75
+Tamil Nadu,wheat,Zaid,7.82,1759.7,139.35,44.86
+Maharashtra,tea,Kharif,14.68,1723.18,169.04,41.73
+Assam,cumin,Zaid,12.82,617.58,344.36,30.63
+Bihar,wheat,Kharif,15.3,1108.5,113.17,38.3
+Punjab,cotton,Kharif,18.64,1449.53,300.57,39.57
+Tamil Nadu,wheat,Rabi,12.24,1035.97,337.6,49.86
+Maharashtra,rice,Kharif,13.87,2005.76,90.43,50.59
+Haryana,coffee,Zaid,5.36,2631.89,345.84,49.65
+Karnataka,cotton,Zaid,18.27,2454.57,140.62,41.01
+Karnataka,rice,Rabi,16.83,2686.08,108.62,54.93
+Maharashtra,tea,Zaid,5.41,2265.63,290.03,51.92
+Odisha,cotton,Zaid,9.27,1006.57,315.19,40.78
+Haryana,turmeric,Zaid,0.99,1133.64,346.36,46.46
+Kerala,coffee,Kharif,6.28,2687.89,338.21,50.62
+Madhya Pradesh,cumin,Rabi,5.22,2548.52,73.49,38.32
+Assam,ginger,Kharif,11.12,1030.48,132.16,39.74
+Madhya Pradesh,pulses,Kharif,17.33,812.87,299.05,34.01
+Haryana,turmeric,Zaid,9.16,1990.04,249.95,54.44
+Tamil Nadu,maize,Rabi,5.28,626.54,184.47,34.6
+Assam,soybean,Kharif,10.53,2308.66,338.92,57.96
+Andhra Pradesh,rice,Zaid,13.76,1819.63,50.48,45.49
+Punjab,turmeric,Zaid,3.97,1661.25,191.91,49.29
+Haryana,wheat,Kharif,5.91,781.44,199.11,44.74
+Tamil Nadu,coffee,Rabi,6.37,2699.18,152.96,49.76
+Bihar,pulses,Zaid,10.84,1456.32,60.01,31.91
+West Bengal,wheat,Rabi,14.04,1396.86,224.81,40.59
+Madhya Pradesh,turmeric,Rabi,15.52,1458.68,100.21,39.29
+Maharashtra,coriander,Rabi,1.27,2979.88,223.52,48.13
+Odisha,wheat,Zaid,5.26,1188.0,319.47,50.45
+Bihar,pulses,Zaid,9.05,889.04,234.63,30.07
+West Bengal,sugarcane,Zaid,10.51,2605.59,195.43,96.9
+Haryana,coffee,Rabi,2.7,1685.54,239.78,38.98
+Rajasthan,coffee,Rabi,4.72,1453.52,303.57,41.44
+Assam,coffee,Kharif,7.73,1874.52,138.88,44.81
+Odisha,sugarcane,Rabi,6.88,2379.32,151.0,93.57
+Bihar,cumin,Rabi,14.23,2204.58,235.96,40.61
+Rajasthan,soybean,Rabi,7.49,1355.87,216.68,42.21
+Uttar Pradesh,wheat,Kharif,0.66,1144.26,280.02,49.77
+Haryana,pulses,Zaid,14.64,2197.25,198.31,39.83
+Uttar Pradesh,wheat,Rabi,12.19,1576.66,134.74,44.97
+Madhya Pradesh,maize,Zaid,16.49,1825.85,284.72,50.4
+Telangana,sugarcane,Rabi,6.21,1601.8,287.95,93.36
+Uttar Pradesh,coffee,Rabi,14.94,1842.42,97.8,35.94
+Telangana,tea,Zaid,11.59,2870.27,336.96,52.26
+Uttar Pradesh,wheat,Rabi,15.94,2732.89,308.91,64.24
+Telangana,turmeric,Zaid,3.99,1615.27,280.1,52.6
+Karnataka,soybean,Kharif,8.84,2110.46,317.25,57.65
+Assam,turmeric,Zaid,13.55,1365.02,60.28,37.05
+Rajasthan,tea,Rabi,16.65,1645.57,168.9,39.57
+Rajasthan,pulses,Kharif,4.8,2720.3,286.45,46.55
+Telangana,millet,Rabi,18.36,1705.34,168.5,45.12
+Bihar,turmeric,Rabi,10.45,626.19,92.93,33.95
+Kerala,coriander,Zaid,4.51,2412.57,332.95,48.96
+Madhya Pradesh,wheat,Kharif,0.63,1112.14,114.63,40.61
+West Bengal,maize,Kharif,18.7,866.81,52.67,33.43
+Odisha,cotton,Kharif,17.31,483.87,113.35,29.62
+Uttar Pradesh,millet,Rabi,15.57,1671.66,331.86,48.14
+West Bengal,cotton,Kharif,11.36,743.27,326.54,39.03
+Telangana,cumin,Kharif,18.36,1864.05,220.91,36.88
+Haryana,cumin,Zaid,5.78,608.98,340.89,36.56
+Telangana,chilli,Zaid,16.71,674.13,87.32,34.55
+Telangana,coriander,Zaid,0.67,958.52,58.61,26.7
+West Bengal,turmeric,Rabi,13.55,1716.3,342.93,51.06
+Odisha,coriander,Kharif,11.19,1786.73,275.99,42.69
+Rajasthan,groundnut,Zaid,7.31,1393.16,171.93,43.37
+Punjab,tea,Kharif,16.66,2005.48,172.24,41.46
+Rajasthan,soybean,Kharif,2.1,2495.62,300.77,54.47
+Rajasthan,maize,Zaid,3.26,1859.52,327.98,56.84
+Punjab,rice,Rabi,5.68,2840.25,240.14,58.72
+West Bengal,tea,Rabi,7.79,2950.38,324.96,57.47
+Uttar Pradesh,maize,Zaid,17.56,1785.15,117.55,39.73
+Karnataka,sugarcane,Rabi,12.01,1198.4,337.74,90.44
+Andhra Pradesh,turmeric,Zaid,9.69,2414.51,345.3,58.17
+Kerala,wheat,Zaid,8.16,2932.89,298.32,65.74
+Uttar Pradesh,maize,Rabi,3.71,1972.46,70.91,39.86
+Telangana,coriander,Rabi,15.2,1502.75,245.25,44.94
+Madhya Pradesh,ginger,Rabi,8.39,1958.89,56.12,46.13
+Bihar,tea,Rabi,4.66,1750.81,328.71,46.3
+Karnataka,groundnut,Kharif,18.49,1397.04,287.47,46.61
+West Bengal,millet,Rabi,6.61,1319.54,314.01,43.3
+Madhya Pradesh,coriander,Kharif,19.45,1458.26,70.4,38.26
+Punjab,groundnut,Zaid,18.99,1890.29,193.6,46.3
+Haryana,maize,Zaid,0.93,711.14,65.92,35.98
+Odisha,maize,Zaid,0.84,2458.03,191.45,58.42
+Bihar,sugarcane,Kharif,18.33,1911.45,150.55,91.96
+Assam,coffee,Zaid,9.44,1612.2,321.59,43.77
+Karnataka,coffee,Zaid,16.49,2562.46,341.49,48.95
+Bihar,chilli,Rabi,10.6,2965.28,119.57,50.26
+Bihar,tea,Rabi,3.57,468.65,238.32,29.23
+Odisha,millet,Zaid,17.41,1324.2,260.98,40.2
+Assam,chilli,Rabi,17.1,1564.56,98.79,42.9
+Uttar Pradesh,tea,Zaid,18.39,407.28,114.94,31.0
+West Bengal,cotton,Rabi,11.63,2034.19,175.6,39.45
+Maharashtra,groundnut,Zaid,15.06,1294.25,299.25,48.15
+Assam,groundnut,Zaid,13.61,2374.93,106.01,49.33
+Maharashtra,wheat,Kharif,13.19,2648.02,54.12,50.21
+Telangana,pulses,Zaid,9.54,2496.11,58.08,39.15
+Haryana,chilli,Zaid,15.56,1912.61,148.44,44.45
+Karnataka,sugarcane,Kharif,5.44,1180.44,191.12,83.93
+Haryana,pulses,Zaid,13.76,1789.12,200.62,40.94
+Kerala,maize,Zaid,10.41,2692.47,55.37,49.01
+Karnataka,sugarcane,Rabi,8.86,2145.85,69.64,88.98
+Andhra Pradesh,coffee,Rabi,13.15,2380.21,153.35,42.22
+Assam,turmeric,Rabi,5.91,1804.47,90.79,41.57
+Andhra Pradesh,coffee,Kharif,4.95,1443.89,201.21,34.91
+West Bengal,ginger,Kharif,10.69,434.81,105.14,31.6
+Haryana,tea,Kharif,13.65,2959.28,154.47,54.32
+Maharashtra,pulses,Kharif,0.81,2434.45,298.71,45.75
+Odisha,cotton,Zaid,4.09,2340.07,250.45,50.9
+Odisha,ginger,Zaid,8.74,1713.77,234.76,44.16
+West Bengal,coffee,Rabi,3.89,1164.04,262.47,37.61
+Karnataka,sugarcane,Rabi,19.73,2165.95,223.36,96.45
+Andhra Pradesh,ginger,Kharif,4.77,1333.33,216.95,44.22
+Kerala,turmeric,Rabi,10.65,2888.23,56.65,52.79
+Karnataka,rice,Rabi,15.55,1405.66,83.17,45.28
+Madhya Pradesh,sugarcane,Rabi,3.08,526.17,80.58,73.61
+Telangana,millet,Zaid,4.82,2482.71,153.84,47.91
+Bihar,pulses,Rabi,15.94,2822.38,65.79,39.16
+Maharashtra,cumin,Rabi,15.18,1166.67,288.65,40.64
+Rajasthan,coffee,Kharif,9.18,2321.96,121.17,38.95
+Tamil Nadu,tea,Rabi,7.46,1222.09,330.54,48.84
+Rajasthan,maize,Rabi,15.08,2989.62,88.02,56.12
+Karnataka,rice,Rabi,14.89,2520.09,248.32,59.38
+Madhya Pradesh,soybean,Kharif,8.73,467.72,255.23,37.99
+Uttar Pradesh,soybean,Kharif,15.16,401.88,94.82,28.71
+Bihar,cumin,Zaid,3.53,490.57,303.88,34.39
+Andhra Pradesh,sugarcane,Zaid,5.17,1627.71,56.97,79.72
+Telangana,pulses,Rabi,14.74,780.94,291.31,38.91
+Assam,groundnut,Rabi,14.93,335.25,253.4,38.18
+West Bengal,chilli,Zaid,7.88,1227.2,256.44,34.9
+Karnataka,coriander,Zaid,2.65,1987.81,337.89,47.27
+Tamil Nadu,cotton,Rabi,5.31,2357.2,123.72,45.11
+West Bengal,rice,Kharif,1.95,942.78,114.97,42.36
+Assam,coriander,Rabi,9.47,883.78,277.63,37.18
+Punjab,turmeric,Rabi,10.63,2415.35,115.68,51.85
+Telangana,ginger,Zaid,8.46,2948.57,130.22,54.88
+Kerala,coriander,Kharif,15.72,1508.76,66.28,34.14
+Bihar,tea,Kharif,1.04,1221.52,225.28,41.63
+Odisha,millet,Rabi,14.76,1132.04,88.18,34.44
+Kerala,rice,Zaid,19.58,2532.89,339.4,61.03
+Madhya Pradesh,cotton,Zaid,14.28,1838.96,191.02,43.19
+Bihar,ginger,Zaid,0.65,2015.81,276.42,51.72
+Kerala,coffee,Zaid,15.53,1631.21,277.68,40.46
+West Bengal,ginger,Rabi,6.29,1937.11,217.64,49.55
+Punjab,wheat,Zaid,10.94,521.0,90.93,39.32
+Telangana,millet,Rabi,18.03,1767.95,45.46,38.82
+Madhya Pradesh,ginger,Rabi,12.86,1517.38,299.43,48.71
+Odisha,ginger,Kharif,19.26,2647.11,208.1,50.05
+Maharashtra,wheat,Rabi,18.04,1543.09,60.64,46.67
+West Bengal,sugarcane,Rabi,9.38,1667.25,230.45,93.61
+West Bengal,coffee,Zaid,12.78,491.3,181.39,27.04
+Madhya Pradesh,sugarcane,Rabi,7.51,2170.74,110.59,94.1
+Assam,cotton,Kharif,19.74,2631.25,194.81,52.18
+Punjab,groundnut,Kharif,17.02,2509.03,65.31,48.98
+Punjab,groundnut,Zaid,15.69,2482.64,218.02,58.03
+Maharashtra,cotton,Rabi,5.95,1848.18,187.09,43.03
+Maharashtra,groundnut,Kharif,11.31,2288.12,295.69,58.59
+Maharashtra,soybean,Kharif,13.02,318.82,77.59,30.69
+Maharashtra,wheat,Zaid,7.59,542.11,316.28,46.43
+Uttar Pradesh,turmeric,Zaid,7.99,1541.2,239.49,47.98
+West Bengal,tea,Kharif,9.29,1460.71,220.23,42.91
+Andhra Pradesh,millet,Kharif,18.93,2388.66,242.03,50.85
+Bihar,maize,Rabi,9.74,784.53,44.41,39.66
+Assam,wheat,Rabi,11.95,711.57,303.26,48.5
+Tamil Nadu,coriander,Kharif,13.61,787.62,253.3,33.83
+Punjab,turmeric,Rabi,12.72,2052.89,174.55,55.64
+Telangana,rice,Kharif,16.26,2964.28,192.24,63.54
+Kerala,soybean,Kharif,5.0,1351.38,174.03,41.25
+Kerala,tea,Kharif,7.1,1751.19,59.79,30.15
+Bihar,cotton,Zaid,2.61,1294.5,257.27,33.46
+Andhra Pradesh,ginger,Kharif,18.24,468.47,214.17,32.51
+Kerala,millet,Kharif,10.52,2210.4,214.15,46.36
+West Bengal,pulses,Kharif,7.31,2407.16,177.67,40.69
+Madhya Pradesh,cotton,Rabi,12.33,1428.02,121.6,36.79
+Punjab,soybean,Zaid,18.13,444.76,136.95,36.84
+Maharashtra,rice,Zaid,2.31,2363.28,231.9,55.56
+Andhra Pradesh,rice,Rabi,13.84,2322.92,69.71,43.19
+Haryana,millet,Rabi,16.7,1518.05,291.5,43.57
+Tamil Nadu,turmeric,Kharif,6.5,2463.19,253.78,52.43
+Karnataka,groundnut,Rabi,8.6,431.94,207.74,38.42
+Punjab,turmeric,Rabi,4.17,1325.73,247.11,45.58
+Rajasthan,chilli,Kharif,17.57,1447.64,167.6,42.59
+Rajasthan,millet,Rabi,17.33,1334.22,86.88,37.59
+Punjab,wheat,Kharif,7.51,1378.31,152.82,41.3
+Maharashtra,chilli,Rabi,10.2,1920.97,73.26,40.85
+Punjab,sugarcane,Kharif,3.33,2061.66,335.12,99.66
+Telangana,sugarcane,Rabi,4.17,2548.32,273.23,93.17
+Madhya Pradesh,pulses,Kharif,15.84,2271.37,252.15,41.05
+Karnataka,tea,Rabi,11.64,2812.0,189.82,45.21
+Maharashtra,soybean,Zaid,10.87,869.24,319.71,40.7
+Haryana,tea,Zaid,3.88,1001.59,136.06,34.95
+Telangana,turmeric,Zaid,16.34,1946.26,126.43,41.94
+Odisha,ginger,Zaid,7.28,2785.55,141.93,52.7
+Karnataka,sugarcane,Rabi,2.86,824.16,206.63,91.36
+Bihar,chilli,Zaid,7.21,2994.27,264.65,57.26
+Tamil Nadu,cumin,Kharif,8.86,2656.45,112.42,44.56
+West Bengal,coriander,Zaid,13.31,1495.84,331.39,40.89
+Andhra Pradesh,coffee,Zaid,3.05,2465.06,165.26,39.77
+Punjab,ginger,Rabi,6.22,590.44,189.83,38.68
+West Bengal,wheat,Kharif,17.94,2199.65,99.27,53.79
+Uttar Pradesh,wheat,Kharif,16.65,841.38,169.96,40.44
+Uttar Pradesh,millet,Zaid,10.25,1302.2,83.11,36.06
+Odisha,tea,Zaid,17.99,1230.67,151.26,39.11
+Madhya Pradesh,soybean,Kharif,4.2,2093.3,103.21,40.15
+Rajasthan,tea,Rabi,4.26,2884.94,267.19,50.59
+Haryana,turmeric,Kharif,14.93,1598.68,235.65,48.55
+Haryana,tea,Rabi,9.68,2634.15,332.65,58.27
+Karnataka,maize,Zaid,8.9,1505.61,341.53,52.34
+Haryana,rice,Rabi,19.14,1575.54,173.95,53.81
+Punjab,chilli,Zaid,17.83,862.43,279.11,41.88
+Andhra Pradesh,rice,Rabi,8.41,326.16,206.5,34.87
+Telangana,soybean,Kharif,14.8,1980.83,234.33,48.68
+Andhra Pradesh,soybean,Kharif,12.21,1645.9,107.89,40.68
+Bihar,ginger,Zaid,17.23,1153.71,303.5,38.42
+Kerala,sugarcane,Rabi,15.09,1607.94,240.8,96.86
+Rajasthan,cotton,Rabi,18.4,980.77,150.3,34.05
+Bihar,maize,Zaid,18.19,869.78,113.15,35.68
+Kerala,ginger,Kharif,8.38,320.69,187.38,35.28
+Haryana,ginger,Zaid,1.38,1663.54,224.57,49.76
+Uttar Pradesh,coriander,Rabi,14.06,1507.48,138.1,32.1
+Kerala,groundnut,Rabi,3.42,1549.91,72.16,42.8
+Telangana,coriander,Kharif,2.07,590.67,335.88,36.7
+Assam,pulses,Zaid,14.21,472.94,221.19,22.87
+Haryana,chilli,Rabi,15.88,2060.08,338.5,52.37
+Uttar Pradesh,tea,Kharif,12.39,2112.15,66.79,36.26
+Punjab,coffee,Zaid,1.63,906.66,131.39,34.21
+Kerala,cotton,Rabi,1.88,1579.93,206.16,33.46
+Andhra Pradesh,millet,Kharif,17.88,2472.9,282.66,48.91
+Tamil Nadu,wheat,Kharif,19.49,1172.91,176.93,40.54
+Bihar,chilli,Rabi,16.45,697.57,206.25,34.34
+Rajasthan,rice,Kharif,13.51,900.59,206.78,41.9
+Bihar,soybean,Zaid,19.79,1995.18,163.77,49.01
+Rajasthan,millet,Rabi,4.82,1249.82,218.28,39.29
+Kerala,wheat,Zaid,18.0,1165.18,198.78,48.73
+West Bengal,pulses,Kharif,10.11,2711.22,126.96,44.38
+Karnataka,chilli,Rabi,13.68,2493.63,84.1,40.76
+Kerala,pulses,Zaid,6.28,2449.01,291.96,50.87
+Odisha,groundnut,Rabi,15.03,799.03,137.72,38.32
+Haryana,ginger,Zaid,2.24,1663.34,104.54,41.44
+Odisha,sugarcane,Zaid,12.24,1269.86,88.61,85.82
+Andhra Pradesh,millet,Rabi,18.58,2129.86,186.87,45.57
+Karnataka,pulses,Kharif,4.07,1102.59,232.53,27.99
+Assam,millet,Kharif,18.82,660.04,343.51,35.98
+Maharashtra,rice,Zaid,16.44,1860.88,84.81,51.29
+Madhya Pradesh,chilli,Rabi,2.13,2418.2,325.09,53.5
+Maharashtra,pulses,Zaid,11.83,2567.4,226.12,44.69
+Assam,wheat,Rabi,9.12,2415.42,114.06,51.27
+Tamil Nadu,maize,Rabi,12.49,585.29,311.89,44.81
+West Bengal,millet,Zaid,10.99,2612.96,147.29,42.54
+Karnataka,rice,Kharif,11.45,1680.14,334.08,51.91
+Punjab,turmeric,Kharif,18.82,2925.55,55.44,56.49
+Assam,tea,Rabi,13.8,2010.41,348.79,49.74
+Karnataka,pulses,Rabi,16.3,2223.77,128.98,41.63
+Karnataka,sugarcane,Zaid,2.86,1150.49,173.39,84.65
+Kerala,turmeric,Zaid,3.52,1768.5,329.02,47.94
+Telangana,tea,Kharif,6.81,573.37,178.15,30.02
+Uttar Pradesh,coriander,Kharif,10.95,1943.79,276.04,40.7
+Tamil Nadu,maize,Kharif,6.83,458.81,71.43,30.07
+Odisha,turmeric,Kharif,10.15,2619.35,111.94,49.28
+Odisha,rice,Rabi,5.46,1045.64,270.12,50.8
+Andhra Pradesh,rice,Rabi,8.12,305.74,237.0,38.98
+Telangana,tea,Kharif,4.84,1349.25,319.88,39.36
+Andhra Pradesh,soybean,Kharif,18.68,2884.39,304.29,60.74
+Bihar,maize,Rabi,17.46,909.21,48.23,30.86
+Telangana,groundnut,Zaid,7.69,1183.73,92.93,43.43
+Haryana,soybean,Kharif,12.88,1212.04,82.75,41.27
+Bihar,cotton,Rabi,6.06,362.87,125.06,25.4
+Karnataka,groundnut,Rabi,11.61,1730.15,144.61,45.81
+Tamil Nadu,rice,Rabi,10.19,1968.35,65.85,51.23
+Bihar,wheat,Zaid,19.77,790.93,226.28,40.28
+Karnataka,ginger,Kharif,15.0,2893.42,281.4,61.69
+Telangana,coriander,Zaid,17.38,547.62,317.07,33.73
+Bihar,tea,Rabi,10.55,2343.54,116.98,42.3
+Rajasthan,pulses,Zaid,15.85,598.53,51.18,16.53
+Bihar,rice,Rabi,4.96,1199.48,262.89,52.0
+Maharashtra,soybean,Rabi,19.8,2798.26,249.08,48.78
+Kerala,chilli,Rabi,2.16,2930.8,90.07,46.56
+Maharashtra,maize,Kharif,12.87,1855.85,268.53,49.98
+Punjab,sugarcane,Rabi,17.49,2042.12,312.59,94.74
+Telangana,cotton,Zaid,6.65,943.68,329.3,42.98
+West Bengal,coffee,Rabi,7.02,1098.37,57.48,28.41
+Rajasthan,rice,Kharif,2.83,2190.54,71.4,49.27
+Odisha,sugarcane,Rabi,15.04,696.21,176.78,89.17
+Tamil Nadu,soybean,Kharif,19.96,1598.89,51.5,42.73
+Andhra Pradesh,millet,Kharif,7.25,1230.23,315.69,42.05
+Uttar Pradesh,millet,Kharif,0.8,1979.82,291.2,45.63
+West Bengal,rice,Rabi,7.14,2304.78,158.9,56.25
+Kerala,groundnut,Zaid,4.35,1319.63,162.21,40.67
+Karnataka,millet,Rabi,6.27,828.59,169.13,37.11
+Telangana,chilli,Zaid,5.71,800.38,192.41,37.31
+Madhya Pradesh,cumin,Rabi,11.56,1606.14,330.33,37.97
+Punjab,wheat,Rabi,1.87,2454.93,253.18,59.63
+Punjab,groundnut,Kharif,3.16,330.87,155.58,33.93
+Assam,sugarcane,Rabi,0.77,1180.62,108.02,91.57
+Madhya Pradesh,turmeric,Zaid,0.7,2767.37,115.24,48.97
+Bihar,turmeric,Rabi,6.97,1839.38,102.7,41.2
+Punjab,maize,Kharif,17.89,348.86,99.63,27.74
+Odisha,ginger,Rabi,11.0,2435.87,188.08,53.97
+Maharashtra,soybean,Zaid,5.61,692.28,276.19,41.19
+Bihar,pulses,Rabi,7.75,2309.8,42.23,32.5
+Karnataka,coffee,Rabi,16.13,2537.3,170.33,48.55
+Andhra Pradesh,turmeric,Rabi,1.78,647.6,99.17,35.71
+Madhya Pradesh,pulses,Rabi,19.41,1111.57,62.56,27.71
+Rajasthan,groundnut,Kharif,1.95,1963.38,109.07,48.81
+Rajasthan,sugarcane,Rabi,2.96,524.47,111.61,78.93
+Karnataka,coriander,Rabi,12.59,2331.05,145.84,42.42
+Kerala,chilli,Rabi,5.55,1000.58,249.92,43.98
+Punjab,cumin,Zaid,2.64,1654.21,92.36,34.68
+Tamil Nadu,wheat,Zaid,8.37,2183.24,215.39,56.62
+Assam,millet,Zaid,14.98,2852.0,249.32,55.13
+Punjab,chilli,Rabi,6.96,692.4,233.51,48.39
+West Bengal,pulses,Rabi,14.76,1458.5,302.49,40.87
+Assam,pulses,Rabi,18.3,2446.42,190.1,45.68
+Tamil Nadu,sugarcane,Zaid,15.92,2690.89,314.78,103.03
+Assam,coriander,Rabi,5.51,665.22,338.22,36.49
+Telangana,tea,Kharif,6.23,2551.76,91.75,43.96
+Tamil Nadu,tea,Kharif,2.64,823.67,41.9,23.82
+Uttar Pradesh,chilli,Zaid,6.5,1828.94,63.06,36.0
+Madhya Pradesh,turmeric,Zaid,6.32,2527.1,324.38,62.93
+Madhya Pradesh,millet,Rabi,17.31,1088.56,333.6,44.81
+West Bengal,tea,Rabi,15.41,1944.4,101.83,38.65
+Rajasthan,groundnut,Rabi,4.84,1393.62,204.79,50.98
+West Bengal,tea,Kharif,17.87,342.97,83.04,24.34
+Karnataka,wheat,Rabi,8.06,2018.38,269.0,59.7
+Andhra Pradesh,soybean,Rabi,3.18,609.61,103.89,35.93
+Odisha,coffee,Kharif,2.59,1924.4,187.41,44.58
+Rajasthan,cotton,Kharif,19.19,2990.65,84.77,43.27
+Tamil Nadu,ginger,Kharif,17.2,2120.65,237.72,47.97
+Tamil Nadu,soybean,Kharif,12.95,777.77,126.57,35.89
+Telangana,turmeric,Rabi,11.19,2100.81,229.33,54.39
+Rajasthan,rice,Kharif,1.96,2327.73,206.59,62.58
+Bihar,groundnut,Kharif,9.59,2909.99,185.17,54.05
+Telangana,sugarcane,Kharif,8.38,1689.84,162.57,87.72
+Uttar Pradesh,turmeric,Kharif,3.78,2042.43,278.89,50.25
+West Bengal,millet,Zaid,8.9,757.08,128.22,30.63
+Karnataka,groundnut,Rabi,9.14,1814.96,322.64,53.74
+Uttar Pradesh,groundnut,Rabi,19.32,1664.77,93.02,40.9
+Rajasthan,coffee,Zaid,5.73,2584.4,304.6,54.22
+Tamil Nadu,sugarcane,Zaid,15.49,2028.84,263.31,93.07
+West Bengal,turmeric,Kharif,15.52,2202.96,173.08,53.87
+Uttar Pradesh,cotton,Rabi,19.23,2824.44,261.51,50.6
+Punjab,maize,Kharif,18.16,402.99,322.88,44.74
+West Bengal,maize,Kharif,14.21,2469.78,324.75,64.36
+Kerala,cotton,Rabi,9.75,1606.85,178.82,34.58
+Telangana,groundnut,Zaid,17.15,751.31,233.87,38.29
+Tamil Nadu,rice,Rabi,0.62,2244.62,320.06,63.81
+Haryana,turmeric,Kharif,19.24,2784.39,252.64,60.02
+West Bengal,turmeric,Kharif,9.89,1732.42,134.29,42.15
+Haryana,coriander,Kharif,4.43,499.24,76.94,30.38
+Karnataka,tea,Rabi,0.99,1258.99,75.15,34.45
+Telangana,pulses,Zaid,8.17,1052.33,322.76,37.09
+Haryana,maize,Kharif,14.66,951.52,298.92,49.19
+Karnataka,wheat,Zaid,8.38,615.69,263.02,43.33
+Assam,cumin,Zaid,2.2,575.07,311.96,31.25
+Uttar Pradesh,coffee,Kharif,12.43,617.28,310.01,33.66
+Karnataka,millet,Rabi,10.88,1354.38,83.84,34.39
+Uttar Pradesh,tea,Rabi,6.33,2313.43,130.9,48.27
+West Bengal,chilli,Zaid,6.53,2397.0,335.93,55.37
+Bihar,ginger,Zaid,14.68,1821.29,221.53,43.24
+Rajasthan,millet,Kharif,1.99,2197.24,172.34,44.57
+Maharashtra,pulses,Kharif,18.1,1596.85,195.9,42.28
+Kerala,chilli,Zaid,6.34,1605.48,300.61,50.09
+Andhra Pradesh,soybean,Kharif,10.6,1150.36,52.43,35.69
+Punjab,turmeric,Kharif,5.35,1592.01,126.91,42.38
+Haryana,maize,Zaid,10.98,2002.37,95.08,48.15
+Haryana,sugarcane,Zaid,12.41,2427.05,239.63,100.25
+Telangana,maize,Zaid,2.05,2786.69,178.27,56.13
+Bihar,pulses,Zaid,4.83,941.24,319.73,36.85
+Telangana,tea,Kharif,9.1,1815.27,76.25,37.38
+Bihar,coriander,Kharif,11.31,818.21,161.5,28.33
+Kerala,pulses,Zaid,5.53,2458.06,319.22,50.12
+Punjab,cotton,Zaid,19.43,1749.47,220.44,43.43
+Uttar Pradesh,cotton,Kharif,17.3,558.03,233.72,31.56
+Uttar Pradesh,wheat,Zaid,6.68,1776.51,210.27,51.01
+Tamil Nadu,chilli,Zaid,18.94,2004.53,140.27,48.47
+Bihar,ginger,Kharif,1.26,2697.86,254.81,52.29
+Haryana,chilli,Rabi,4.22,916.69,43.54,29.49
+Haryana,turmeric,Kharif,17.08,2126.75,318.85,56.44
+Rajasthan,groundnut,Zaid,13.81,2522.77,320.05,61.41
+Karnataka,coffee,Kharif,12.61,1452.3,213.49,37.93
+Uttar Pradesh,chilli,Zaid,16.89,1893.91,196.32,50.79
+Karnataka,tea,Zaid,12.46,2335.48,276.44,51.44
+West Bengal,cumin,Kharif,13.49,922.71,247.02,30.99
+Andhra Pradesh,rice,Zaid,11.01,1858.9,50.16,43.4
+Karnataka,chilli,Rabi,11.18,1379.94,314.92,42.82
+Bihar,chilli,Kharif,12.69,614.19,292.48,32.8
+West Bengal,tea,Rabi,18.41,2764.99,349.18,54.01
+Maharashtra,groundnut,Rabi,2.2,2175.69,343.54,55.57
+Haryana,cumin,Zaid,19.03,2032.61,129.04,31.71
+Bihar,soybean,Rabi,12.9,865.39,222.42,40.28
+Assam,rice,Zaid,7.1,1357.89,45.25,46.67
+Uttar Pradesh,chilli,Rabi,9.59,357.24,55.87,25.99
+Karnataka,sugarcane,Kharif,7.93,2793.06,336.65,108.8
+Rajasthan,turmeric,Zaid,16.67,1727.58,238.74,47.75
+Uttar Pradesh,sugarcane,Kharif,6.02,1157.3,251.08,90.54
+Punjab,maize,Rabi,4.02,1887.73,126.85,45.76
+Assam,ginger,Zaid,3.03,2353.33,229.26,56.74
+Madhya Pradesh,groundnut,Kharif,13.8,2684.21,64.28,44.71
+Karnataka,cotton,Kharif,9.77,2308.35,338.6,50.85
+Assam,ginger,Kharif,14.62,1848.09,254.23,50.78
+Bihar,millet,Rabi,18.4,896.47,230.75,36.79
+Rajasthan,coffee,Zaid,12.2,1725.55,329.02,35.84
+West Bengal,ginger,Rabi,7.07,1134.33,99.33,41.11
+Karnataka,soybean,Zaid,13.84,1897.65,264.91,49.0
+Bihar,sugarcane,Rabi,14.04,2647.03,170.15,100.89
+Madhya Pradesh,chilli,Kharif,1.74,582.52,261.87,34.98
+Bihar,ginger,Kharif,1.0,495.99,149.75,33.64
+Punjab,soybean,Zaid,3.57,2144.08,225.04,50.58
+Telangana,soybean,Zaid,19.45,2437.79,92.41,48.17
+Odisha,pulses,Kharif,14.96,2273.42,90.65,36.4
+West Bengal,coffee,Zaid,9.71,2384.2,271.09,48.3
+Uttar Pradesh,sugarcane,Kharif,18.64,1771.83,168.34,94.6
+Haryana,cotton,Zaid,12.74,1327.71,91.56,27.58
+Tamil Nadu,millet,Zaid,7.87,505.75,184.61,33.2
+Assam,cumin,Rabi,1.27,2728.71,164.83,45.74
+West Bengal,coffee,Rabi,1.59,1490.28,229.76,40.11
+West Bengal,wheat,Zaid,13.76,666.31,69.25,32.5
+Punjab,maize,Rabi,10.51,1355.2,333.8,51.66
+Maharashtra,cotton,Zaid,13.63,775.86,336.25,40.77
+Kerala,maize,Kharif,7.02,2320.13,106.18,46.84
+Rajasthan,wheat,Zaid,12.93,308.92,349.7,43.87
+Tamil Nadu,rice,Kharif,14.59,2592.23,62.93,52.95
+Uttar Pradesh,millet,Zaid,8.44,373.95,224.47,29.4
+Madhya Pradesh,coffee,Kharif,9.41,2634.76,68.4,44.71
+Rajasthan,groundnut,Zaid,14.66,2454.07,219.25,58.43
+Punjab,chilli,Kharif,14.05,834.39,154.27,30.67
+Tamil Nadu,tea,Zaid,12.37,824.08,88.14,30.13
+Odisha,soybean,Zaid,5.11,2215.8,268.46,53.53
+Haryana,cotton,Zaid,18.54,1216.1,178.41,42.33
+Tamil Nadu,cotton,Zaid,17.64,1606.63,223.2,32.87
+Odisha,rice,Zaid,11.54,748.35,296.04,46.88
+West Bengal,cotton,Kharif,13.25,738.49,303.0,38.91
+Bihar,sugarcane,Zaid,14.35,1709.35,303.39,97.65
+Karnataka,wheat,Kharif,15.72,2951.03,274.39,63.04
+Tamil Nadu,tea,Kharif,14.58,2634.52,86.75,45.82
+Haryana,turmeric,Kharif,4.21,1192.48,132.3,40.14
+Telangana,coriander,Rabi,17.47,2994.33,48.47,44.18
+Maharashtra,soybean,Rabi,17.54,337.01,138.27,33.52
+Odisha,tea,Kharif,5.8,863.06,268.24,36.08
+Maharashtra,cumin,Rabi,19.34,867.16,322.65,32.15
+Tamil Nadu,coffee,Kharif,11.3,2265.52,239.84,41.54
+Odisha,sugarcane,Kharif,4.49,1097.97,107.13,79.92
+Kerala,wheat,Zaid,4.64,562.66,148.18,39.14
+Telangana,coffee,Kharif,2.84,2626.42,209.28,49.59
+West Bengal,ginger,Kharif,3.29,2794.17,269.64,56.78
+Karnataka,turmeric,Zaid,2.39,905.73,204.2,39.11
+Bihar,coriander,Kharif,16.69,1069.77,144.63,31.64
+Bihar,groundnut,Rabi,4.31,1794.45,292.37,49.36
+Odisha,coriander,Rabi,3.61,628.58,271.24,29.48
+Andhra Pradesh,pulses,Rabi,0.66,2119.91,102.62,33.84
+Kerala,maize,Zaid,7.47,2088.37,40.11,40.31
+Assam,sugarcane,Kharif,1.14,2721.72,262.03,101.99
+Karnataka,ginger,Kharif,6.33,2727.61,274.6,57.91
+Karnataka,maize,Rabi,4.71,570.36,296.03,41.26
+Madhya Pradesh,millet,Zaid,6.97,1808.52,181.71,41.67
+Punjab,pulses,Rabi,12.34,2345.8,249.92,49.16
+Maharashtra,ginger,Zaid,11.56,372.47,107.12,26.41
+West Bengal,tea,Rabi,19.74,2243.06,43.39,40.57
+Odisha,wheat,Zaid,2.01,2660.42,115.9,55.25
+Assam,soybean,Zaid,14.46,1911.1,143.69,48.8
+Tamil Nadu,soybean,Zaid,18.34,2685.01,123.97,50.76
+Assam,maize,Kharif,17.19,539.41,128.8,34.94
+Assam,ginger,Rabi,19.46,1402.77,137.32,44.93
+Maharashtra,sugarcane,Rabi,13.75,679.72,141.48,83.9
+Telangana,cotton,Zaid,9.22,1634.98,194.38,33.31
+Assam,ginger,Rabi,0.52,449.5,251.56,37.67
+Maharashtra,wheat,Kharif,13.5,2698.66,220.46,62.05
+Assam,coffee,Rabi,17.8,2913.74,192.79,47.07
+Kerala,sugarcane,Rabi,14.75,2703.95,47.23,96.03
+Karnataka,millet,Kharif,18.72,300.49,329.13,33.1
+Andhra Pradesh,groundnut,Kharif,16.05,2569.6,267.91,58.89
+Odisha,coriander,Kharif,18.75,2312.57,217.16,48.81
+West Bengal,cotton,Kharif,11.85,1551.16,141.02,37.57
+Andhra Pradesh,millet,Kharif,1.29,2948.74,62.72,41.45
+Bihar,pulses,Rabi,13.75,2108.94,100.9,32.31
+Karnataka,chilli,Zaid,11.48,2528.15,214.12,53.71
+Odisha,cotton,Rabi,18.97,2823.73,215.86,46.53
+Haryana,sugarcane,Zaid,11.68,993.61,189.91,80.53
+Rajasthan,rice,Rabi,19.16,905.02,342.7,51.99
+Telangana,pulses,Rabi,5.58,2983.63,268.1,53.7
+Odisha,coffee,Zaid,11.47,2847.28,57.22,44.29
+Tamil Nadu,cumin,Zaid,10.43,824.11,115.07,25.62
+Haryana,wheat,Kharif,9.26,2945.8,87.32,58.63
+Karnataka,coffee,Zaid,1.93,1142.37,142.45,31.67
+Odisha,wheat,Rabi,9.29,814.21,271.13,44.87
+West Bengal,wheat,Rabi,10.31,1249.4,58.61,42.28
+Bihar,tea,Zaid,17.66,2915.77,266.23,54.64
+Madhya Pradesh,wheat,Zaid,9.72,1127.99,251.28,47.35
+Tamil Nadu,ginger,Zaid,16.9,1347.98,191.78,39.38
+Haryana,sugarcane,Rabi,18.35,2410.4,313.18,104.11
+Maharashtra,maize,Rabi,14.7,1141.97,164.65,41.26
+Kerala,coriander,Rabi,7.53,2818.86,163.63,43.75
+Tamil Nadu,cumin,Kharif,4.71,1090.06,81.41,28.64
+Telangana,soybean,Kharif,9.35,2456.7,179.96,49.02
+Maharashtra,rice,Zaid,7.52,983.86,270.82,50.4
+Andhra Pradesh,maize,Zaid,18.03,2910.86,215.72,51.09
+Karnataka,rice,Kharif,11.55,1093.6,131.48,42.93
+Andhra Pradesh,coriander,Zaid,19.49,2718.63,63.71,41.09
+Uttar Pradesh,pulses,Kharif,3.91,1409.08,164.05,27.77
+Andhra Pradesh,coriander,Zaid,3.15,1826.66,237.53,45.0
+Maharashtra,pulses,Kharif,17.98,965.93,126.91,28.59
+Haryana,turmeric,Kharif,3.96,2432.61,239.83,48.9
+Andhra Pradesh,rice,Rabi,2.72,1373.81,205.12,50.11
+Punjab,pulses,Zaid,2.18,1339.49,262.06,30.04
+Bihar,cumin,Rabi,0.83,833.1,246.49,31.46
+Tamil Nadu,sugarcane,Zaid,16.48,2793.18,140.65,99.03
+Rajasthan,ginger,Rabi,14.18,2603.6,63.53,44.68
+Maharashtra,turmeric,Rabi,6.25,1535.04,282.71,49.91
+Telangana,sugarcane,Kharif,19.18,2032.72,48.53,87.35
+Kerala,coffee,Rabi,14.52,2608.05,343.52,49.04
+Telangana,wheat,Zaid,10.03,1160.57,173.34,43.8
+Punjab,sugarcane,Zaid,6.48,431.94,335.16,85.54
+Rajasthan,soybean,Rabi,16.91,2464.66,293.16,54.89
+Uttar Pradesh,groundnut,Kharif,18.77,2061.24,316.88,57.21
+Madhya Pradesh,rice,Rabi,12.09,1799.62,211.15,49.16
+Maharashtra,chilli,Kharif,12.45,1465.93,300.67,42.67
+Telangana,ginger,Zaid,3.59,2438.81,116.64,48.5
+Karnataka,maize,Rabi,0.78,1468.43,242.1,43.62
+Odisha,coffee,Kharif,11.33,409.88,199.11,29.91
+Tamil Nadu,pulses,Rabi,6.8,1742.82,126.85,33.15
+West Bengal,sugarcane,Kharif,15.56,2773.49,54.2,90.5
+Punjab,turmeric,Rabi,12.94,452.07,334.05,37.73
+Telangana,pulses,Zaid,17.22,2816.45,306.77,46.32
+West Bengal,wheat,Rabi,6.85,2274.55,61.27,47.83
+Telangana,sugarcane,Rabi,15.08,2832.33,237.66,101.55
+Rajasthan,ginger,Zaid,3.0,1605.18,171.13,39.81
+Punjab,ginger,Zaid,17.99,2238.82,343.9,57.64
+Bihar,soybean,Zaid,11.26,1088.83,259.85,42.25
+Maharashtra,cumin,Zaid,18.68,1433.36,335.48,34.57
+Andhra Pradesh,tea,Zaid,19.82,2613.37,84.53,49.24
+Bihar,cotton,Zaid,2.93,1961.04,339.65,50.61
+Madhya Pradesh,pulses,Rabi,17.0,564.88,162.12,26.91
+Odisha,soybean,Rabi,6.22,1365.81,159.58,47.95
+West Bengal,cumin,Rabi,14.0,543.59,159.7,25.93
+Punjab,cumin,Kharif,15.44,2086.71,177.7,35.83
+Odisha,ginger,Rabi,0.61,886.39,82.74,35.31
+Telangana,coriander,Zaid,6.95,1733.8,114.96,37.55
+Haryana,turmeric,Rabi,6.49,2990.2,323.69,67.58
+Andhra Pradesh,groundnut,Kharif,5.58,1573.5,134.98,48.04
+Rajasthan,cotton,Kharif,14.78,775.07,320.25,37.7
+Tamil Nadu,turmeric,Rabi,19.5,1116.99,153.37,40.53
+Haryana,coriander,Rabi,8.19,2106.67,60.59,45.94
+Telangana,maize,Zaid,16.52,1384.73,259.8,50.57
+Tamil Nadu,coffee,Rabi,15.36,2894.03,229.87,46.47
+Telangana,soybean,Kharif,12.8,1113.32,59.69,33.46
+Uttar Pradesh,coriander,Rabi,8.75,1352.98,172.34,35.47
+Rajasthan,maize,Rabi,18.98,1064.7,72.35,33.27
+Bihar,cumin,Kharif,1.39,314.98,242.08,24.78
+Assam,pulses,Rabi,3.65,863.34,138.04,28.86
+Punjab,pulses,Kharif,3.45,692.45,322.18,35.98
+Haryana,millet,Kharif,9.92,1980.93,317.53,51.68
+Uttar Pradesh,pulses,Zaid,18.59,2816.57,161.49,51.81
+Haryana,soybean,Kharif,2.36,1070.19,135.03,39.3
+Odisha,maize,Rabi,2.98,2201.86,50.47,44.29
+Odisha,maize,Kharif,13.96,1976.45,42.52,44.09
+Bihar,groundnut,Rabi,15.41,2832.24,293.17,58.56
+Haryana,turmeric,Rabi,9.63,2597.56,126.79,53.64
+Uttar Pradesh,soybean,Kharif,17.51,2325.75,126.11,47.12
+Haryana,millet,Rabi,18.56,1756.2,56.96,38.25
+Tamil Nadu,sugarcane,Zaid,6.1,678.68,179.23,78.45
+Kerala,wheat,Kharif,3.53,505.73,159.35,37.89
+Tamil Nadu,coffee,Zaid,17.15,1999.23,63.08,35.34
+Uttar Pradesh,sugarcane,Rabi,8.65,550.47,247.36,81.48
+Andhra Pradesh,soybean,Kharif,3.39,2585.05,215.36,51.43
+Rajasthan,tea,Rabi,13.44,1004.54,244.33,41.06
+Haryana,ginger,Zaid,9.46,1260.47,187.97,38.81
+Rajasthan,coffee,Zaid,5.16,917.93,205.52,33.05
+Madhya Pradesh,coffee,Rabi,18.47,1175.0,283.55,39.82
+Uttar Pradesh,coriander,Zaid,11.35,2232.08,127.69,39.2
+West Bengal,rice,Kharif,9.44,2913.96,277.38,61.37
+Assam,cotton,Zaid,16.71,1560.15,313.64,41.2
+Haryana,turmeric,Kharif,4.15,1702.28,42.17,36.12
+Karnataka,rice,Kharif,11.49,2106.19,241.5,53.65
+West Bengal,coriander,Kharif,5.61,638.6,168.98,27.94
+Odisha,cotton,Zaid,10.1,1452.61,123.15,28.96
+Madhya Pradesh,soybean,Zaid,12.48,2883.01,289.76,61.54
+Rajasthan,sugarcane,Rabi,8.26,573.23,292.19,86.58
+Odisha,rice,Zaid,10.48,1712.98,137.25,48.67
+Haryana,sugarcane,Kharif,16.68,757.53,43.65,80.73
+Maharashtra,tea,Zaid,3.55,881.47,259.37,36.23
+Telangana,turmeric,Kharif,15.01,1103.29,327.8,43.92
+Rajasthan,sugarcane,Rabi,13.11,1224.17,259.49,91.65
+Uttar Pradesh,pulses,Rabi,13.88,475.78,79.36,23.58
+Kerala,cumin,Kharif,9.13,1024.24,137.97,29.29
+Haryana,wheat,Kharif,15.88,1114.8,63.52,35.5
+Odisha,cotton,Zaid,13.14,1586.18,158.53,44.73
+Bihar,cotton,Zaid,13.11,2297.33,336.78,46.78
+Telangana,cumin,Kharif,6.73,1323.64,45.8,26.73
+Haryana,ginger,Kharif,12.99,2911.91,192.37,51.96
+Maharashtra,maize,Kharif,4.49,2148.84,327.87,52.62
+Telangana,cotton,Rabi,10.59,2543.48,87.8,45.55
+Bihar,groundnut,Rabi,9.29,627.32,259.66,39.47
+Madhya Pradesh,soybean,Zaid,17.46,2971.77,230.84,55.43
+Punjab,groundnut,Rabi,11.21,854.11,340.35,49.77
+Andhra Pradesh,coriander,Kharif,19.48,977.64,110.99,38.03
+Rajasthan,wheat,Rabi,1.31,1291.47,303.06,52.17
+Assam,tea,Zaid,12.77,870.12,97.58,34.44
+West Bengal,maize,Zaid,8.82,1540.9,152.06,44.57
+Tamil Nadu,sugarcane,Rabi,12.85,1028.23,69.68,82.4
+Punjab,turmeric,Rabi,1.86,1727.73,74.14,42.68
+Madhya Pradesh,soybean,Kharif,16.81,1303.29,56.1,35.41
+Rajasthan,millet,Kharif,5.31,2696.14,47.39,37.92
+Tamil Nadu,maize,Rabi,14.32,1091.0,130.59,32.84
+Odisha,wheat,Zaid,9.76,1431.4,186.42,48.58
+Bihar,tea,Rabi,11.66,978.48,272.28,39.26
+Assam,cumin,Rabi,1.83,744.78,334.91,33.38
+Andhra Pradesh,maize,Rabi,1.76,356.62,183.95,36.16
+Maharashtra,cotton,Rabi,6.74,2414.99,292.79,49.55
+Bihar,cumin,Kharif,18.85,1748.57,58.88,31.21
+West Bengal,coriander,Zaid,17.07,2721.16,320.18,53.76
+Haryana,maize,Rabi,14.96,1206.22,258.22,47.65
+Uttar Pradesh,tea,Zaid,1.66,2592.46,145.1,43.79
+West Bengal,groundnut,Zaid,4.36,2659.44,185.77,56.26
+Bihar,cotton,Zaid,8.54,1761.97,124.36,39.19
+Rajasthan,cumin,Kharif,9.21,729.69,145.13,20.57
+Tamil Nadu,turmeric,Zaid,1.7,889.28,53.29,37.94
+Kerala,coriander,Kharif,14.76,2438.11,122.38,43.34
+Uttar Pradesh,pulses,Rabi,7.55,959.65,71.03,26.93
+Punjab,millet,Rabi,7.23,1437.24,317.86,44.83
+Uttar Pradesh,coriander,Kharif,13.55,2571.94,152.99,48.53
+Tamil Nadu,cotton,Rabi,15.51,1738.71,178.01,40.16
+Telangana,chilli,Rabi,4.63,2458.75,320.31,48.92
+Rajasthan,groundnut,Rabi,18.99,2854.53,43.75,54.97
+Karnataka,pulses,Kharif,8.67,2524.31,328.7,48.96
+Odisha,groundnut,Kharif,15.77,1167.47,87.17,36.43
+Odisha,groundnut,Zaid,3.94,1190.63,64.34,33.84
+Tamil Nadu,groundnut,Zaid,2.6,1898.51,291.78,55.67
+Bihar,sugarcane,Rabi,19.65,2407.59,40.36,87.26
+Andhra Pradesh,turmeric,Kharif,7.98,1072.06,106.78,35.28
+Punjab,pulses,Zaid,8.24,864.6,331.53,33.1
+Rajasthan,turmeric,Zaid,5.6,1181.87,230.42,37.53
+Assam,tea,Zaid,13.89,471.73,250.99,34.07
+Punjab,rice,Rabi,19.82,1677.62,64.22,46.58
+Andhra Pradesh,rice,Rabi,2.98,604.39,281.75,47.68
+Odisha,ginger,Rabi,13.04,558.25,51.48,28.97
+Odisha,ginger,Kharif,7.6,658.07,130.98,33.83
+Madhya Pradesh,pulses,Rabi,9.55,2749.05,338.77,46.91
+Karnataka,cotton,Zaid,15.92,1222.18,254.93,42.2
+Odisha,ginger,Kharif,4.89,928.39,339.26,46.45
+Assam,pulses,Rabi,5.79,932.53,247.44,26.83
+West Bengal,coffee,Kharif,7.07,1910.73,75.56,34.37
+Tamil Nadu,cotton,Rabi,14.92,2618.07,140.18,46.63
+Kerala,groundnut,Zaid,19.85,1307.37,107.07,40.65
+Andhra Pradesh,maize,Rabi,16.07,2395.32,321.97,54.96
+Kerala,cumin,Rabi,11.13,489.79,50.71,18.97
+Maharashtra,wheat,Zaid,19.48,2603.15,124.35,57.17
+West Bengal,cumin,Kharif,14.51,2837.34,133.29,41.08
+Andhra Pradesh,cotton,Zaid,15.02,1391.52,302.49,35.51
+Karnataka,chilli,Kharif,16.06,370.81,50.13,26.75
+Punjab,turmeric,Kharif,7.55,1044.74,207.91,46.86
+Madhya Pradesh,cotton,Kharif,18.78,1748.98,111.63,33.57
+Uttar Pradesh,soybean,Kharif,12.96,1340.66,116.12,42.47
+Uttar Pradesh,soybean,Rabi,8.6,2185.6,326.41,55.39
+Bihar,rice,Zaid,11.84,1235.42,110.07,39.58
+Tamil Nadu,groundnut,Zaid,12.09,1362.43,242.35,45.89
+Madhya Pradesh,coffee,Rabi,13.05,2065.54,276.72,44.38
+Bihar,chilli,Zaid,19.8,1532.66,323.61,49.74
+Karnataka,rice,Zaid,19.91,1012.24,244.13,53.15
+Haryana,cumin,Kharif,11.09,673.37,44.52,23.26
+Madhya Pradesh,millet,Kharif,15.65,1039.4,140.41,28.4
+Madhya Pradesh,groundnut,Rabi,16.64,1664.69,283.49,50.98
+Kerala,millet,Rabi,11.07,2584.73,308.65,53.07
+Telangana,chilli,Rabi,8.79,2113.12,124.79,41.03
+Rajasthan,ginger,Rabi,18.57,303.47,120.44,27.92
+Karnataka,maize,Rabi,19.29,719.69,313.97,47.54
+Odisha,groundnut,Zaid,15.48,2516.64,79.91,51.27
+West Bengal,cotton,Kharif,11.66,1469.01,261.65,42.2
+Kerala,rice,Kharif,6.74,1887.13,258.3,54.19
+Tamil Nadu,rice,Rabi,15.27,1208.58,211.59,49.36
+Assam,coffee,Zaid,9.74,2469.1,105.68,44.72
+Uttar Pradesh,coriander,Zaid,3.14,1015.01,104.73,33.81
+Haryana,coffee,Kharif,7.71,1614.08,332.36,43.7
+Rajasthan,turmeric,Zaid,9.89,2279.76,207.94,48.5
+Assam,rice,Kharif,17.24,2414.47,202.63,57.89
+Telangana,wheat,Zaid,15.45,1545.67,227.79,53.95
+Punjab,millet,Rabi,13.27,2037.83,193.23,45.57
+Uttar Pradesh,turmeric,Kharif,14.05,899.14,139.39,34.36
+Odisha,maize,Kharif,4.15,2294.52,281.07,54.95
+Assam,cotton,Kharif,15.58,2622.84,277.97,50.17
+Haryana,groundnut,Rabi,3.3,2490.85,292.35,53.88
+Uttar Pradesh,millet,Kharif,14.99,1326.53,286.06,42.15
+Maharashtra,groundnut,Zaid,14.64,962.28,43.3,36.29
+West Bengal,rice,Kharif,5.26,606.17,223.17,44.5
+Rajasthan,millet,Zaid,3.3,2487.89,251.68,55.83
+Karnataka,coffee,Kharif,9.39,1470.71,237.39,39.15
+Andhra Pradesh,tea,Rabi,15.74,1495.34,126.71,40.1
+West Bengal,pulses,Kharif,2.97,385.92,233.32,25.83
+Odisha,tea,Rabi,17.75,460.69,266.19,32.7
+Telangana,coriander,Kharif,1.98,1499.28,113.34,33.29
+Kerala,tea,Rabi,9.7,2997.1,347.96,56.78
+Telangana,turmeric,Rabi,16.22,2547.5,89.47,53.79
+Telangana,chilli,Kharif,12.28,1334.18,306.71,44.22
+Madhya Pradesh,turmeric,Rabi,16.72,1782.76,185.49,46.54
+Rajasthan,maize,Zaid,11.69,2414.51,173.66,50.87
+Bihar,soybean,Rabi,6.75,2388.89,55.09,42.12
+Madhya Pradesh,turmeric,Kharif,18.89,2795.64,276.16,54.62
+Uttar Pradesh,pulses,Rabi,16.04,1992.93,125.35,32.4
+Kerala,groundnut,Rabi,11.04,1054.99,256.64,40.12
+Punjab,soybean,Zaid,3.48,366.44,279.78,36.87
+Assam,maize,Kharif,7.96,649.66,257.39,35.87
+Andhra Pradesh,maize,Zaid,7.27,2730.74,41.55,45.49
+Tamil Nadu,cumin,Rabi,7.3,494.58,150.34,24.05
+Uttar Pradesh,tea,Rabi,1.89,1117.45,162.25,36.43
+Haryana,cotton,Kharif,15.96,2267.17,198.95,37.44
+Haryana,groundnut,Zaid,19.7,1545.85,228.62,48.0
+Rajasthan,sugarcane,Zaid,7.16,2617.54,107.78,97.72
+Punjab,millet,Rabi,8.39,2051.36,73.16,39.45
+Haryana,cumin,Kharif,18.99,1107.97,171.56,26.45
+Kerala,tea,Rabi,18.73,616.85,349.56,36.09
+Odisha,soybean,Zaid,17.39,1338.36,80.98,38.29
+Madhya Pradesh,tea,Zaid,16.01,2557.88,179.23,40.24
+Rajasthan,chilli,Kharif,16.72,2552.71,80.35,45.66
+Andhra Pradesh,tea,Zaid,2.94,645.29,318.87,33.89
+Bihar,wheat,Rabi,9.44,1603.09,297.37,52.49
+Karnataka,chilli,Zaid,8.77,2054.65,314.09,45.18
+Uttar Pradesh,wheat,Rabi,9.08,2867.82,241.99,58.71
+Tamil Nadu,cumin,Kharif,13.25,1112.52,45.82,23.21
+Kerala,wheat,Kharif,6.2,1850.61,175.35,56.48
+Telangana,cumin,Kharif,11.52,2376.5,164.29,39.26
+Karnataka,pulses,Zaid,7.58,2624.31,76.92,36.8
+Telangana,turmeric,Rabi,17.94,2178.93,233.23,50.95
+Haryana,wheat,Zaid,18.57,2753.09,254.76,61.21
+Karnataka,tea,Kharif,1.14,2382.48,107.2,37.49
+Bihar,wheat,Rabi,12.84,393.81,66.48,33.63
+Punjab,tea,Zaid,3.85,2432.46,157.17,46.57
+Rajasthan,soybean,Zaid,1.93,416.85,68.5,30.41
+Tamil Nadu,ginger,Zaid,7.66,1722.04,180.13,47.53
+Madhya Pradesh,wheat,Kharif,5.98,372.13,169.17,34.99
+Rajasthan,cotton,Kharif,4.75,1444.09,179.6,38.01
+Madhya Pradesh,millet,Rabi,7.47,2326.99,169.24,48.09
+Karnataka,ginger,Kharif,5.58,2306.33,285.44,57.73
+Assam,chilli,Kharif,12.56,532.89,107.07,30.41
+Odisha,ginger,Zaid,12.71,2052.48,337.4,54.51
+Uttar Pradesh,turmeric,Kharif,4.54,2742.59,72.74,49.15
+Uttar Pradesh,coriander,Zaid,7.04,1519.97,308.97,40.24
+Bihar,rice,Zaid,18.9,718.23,126.14,42.45
+Uttar Pradesh,groundnut,Kharif,13.21,1087.65,253.55,43.82
+Andhra Pradesh,tea,Rabi,5.39,1072.08,186.62,34.81
+Karnataka,turmeric,Kharif,1.33,2850.39,131.08,53.57
+Maharashtra,wheat,Zaid,4.57,1469.8,340.89,51.38
+West Bengal,groundnut,Rabi,1.33,1787.09,102.84,41.45
+Kerala,soybean,Zaid,15.94,1622.33,66.0,42.37
+Andhra Pradesh,cotton,Rabi,11.92,1195.75,258.62,43.62
+West Bengal,maize,Kharif,2.73,1404.41,170.97,43.96
+Bihar,coriander,Kharif,19.6,1133.35,121.83,32.47
+Karnataka,ginger,Zaid,3.01,410.71,118.14,26.62
+Karnataka,chilli,Zaid,6.29,1871.25,78.1,43.45
+Kerala,soybean,Kharif,16.46,487.63,146.02,31.51
+Rajasthan,pulses,Rabi,12.23,1426.04,263.5,36.31
+West Bengal,cumin,Kharif,14.56,2362.31,182.26,33.73
+Haryana,soybean,Rabi,9.84,1637.22,92.35,43.24
+West Bengal,rice,Zaid,5.22,2812.69,194.22,62.14
+Punjab,soybean,Rabi,10.67,1812.69,249.0,42.72
+Maharashtra,chilli,Rabi,14.47,885.51,300.5,40.83
+Madhya Pradesh,rice,Rabi,15.1,2147.63,212.13,59.52
+Telangana,groundnut,Rabi,8.63,2555.86,306.03,56.14
+Punjab,coriander,Zaid,19.38,1212.6,218.88,28.62
+Haryana,rice,Rabi,2.73,619.55,65.15,35.93
+Assam,tea,Zaid,10.5,1867.85,348.25,44.11
+Assam,cumin,Rabi,13.31,1087.49,142.52,26.32
+Rajasthan,sugarcane,Zaid,6.29,2153.17,261.57,97.58
+Telangana,millet,Zaid,19.43,1441.97,309.15,44.4
+Punjab,wheat,Rabi,5.51,1039.17,215.71,45.49
+Odisha,coriander,Zaid,19.71,1453.49,249.23,34.05
+Madhya Pradesh,rice,Zaid,12.59,835.35,115.88,34.85
+West Bengal,rice,Rabi,18.55,2578.38,156.03,57.32
+Maharashtra,soybean,Zaid,7.09,1111.92,162.05,40.06
+Assam,cumin,Kharif,8.82,1116.28,145.01,32.78
+West Bengal,wheat,Zaid,11.55,357.9,146.49,36.21
+Punjab,wheat,Zaid,5.62,1335.17,337.45,52.95
+Tamil Nadu,chilli,Rabi,6.69,1291.47,270.63,43.0
+Haryana,groundnut,Kharif,4.13,2201.57,49.15,44.83
+Uttar Pradesh,pulses,Zaid,16.9,314.28,102.83,25.83
+Uttar Pradesh,cumin,Zaid,19.45,2877.88,252.32,46.73
+Bihar,wheat,Kharif,10.2,2709.73,78.14,54.79
+West Bengal,coriander,Kharif,14.09,360.54,256.87,34.17
+Rajasthan,millet,Kharif,3.89,1426.33,322.99,48.81
+Telangana,chilli,Zaid,2.07,1076.09,276.99,39.74
+Punjab,millet,Kharif,7.8,1796.61,182.17,44.42
+Odisha,coriander,Kharif,16.7,1329.44,347.3,46.17
+Karnataka,cumin,Rabi,1.29,1335.52,329.91,42.86
+Odisha,turmeric,Zaid,6.81,2729.97,169.83,51.92
+Telangana,coriander,Kharif,7.93,2913.24,255.99,49.15
+Bihar,chilli,Rabi,10.03,1030.19,117.66,37.46
+Uttar Pradesh,millet,Zaid,10.53,1242.25,291.98,42.29
+Haryana,rice,Kharif,13.19,1919.34,301.95,61.34
+Tamil Nadu,tea,Zaid,7.15,1248.74,321.87,36.15
+Bihar,chilli,Kharif,11.56,2134.57,301.29,50.67
+Punjab,rice,Rabi,10.45,684.98,237.83,43.81
+Karnataka,pulses,Kharif,2.24,2421.45,233.75,47.58
+Uttar Pradesh,maize,Rabi,2.75,1281.56,74.3,34.83
+Karnataka,rice,Zaid,9.16,1299.86,345.21,53.81
+Maharashtra,coriander,Rabi,17.59,1206.48,119.82,29.39
+Maharashtra,cotton,Rabi,5.47,2394.36,89.95,35.87
+Telangana,millet,Zaid,1.13,1629.29,44.46,40.82
+Punjab,soybean,Rabi,11.15,2127.08,342.07,48.9
+Rajasthan,pulses,Zaid,16.88,2935.91,310.46,54.1
+Bihar,turmeric,Kharif,19.53,1713.62,199.5,48.34
+Uttar Pradesh,rice,Zaid,3.74,2629.85,172.27,59.16
+Madhya Pradesh,rice,Zaid,14.69,802.91,303.16,50.57
+Kerala,pulses,Kharif,7.33,901.94,299.24,37.19
+Andhra Pradesh,rice,Zaid,16.89,1712.78,276.43,50.55
+Uttar Pradesh,chilli,Rabi,10.81,1949.42,156.98,46.15
+Karnataka,tea,Kharif,18.66,636.39,161.36,30.83
+Rajasthan,pulses,Rabi,12.71,2263.38,147.59,34.21
+Maharashtra,turmeric,Rabi,2.65,1294.4,231.49,49.68
+Uttar Pradesh,rice,Zaid,7.41,399.37,130.2,40.11
+Telangana,cumin,Kharif,9.38,508.12,139.75,22.05
+Assam,turmeric,Kharif,2.8,556.97,205.54,36.86
+Punjab,sugarcane,Zaid,17.65,2860.07,212.9,101.41
+Maharashtra,soybean,Rabi,9.04,1426.39,128.15,38.65
+Bihar,rice,Zaid,8.63,1885.72,312.92,55.49
+Bihar,cumin,Rabi,10.4,2932.19,319.98,51.49
+Karnataka,rice,Zaid,6.26,2765.38,337.23,69.4
+Karnataka,cotton,Kharif,12.25,403.78,281.87,35.91
+Maharashtra,cumin,Rabi,11.14,2812.13,234.65,43.67
+Rajasthan,chilli,Zaid,4.64,634.62,307.2,42.55
+Punjab,cumin,Rabi,17.75,1634.94,41.7,30.32
+Karnataka,cotton,Rabi,11.23,524.71,134.18,26.94
+Kerala,millet,Kharif,5.14,2172.39,177.94,43.09
+West Bengal,soybean,Kharif,4.21,1962.52,291.6,54.39
+Tamil Nadu,sugarcane,Rabi,3.46,2491.98,210.92,98.67
+Haryana,chilli,Zaid,13.92,469.47,238.56,30.0
+Karnataka,rice,Rabi,4.17,2074.22,198.22,54.86
+Andhra Pradesh,wheat,Zaid,15.44,1333.6,94.92,39.8
+Rajasthan,ginger,Rabi,3.62,2886.67,83.8,49.98
+Andhra Pradesh,cumin,Kharif,14.38,603.86,171.82,28.35
+Punjab,rice,Rabi,10.88,821.78,319.54,46.11
+Uttar Pradesh,maize,Zaid,13.63,2168.69,64.71,41.82
+Telangana,ginger,Kharif,18.87,2674.63,200.84,51.67
+Andhra Pradesh,pulses,Kharif,9.35,2210.21,92.1,37.85
+Punjab,ginger,Zaid,13.24,2779.07,66.11,52.96
+West Bengal,pulses,Kharif,6.44,641.3,41.26,24.23
+Odisha,cotton,Zaid,5.4,2615.64,117.99,53.02
+Rajasthan,ginger,Zaid,15.62,2150.93,165.5,43.9
+West Bengal,rice,Kharif,5.42,1622.57,324.67,60.96
+Rajasthan,pulses,Rabi,6.54,1956.0,96.24,30.09
+Uttar Pradesh,rice,Rabi,11.28,669.65,158.18,43.52
